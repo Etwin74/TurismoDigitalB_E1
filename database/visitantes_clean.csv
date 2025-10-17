@@ -1,0 +1,3026 @@
+id_visitante,pais_origen,edad,genero,destino,region,fecha_visita,dias_estadia,gasto_total,medio_transporte
+V0001,México,48,F,Huacachina,Ica,2024-04-10,,3612.57,Bus
+V0002,Colombia,65,,Chan Chan,La Libertad,2024-07-23,,2664.96,
+V0003,Bolivia,,O,Machu Picchu,Cusco,,,398.83,Bus
+V0004,Chile,,O,Machu Picchu,Cusco,,,,Tren
+V0005,USA,63,,Chan Chan,La Libertad,,,4680.28,Tren
+V0006,México,29,,Chan Chan,La Libertad,2024-02-28,,4099.8,NA
+V0007,Perú,,M,Valle del Colca,Arequipa,,,,Avión
+V0008,Perú,16,,Centro Histórico,Lima,2024-06-09,14,,Barco
+V0009,Perú,25,F,Lago Titicaca,Puno,2025-10-01,7,1384.77,Barco
+V0010,Francia,,M,Lago Titicaca,Puno,,,,Bus
+V0011,Perú,,,Cusco Ciudad,Cusco,,,1914.14,Bus
+V0012,Colombia,,,Lago Titicaca,Puno,NA,,4631.96,Auto
+V0013,Chile,,,Lago Titicaca,Puno,NA,,833.31,Avión
+V0014,Brasil,,,Centro Histórico,Lima,,,4563.18,Bus
+V0015,Chile,,M,Machu Picchu,Cusco,,13,2904.52,Barco
+V0016,Perú,,M,Cusco Ciudad,Cusco,,,,
+V0017,Colombia,62,,Chan Chan,La Libertad,,11,,
+V0018,Perú,,O,Lago Titicaca,Puno,NA,14,,
+V0019,Perú,,M,Huacachina,Ica,,9,1187.38,NA
+V0020,USA,,,Iquitos,Loreto,NA,10,689.2,Avión
+V0021,Colombia,,,Miraflores,Lima,NA,9,4824.54,
+V0022,México,,O,Chan Chan,La Libertad,2024-11-21,,1588.29,NA
+V0023,Perú,31,,Huacachina,Ica,,7,2591.46,Avión
+V0024,Brasil,,,Lago Titicaca,Puno,,,3772.77,
+V0025,Perú,57,,Huacachina,Ica,2025-02-10,,2927.74,Auto
+V0026,USA,,F,Huacachina,Ica,,14,,Avión
+V0027,Perú,,,Huacachina,Ica,2024-03-05,11,3425.01,Tren
+V0028,Colombia,,O,Miraflores,Lima,NA,2,298.26,Barco
+V0029,USA,56,,Valle del Colca,Arequipa,NA,,,NA
+V0030,Ecuador,,M,Huacachina,Ica,,6,3261.99,Tren
+V0031,México,31,O,Iquitos,Loreto,2024-07-19,,,Avión
+V0032,Perú,,F,Chan Chan,La Libertad,,,3529.88,NA
+V0033,España,,M,Iquitos,Loreto,NA,13,165.48,Bus
+V0034,Perú,49,,Iquitos,Loreto,2025-07-10,14,,Avión
+V0035,México,,O,Centro Histórico,Lima,,4,470.47,Bus
+V0036,Perú,,F,Cusco Ciudad,Cusco,2025-12-05,2,3485.03,Avión
+V0037,Perú,,M,Chan Chan,La Libertad,,13,,Avión
+V0038,Chile,65,F,Huacachina,Ica,,,4373.79,NA
+V0039,Perú,41,F,Cusco Ciudad,Cusco,NA,1,765.81,NA
+V0040,Perú,,,Chan Chan,La Libertad,NA,,,Barco
+V0041,Chile,,,Huacachina,Ica,2024-05-12,,,Tren
+V0042,Perú,,,Cusco Ciudad,Cusco,2024-12-14,2,2881.89,Auto
+V0043,Brasil,,F,Huacachina,Ica,,,,
+V0044,México,,M,Huacachina,Ica,2024-12-05,,1675.87,NA
+V0045,Bolivia,,,Huacachina,Ica,,9,1547.99,NA
+V0046,Perú,,M,Centro Histórico,Lima,NA,,,
+V0047,Argentina,,,Huacachina,Ica,NA,10,1853.84,Avión
+V0048,USA,,,Iquitos,Loreto,,3,,Bus
+V0049,Chile,68,M,Cusco Ciudad,Cusco,2025-06-02,1,,NA
+V0050,Colombia,41,F,Iquitos,Loreto,NA,4,3731.28,NA
+V0051,Perú,,O,Iquitos,Loreto,NA,3,,NA
+V0052,Chile,,F,Iquitos,Loreto,2025-10-10,5,4182.88,Bus
+V0053,Perú,,,Huacachina,Ica,NA,7,,Tren
+V0054,Alemania,,O,Lago Titicaca,Puno,NA,,,Avión
+V0055,Chile,30,O,Miraflores,Lima,NA,,1602.72,Barco
+V0056,Perú,,O,Machu Picchu,Cusco,2024-07-08,,633.49,Auto
+V0057,Perú,,M,Valle del Colca,Arequipa,NA,1,4729.5,Tren
+V0058,Brasil,,F,Chan Chan,La Libertad,2024-06-28,14,800.19,Auto
+V0059,Perú,48,,Iquitos,Loreto,2024-03-22,,2000.65,Avión
+V0060,Perú,,O,Chan Chan,La Libertad,,,,Avión
+V0061,Perú,,F,Iquitos,Loreto,,,1627.13,NA
+V0062,Perú,,M,Iquitos,Loreto,,,3437.2,NA
+V0063,Perú,,M,Valle del Colca,Arequipa,,,2941.6,Barco
+V0064,Perú,,M,Lago Titicaca,Puno,2025-03-14,7,,NA
+V0065,Perú,,M,Chan Chan,La Libertad,,10,3853.97,NA
+V0066,Colombia,,,Iquitos,Loreto,2025-06-27,,1954.26,Bus
+V0067,USA,,M,Chan Chan,La Libertad,,,3793.65,
+V0068,México,,O,Miraflores,Lima,,,,Tren
+V0069,USA,,F,Cusco Ciudad,Cusco,2024-11-07,,,
+V0070,Perú,42,,Lago Titicaca,Puno,NA,3,,Barco
+V0071,Chile,31,M,Lago Titicaca,Puno,2024-09-15,,4584.28,Barco
+V0072,USA,,M,Valle del Colca,Arequipa,NA,,,Avión
+V0073,Perú,,,Lago Titicaca,Puno,,7,1374.33,Barco
+V0074,Perú,,M,Valle del Colca,Arequipa,2025-08-06,10,,
+V0075,Colombia,,,Lago Titicaca,Puno,2024-10-11,7,626.1,Auto
+V0076,México,,M,Valle del Colca,Arequipa,2024-03-28,,3030.23,Tren
+V0077,Argentina,,O,Miraflores,Lima,,2,2255.49,Avión
+V0078,México,72,F,Chan Chan,La Libertad,,,,Auto
+V0079,México,,,Miraflores,Lima,2025-04-05,7,1813.9,
+V0080,Ecuador,,M,Iquitos,Loreto,,12,,Auto
+V0081,Ecuador,62,F,Lago Titicaca,Puno,,9,,NA
+V0082,Colombia,,M,Chan Chan,La Libertad,,,,Barco
+V0083,Perú,,,Huacachina,Ica,,6,,Bus
+V0084,Colombia,,O,Lago Titicaca,Puno,2024-09-18,6,163.1,Bus
+V0085,Perú,67,M,Miraflores,Lima,2024-06-09,,,
+V0086,Brasil,27,O,Lago Titicaca,Puno,NA,,4887.82,Barco
+V0087,México,28,,Machu Picchu,Cusco,,13,2068.45,Tren
+V0088,Colombia,,M,Valle del Colca,Arequipa,,5,,Tren
+V0089,Perú,,,Chan Chan,La Libertad,NA,,3882.82,
+V0090,Brasil,,O,Chan Chan,La Libertad,,6,1040.54,Auto
+V0091,Ecuador,,F,Lago Titicaca,Puno,,,,Avión
+V0092,Chile,,F,Lago Titicaca,Puno,NA,,2703.91,Avión
+V0093,Colombia,,O,Huacachina,Ica,,,4755.03,NA
+V0094,Perú,,,Centro Histórico,Lima,,,1191.86,Tren
+V0095,Perú,68,F,Lago Titicaca,Puno,NA,,919.45,Bus
+V0096,España,16,F,Iquitos,Loreto,,14,,Barco
+V0097,Brasil,41,,Chan Chan,La Libertad,2024-01-06,8,,Auto
+V0098,Ecuador,56,M,Miraflores,Lima,,11,4402.07,Avión
+V0099,México,38,O,Machu Picchu,Cusco,,12,,NA
+V0100,USA,19,,Valle del Colca,Arequipa,2025-10-27,,3619.34,Avión
+V0101,Perú,,,Valle del Colca,Arequipa,2025-07-01,,3618.52,NA
+V0102,Colombia,45,F,Miraflores,Lima,,,3386.45,Tren
+V0103,Perú,,F,Lago Titicaca,Puno,2024-10-29,,3310.79,Bus
+V0104,Colombia,,,Valle del Colca,Arequipa,NA,13,,
+V0105,Brasil,,,Cusco Ciudad,Cusco,,13,,
+V0106,USA,,M,Lago Titicaca,Puno,2024-05-03,,4868.0,Bus
+V0107,Colombia,,,Chan Chan,La Libertad,NA,3,2387.45,Avión
+V0108,Chile,,,Iquitos,Loreto,2025-07-12,14,,Avión
+V0109,México,63,F,Iquitos,Loreto,,,,Barco
+V0110,México,,M,Valle del Colca,Arequipa,,10,84.41,Bus
+V0111,Perú,,O,Lago Titicaca,Puno,,,2736.15,
+V0112,Perú,,F,Huacachina,Ica,,,,Bus
+V0113,Alemania,66,,Lago Titicaca,Puno,,8,,Barco
+V0114,México,,M,Iquitos,Loreto,,12,367.02,Bus
+V0115,Argentina,,O,Machu Picchu,Cusco,2024-06-05,,,Auto
+V0116,Brasil,28,M,Iquitos,Loreto,,8,2486.95,Bus
+V0117,Argentina,,,Lago Titicaca,Puno,,,,Barco
+V0118,Argentina,,,Miraflores,Lima,NA,,,NA
+V0119,Francia,,F,Chan Chan,La Libertad,,,2962.39,Barco
+V0120,Argentina,,O,Lago Titicaca,Puno,,,,Barco
+V0121,Colombia,,F,Valle del Colca,Arequipa,,10,2321.82,Auto
+V0122,Argentina,47,O,Iquitos,Loreto,NA,,224.9,Bus
+V0123,Perú,,,Cusco Ciudad,Cusco,,3,,Bus
+V0124,Colombia,27,,Huacachina,Ica,NA,,778.91,Bus
+V0125,Chile,28,O,Valle del Colca,Arequipa,2025-07-09,,,Auto
+V0126,Perú,,M,Lago Titicaca,Puno,NA,4,2746.37,Barco
+V0127,Perú,49,O,Chan Chan,La Libertad,2024-06-13,,1596.24,Bus
+V0128,Ecuador,,F,Miraflores,Lima,,,2874.3,Tren
+V0129,USA,55,M,Iquitos,Loreto,NA,,,Bus
+V0130,Colombia,,F,Chan Chan,La Libertad,2025-09-02,,3871.43,Auto
+V0131,USA,18,O,Miraflores,Lima,2024-11-27,,4036.54,Avión
+V0132,USA,,M,Huacachina,Ica,,3,2800.98,NA
+V0133,Perú,45,O,Miraflores,Lima,NA,,2878.93,
+V0134,México,,F,Valle del Colca,Arequipa,2024-09-04,3,1667.51,Tren
+V0135,Alemania,23,F,Chan Chan,La Libertad,2024-08-17,14,687.75,NA
+V0136,Francia,,,Centro Histórico,Lima,NA,,,
+V0137,Perú,41,,Lago Titicaca,Puno,NA,9,588.87,Avión
+V0138,Chile,25,,Chan Chan,La Libertad,2025-10-07,8,,Barco
+V0139,México,,,Cusco Ciudad,Cusco,2025-05-14,,351.12,Bus
+V0140,Perú,,,Huacachina,Ica,,,884.05,Tren
+V0141,Perú,22,O,Iquitos,Loreto,,9,,Tren
+V0142,Ecuador,,M,Huacachina,Ica,NA,,1119.77,NA
+V0143,USA,,,Valle del Colca,Arequipa,,,,Barco
+V0144,Perú,,,Lago Titicaca,Puno,,6,3412.46,Avión
+V0145,Argentina,61,,Iquitos,Loreto,NA,,,Barco
+V0146,Perú,,F,Huacachina,Ica,,,3866.32,Bus
+V0147,Perú,,,Valle del Colca,Arequipa,2024-07-04,,392.02,Barco
+V0148,Chile,,,Cusco Ciudad,Cusco,2024-02-24,,2024.88,
+V0149,Perú,,O,Lago Titicaca,Puno,NA,,,NA
+V0150,Argentina,,F,Huacachina,Ica,NA,4,,Avión
+V0151,Argentina,24,,Lago Titicaca,Puno,2025-03-06,,918.87,NA
+V0152,Perú,,,Huacachina,Ica,,,3861.21,Barco
+V0153,Brasil,,M,Chan Chan,La Libertad,,,,
+V0154,Argentina,42,O,Machu Picchu,Cusco,2025-11-10,,1992.83,Bus
+V0155,México,32,,Huacachina,Ica,2025-08-09,,3626.25,NA
+V0156,Francia,,F,Huacachina,Ica,2024-05-02,,,Barco
+V0157,Colombia,,O,Iquitos,Loreto,2025-12-03,,,Avión
+V0158,México,,,Valle del Colca,Arequipa,2024-09-30,,,Barco
+V0159,Colombia,20,M,Huacachina,Ica,2024-03-04,,3833.16,
+V0160,Chile,,M,Cusco Ciudad,Cusco,NA,,3540.92,
+V0161,Chile,,,Centro Histórico,Lima,2024-01-09,7,1896.23,Bus
+V0162,Argentina,,M,Lago Titicaca,Puno,NA,,1127.06,
+V0163,Alemania,,,Centro Histórico,Lima,NA,,,Auto
+V0164,Perú,54,O,Valle del Colca,Arequipa,,,,
+V0165,Perú,,,Lago Titicaca,Puno,NA,,2375.05,Auto
+V0166,Bolivia,21,F,Centro Histórico,Lima,2025-05-31,5,,Tren
+V0167,Perú,,,Chan Chan,La Libertad,,12,,Auto
+V0168,USA,55,,Huacachina,Ica,NA,,569.34,Bus
+V0169,Perú,,,Lago Titicaca,Puno,2025-08-16,,3102.21,Barco
+V0170,México,,O,Iquitos,Loreto,NA,6,,NA
+V0171,Perú,,F,Valle del Colca,Arequipa,NA,6,,NA
+V0172,México,,,Miraflores,Lima,NA,6,1373.37,Auto
+V0173,Ecuador,42,O,Iquitos,Loreto,,,,
+V0174,Colombia,,,Iquitos,Loreto,,,,Avión
+V0175,USA,,O,Miraflores,Lima,NA,,,Barco
+V0176,Bolivia,39,M,Cusco Ciudad,Cusco,NA,,831.08,Barco
+V0177,Brasil,63,,Chan Chan,La Libertad,NA,11,4521.55,Auto
+V0178,Perú,47,,Miraflores,Lima,,,,
+V0179,Argentina,,O,Iquitos,Loreto,2025-09-30,,,Auto
+V0180,Perú,,,Huacachina,Ica,NA,9,947.8,Bus
+V0181,Colombia,,O,Iquitos,Loreto,NA,,,Tren
+V0182,México,,,Centro Histórico,Lima,,,,Bus
+V0183,España,,,Iquitos,Loreto,2024-11-03,6,2076.99,
+V0184,Alemania,70,F,Valle del Colca,Arequipa,NA,11,,Auto
+V0185,Perú,15,M,Miraflores,Lima,NA,8,4197.78,Avión
+V0186,Brasil,73,F,Centro Histórico,Lima,,13,4872.86,Barco
+V0187,Brasil,,O,Centro Histórico,Lima,,10,1079.59,Barco
+V0188,México,,O,Huacachina,Ica,2025-04-15,,,Bus
+V0189,Perú,28,,Machu Picchu,Cusco,,5,,Avión
+V0190,Argentina,,,Iquitos,Loreto,2024-12-05,,,Avión
+V0191,Colombia,,,Cusco Ciudad,Cusco,,7,3588.23,NA
+V0192,Bolivia,,O,Lago Titicaca,Puno,,4,,Tren
+V0193,México,,M,Valle del Colca,Arequipa,,,1059.55,Avión
+V0194,Colombia,28,,Lago Titicaca,Puno,,,,Avión
+V0195,Perú,29,M,Cusco Ciudad,Cusco,NA,,,NA
+V0196,Perú,60,F,Chan Chan,La Libertad,NA,,275.24,Barco
+V0197,Perú,40,F,Centro Histórico,Lima,2025-07-05,5,,Barco
+V0198,Perú,,M,Iquitos,Loreto,,,2699.86,Bus
+V0199,Chile,,,Lago Titicaca,Puno,2024-03-28,10,4175.94,
+V0200,Brasil,,M,Valle del Colca,Arequipa,,4,,Bus
+V0201,Brasil,38,F,Machu Picchu,Cusco,,,,Avión
+V0202,México,,M,Chan Chan,La Libertad,2024-02-13,12,2861.77,Auto
+V0203,Perú,,M,Chan Chan,La Libertad,NA,3,1672.12,Auto
+V0204,Perú,,F,Machu Picchu,Cusco,,,,
+V0205,Perú,36,,Lago Titicaca,Puno,,9,1912.23,Auto
+V0206,México,52,,Cusco Ciudad,Cusco,NA,,,Tren
+V0207,Perú,66,,Cusco Ciudad,Cusco,NA,8,,Avión
+V0208,Colombia,72,M,Miraflores,Lima,2024-04-29,,2248.36,
+V0209,Colombia,67,M,Machu Picchu,Cusco,2024-12-24,5,4016.83,
+V0210,México,,F,Miraflores,Lima,2024-07-21,14,1430.64,Bus
+V0211,Brasil,,M,Iquitos,Loreto,,,,Bus
+V0212,Alemania,,F,Chan Chan,La Libertad,,9,2593.18,
+V0213,Perú,,M,Centro Histórico,Lima,,,851.15,
+V0214,USA,26,F,Lago Titicaca,Puno,2024-06-14,,,Auto
+V0215,México,,,Machu Picchu,Cusco,,,3860.38,Bus
+V0216,Perú,48,M,Valle del Colca,Arequipa,2025-12-06,12,,Bus
+V0217,Perú,,,Iquitos,Loreto,2024-04-04,,,Tren
+V0218,Perú,,O,Centro Histórico,Lima,NA,,3408.79,Barco
+V0219,Perú,21,,Lago Titicaca,Puno,NA,13,,NA
+V0220,Perú,,M,Machu Picchu,Cusco,NA,,4996.89,Barco
+V0221,México,,,Chan Chan,La Libertad,,7,4202.58,NA
+V0222,Perú,,,Valle del Colca,Arequipa,,,2584.42,Auto
+V0223,Argentina,,,Cusco Ciudad,Cusco,,,,NA
+V0224,Perú,47,F,Valle del Colca,Arequipa,,,,Tren
+V0225,México,17,O,Lago Titicaca,Puno,NA,,2143.1,Auto
+V0226,Colombia,69,,Lago Titicaca,Puno,2025-03-25,10,1416.84,Avión
+V0227,México,,,Miraflores,Lima,NA,4,3874.93,Avión
+V0228,Ecuador,,O,Huacachina,Ica,,,2221.92,NA
+V0229,USA,,,Centro Histórico,Lima,,,,Bus
+V0230,Brasil,73,O,Chan Chan,La Libertad,,12,,
+V0231,México,67,M,Huacachina,Ica,NA,,,
+V0232,Chile,,F,Lago Titicaca,Puno,,14,2657.59,Avión
+V0233,Colombia,,,Valle del Colca,Arequipa,2025-07-17,3,,Barco
+V0234,Perú,,M,Valle del Colca,Arequipa,2025-11-06,13,2957.11,
+V0235,Francia,,F,Lago Titicaca,Puno,NA,7,2539.27,Barco
+V0236,México,,,Iquitos,Loreto,NA,13,,NA
+V0237,Colombia,,,Chan Chan,La Libertad,2025-04-21,12,1978.47,
+V0238,Ecuador,26,O,Huacachina,Ica,NA,,,Auto
+V0239,Brasil,,,Valle del Colca,Arequipa,NA,14,4494.41,Tren
+V0240,Perú,,F,Cusco Ciudad,Cusco,,,4562.49,Bus
+V0241,Bolivia,,F,Huacachina,Ica,NA,10,,NA
+V0242,Bolivia,66,,Centro Histórico,Lima,2025-07-31,1,4884.56,Bus
+V0243,México,,O,Miraflores,Lima,NA,,1896.78,Tren
+V0244,Ecuador,,,Machu Picchu,Cusco,2025-05-16,12,,Barco
+V0245,México,70,F,Miraflores,Lima,2025-04-26,6,1105.84,NA
+V0246,Perú,,,Chan Chan,La Libertad,,,3960.78,Bus
+V0247,México,,O,Iquitos,Loreto,2025-06-19,14,,Bus
+V0248,Colombia,,,Centro Histórico,Lima,NA,,,Barco
+V0249,Perú,,F,Iquitos,Loreto,2025-08-19,,3155.44,Tren
+V0250,Francia,,M,Miraflores,Lima,2025-08-18,7,3504.56,Auto
+V0251,Colombia,,O,Centro Histórico,Lima,,1,,Bus
+V0252,Colombia,,F,Machu Picchu,Cusco,,13,,Avión
+V0253,España,,O,Huacachina,Ica,2024-11-03,14,1785.97,Barco
+V0254,México,,,Iquitos,Loreto,,,4730.67,Bus
+V0255,Francia,15,O,Valle del Colca,Arequipa,,,,Bus
+V0256,México,15,,Lago Titicaca,Puno,2025-05-08,1,,
+V0257,Perú,,,Iquitos,Loreto,,,150.43,Avión
+V0258,USA,,M,Iquitos,Loreto,2025-05-18,1,,Barco
+V0259,Perú,32,,Iquitos,Loreto,,,2329.72,Barco
+V0260,México,55,O,Valle del Colca,Arequipa,,1,973.89,
+V0261,Perú,,F,Valle del Colca,Arequipa,2024-05-05,,3315.36,Avión
+V0262,Perú,22,O,Chan Chan,La Libertad,NA,,,Tren
+V0263,USA,,M,Cusco Ciudad,Cusco,NA,,,Auto
+V0264,Perú,22,M,Huacachina,Ica,2025-06-10,,,NA
+V0265,Argentina,,F,Lago Titicaca,Puno,,9,1587.75,NA
+V0266,Perú,,,Machu Picchu,Cusco,,1,937.46,Avión
+V0267,México,,,Miraflores,Lima,,9,3254.71,NA
+V0268,Perú,,,Lago Titicaca,Puno,NA,,,Tren
+V0269,México,23,M,Valle del Colca,Arequipa,2025-05-04,,1925.88,Auto
+V0270,USA,,,Valle del Colca,Arequipa,2025-06-26,,338.42,NA
+V0271,México,73,,Machu Picchu,Cusco,NA,6,,Auto
+V0272,Perú,27,F,Cusco Ciudad,Cusco,2024-09-18,,3764.46,Auto
+V0273,Colombia,50,,Lago Titicaca,Puno,NA,10,591.07,Tren
+V0274,México,39,F,Lago Titicaca,Puno,NA,,1750.89,
+V0275,Bolivia,,F,Miraflores,Lima,2024-07-13,,,
+V0276,Brasil,,,Miraflores,Lima,,12,4058.96,Tren
+V0277,Ecuador,,,Iquitos,Loreto,,8,1421.03,Tren
+V0278,Perú,,,Huacachina,Ica,NA,4,,Tren
+V0279,Colombia,,,Chan Chan,La Libertad,NA,,3834.11,Barco
+V0280,Perú,,O,Huacachina,Ica,NA,2,3450.94,Bus
+V0281,México,,O,Iquitos,Loreto,NA,,4802.08,Bus
+V0282,Perú,40,M,Valle del Colca,Arequipa,2024-09-05,,,
+V0283,Chile,,M,Lago Titicaca,Puno,NA,,,Barco
+V0284,México,,,Miraflores,Lima,2025-08-06,7,4583.03,
+V0285,Perú,,F,Iquitos,Loreto,NA,,,NA
+V0286,Ecuador,69,O,Centro Histórico,Lima,,,,Tren
+V0287,Brasil,29,M,Chan Chan,La Libertad,NA,,,Barco
+V0288,Colombia,,M,Iquitos,Loreto,2024-08-12,,,Avión
+V0289,Brasil,,M,Centro Histórico,Lima,2025-09-01,12,,Barco
+V0290,Brasil,,M,Lago Titicaca,Puno,,,2830.33,Avión
+V0291,Colombia,34,F,Centro Histórico,Lima,,4,2723.71,Avión
+V0292,Perú,,,Machu Picchu,Cusco,,,,Auto
+V0293,Francia,,,Iquitos,Loreto,NA,,,
+V0294,México,29,M,Chan Chan,La Libertad,NA,13,3912.3,
+V0295,Brasil,,M,Chan Chan,La Libertad,2025-05-28,,,Auto
+V0296,Colombia,,,Valle del Colca,Arequipa,2025-04-01,,3422.32,Barco
+V0297,USA,38,,Centro Histórico,Lima,2024-10-21,,663.27,Bus
+V0298,USA,,,Iquitos,Loreto,2024-03-05,6,,
+V0299,México,,,Chan Chan,La Libertad,2025-09-01,,3835.86,Tren
+V0300,Chile,47,,Lago Titicaca,Puno,NA,6,,Barco
+V0301,USA,24,,Valle del Colca,Arequipa,2025-02-08,3,,Avión
+V0302,Colombia,75,F,Huacachina,Ica,,,3863.97,Auto
+V0303,Colombia,63,F,Huacachina,Ica,NA,1,,Auto
+V0304,Ecuador,,O,Huacachina,Ica,2024-12-27,3,,Auto
+V0305,Ecuador,,M,Chan Chan,La Libertad,,,,
+V0306,Perú,41,F,Chan Chan,La Libertad,,,,Auto
+V0307,Bolivia,,,Centro Histórico,Lima,2024-05-20,14,3774.69,Avión
+V0308,México,,M,Miraflores,Lima,2024-04-15,,2583.08,Auto
+V0309,USA,,O,Machu Picchu,Cusco,NA,,2582.11,NA
+V0310,Colombia,,F,Chan Chan,La Libertad,NA,,3656.81,Tren
+V0311,Ecuador,,,Lago Titicaca,Puno,NA,10,4736.14,Tren
+V0312,Perú,48,,Huacachina,Ica,,,3948.63,Auto
+V0313,México,23,O,Lago Titicaca,Puno,,6,,Auto
+V0314,Perú,29,M,Lago Titicaca,Puno,,7,,Avión
+V0315,México,,,Valle del Colca,Arequipa,NA,,3621.33,Avión
+V0316,Perú,,M,Miraflores,Lima,,,676.34,Bus
+V0317,Colombia,,F,Machu Picchu,Cusco,2025-07-03,10,,Barco
+V0318,Colombia,61,O,Iquitos,Loreto,,,,Auto
+V0319,Brasil,,M,Huacachina,Ica,2025-03-09,,,Tren
+V0320,Ecuador,,F,Chan Chan,La Libertad,NA,7,,Auto
+V0321,México,,F,Lago Titicaca,Puno,NA,,,Avión
+V0322,Perú,,F,Valle del Colca,Arequipa,NA,7,2609.13,Avión
+V0323,Ecuador,,F,Chan Chan,La Libertad,,2,1606.59,NA
+V0324,Brasil,,M,Lago Titicaca,Puno,NA,5,,Bus
+V0325,Ecuador,,F,Iquitos,Loreto,NA,11,,Barco
+V0326,Perú,62,O,Iquitos,Loreto,2024-10-29,5,,Bus
+V0327,Perú,72,,Cusco Ciudad,Cusco,,8,,Tren
+V0328,México,25,F,Chan Chan,La Libertad,,,,
+V0329,Colombia,61,,Chan Chan,La Libertad,2024-04-23,,4149.87,Barco
+V0330,Perú,,,Machu Picchu,Cusco,NA,11,1945.02,
+V0331,Colombia,,,Lago Titicaca,Puno,NA,13,,
+V0332,Ecuador,,M,Iquitos,Loreto,NA,8,2106.15,NA
+V0333,México,66,,Huacachina,Ica,NA,5,,Tren
+V0334,Perú,,O,Lago Titicaca,Puno,2025-01-27,3,224.19,Tren
+V0335,Perú,36,,Valle del Colca,Arequipa,NA,10,228.47,Barco
+V0336,Brasil,,,Iquitos,Loreto,2025-11-12,5,1334.01,Auto
+V0337,Perú,,F,Cusco Ciudad,Cusco,2025-07-15,,322.61,
+V0338,Argentina,,M,Centro Histórico,Lima,NA,14,1100.23,
+V0339,USA,21,,Chan Chan,La Libertad,2024-10-28,5,,
+V0340,Perú,,,Lago Titicaca,Puno,,,1120.44,Barco
+V0341,Perú,,O,Valle del Colca,Arequipa,,13,,Avión
+V0342,Perú,20,,Machu Picchu,Cusco,NA,,2933.59,NA
+V0343,Alemania,28,O,Chan Chan,La Libertad,NA,12,,Bus
+V0344,Perú,,O,Valle del Colca,Arequipa,NA,,4646.12,Barco
+V0345,México,,,Lago Titicaca,Puno,2025-11-05,1,,Bus
+V0346,Ecuador,64,,Lago Titicaca,Puno,2025-10-05,,,Avión
+V0347,Argentina,,,Lago Titicaca,Puno,NA,9,,NA
+V0348,Perú,,,Centro Histórico,Lima,,14,,Bus
+V0349,Perú,74,,Cusco Ciudad,Cusco,NA,14,,Avión
+V0350,Argentina,,M,Miraflores,Lima,,,,
+V0351,Perú,,,Chan Chan,La Libertad,2025-09-22,12,2179.98,Avión
+V0352,Perú,,,Iquitos,Loreto,2024-06-19,11,,Bus
+V0353,Perú,55,,Cusco Ciudad,Cusco,NA,,2895.83,Tren
+V0354,México,,O,Chan Chan,La Libertad,,,1094.3,Tren
+V0355,Brasil,,,Valle del Colca,Arequipa,NA,,,NA
+V0356,Colombia,65,,Centro Histórico,Lima,2025-01-22,,,Tren
+V0357,USA,35,M,Valle del Colca,Arequipa,2024-10-25,5,,Bus
+V0358,Brasil,37,,Lago Titicaca,Puno,2025-02-01,14,577.28,Bus
+V0359,Perú,,O,Iquitos,Loreto,2024-06-06,,,Avión
+V0360,Perú,,M,Centro Histórico,Lima,,4,3494.91,
+V0361,Colombia,,,Iquitos,Loreto,NA,4,,Auto
+V0362,Perú,66,,Huacachina,Ica,NA,,3107.54,Barco
+V0363,México,,M,Lago Titicaca,Puno,,13,,NA
+V0364,Chile,,M,Machu Picchu,Cusco,,12,,Avión
+V0365,Argentina,52,,Valle del Colca,Arequipa,,,76.12,Tren
+V0366,Perú,59,O,Machu Picchu,Cusco,NA,13,90.23,Barco
+V0367,Alemania,,,Huacachina,Ica,NA,11,,Barco
+V0368,Argentina,,F,Lago Titicaca,Puno,,2,3444.86,
+V0369,México,,,Lago Titicaca,Puno,,14,2055.9,Auto
+V0370,Perú,40,O,Iquitos,Loreto,2024-12-27,11,2921.64,Barco
+V0371,Colombia,,O,Lago Titicaca,Puno,2025-10-04,4,,Avión
+V0372,México,,,Lago Titicaca,Puno,2025-04-14,9,,Auto
+V0373,Perú,,M,Huacachina,Ica,,4,793.56,Tren
+V0374,Bolivia,,O,Huacachina,Ica,NA,,3826.02,NA
+V0375,Colombia,,M,Chan Chan,La Libertad,,,,
+V0376,México,49,,Machu Picchu,Cusco,,10,,Auto
+V0377,Perú,,O,Chan Chan,La Libertad,,,,
+V0378,Chile,,M,Centro Histórico,Lima,NA,,3757.91,Auto
+V0379,Perú,,F,Lago Titicaca,Puno,NA,12,,
+V0380,México,,,Cusco Ciudad,Cusco,2025-08-28,,,Bus
+V0381,Argentina,,M,Miraflores,Lima,,12,3929.35,
+V0382,Argentina,67,M,Lago Titicaca,Puno,,,,Avión
+V0383,Perú,19,F,Iquitos,Loreto,2024-02-25,,,Avión
+V0384,Brasil,,F,Miraflores,Lima,2025-02-25,,4520.78,
+V0385,Colombia,,,Miraflores,Lima,,,,Tren
+V0386,Brasil,,M,Chan Chan,La Libertad,NA,,,Bus
+V0387,México,25,,Chan Chan,La Libertad,,12,,Barco
+V0388,México,,,Chan Chan,La Libertad,,,3953.8,NA
+V0389,Chile,,M,Iquitos,Loreto,2025-10-28,,,Tren
+V0390,USA,,,Cusco Ciudad,Cusco,2025-02-19,,,Auto
+V0391,Francia,,,Cusco Ciudad,Cusco,NA,,,Tren
+V0392,Perú,,O,Cusco Ciudad,Cusco,NA,13,,
+V0393,Perú,34,F,Iquitos,Loreto,NA,,800.43,
+V0394,Perú,,F,Iquitos,Loreto,2025-07-11,14,,Barco
+V0395,México,,,Huacachina,Ica,,12,,NA
+V0396,México,,M,Miraflores,Lima,2025-04-05,6,,NA
+V0397,Colombia,,F,Valle del Colca,Arequipa,NA,,1957.66,Auto
+V0398,Perú,,,Lago Titicaca,Puno,NA,9,2991.1,Tren
+V0399,Perú,23,M,Iquitos,Loreto,NA,4,1227.34,Bus
+V0400,Perú,,O,Cusco Ciudad,Cusco,2024-11-17,,,NA
+V0401,Perú,68,,Valle del Colca,Arequipa,NA,,2679.53,
+V0402,Bolivia,,M,Huacachina,Ica,NA,7,,Barco
+V0403,Brasil,,M,Miraflores,Lima,,11,3448.21,Bus
+V0404,USA,,M,Cusco Ciudad,Cusco,,3,1632.01,Auto
+V0405,Colombia,,F,Miraflores,Lima,2025-09-14,12,,
+V0406,Argentina,61,,Chan Chan,La Libertad,,,,NA
+V0407,Brasil,,F,Iquitos,Loreto,NA,13,4520.99,Avión
+V0408,Perú,64,F,Lago Titicaca,Puno,,14,,
+V0409,USA,,,Huacachina,Ica,NA,,,Barco
+V0410,Ecuador,27,,Valle del Colca,Arequipa,,,,Auto
+V0411,Colombia,71,M,Valle del Colca,Arequipa,NA,,,Tren
+V0412,Perú,45,,Valle del Colca,Arequipa,NA,7,,
+V0413,Argentina,,O,Miraflores,Lima,,,,
+V0414,Perú,,F,Valle del Colca,Arequipa,NA,4,1588.77,NA
+V0415,Perú,,M,Valle del Colca,Arequipa,NA,,,Barco
+V0416,Chile,48,M,Miraflores,Lima,2025-06-21,10,,
+V0417,Perú,,O,Iquitos,Loreto,NA,,1434.25,Barco
+V0418,Perú,,F,Huacachina,Ica,,,2449.08,Auto
+V0419,Ecuador,,O,Lago Titicaca,Puno,2024-08-03,,,Avión
+V0420,Perú,,M,Miraflores,Lima,,,4571.66,NA
+V0421,Colombia,,,Chan Chan,La Libertad,NA,9,213.12,Tren
+V0422,Chile,74,M,Huacachina,Ica,NA,7,2470.45,Barco
+V0423,España,19,O,Machu Picchu,Cusco,,,,Barco
+V0424,Perú,,F,Cusco Ciudad,Cusco,,,536.14,
+V0425,Argentina,,,Chan Chan,La Libertad,,14,,Avión
+V0426,Brasil,,F,Lago Titicaca,Puno,2025-05-03,11,,Auto
+V0427,USA,,,Iquitos,Loreto,2025-07-20,2,2441.09,Avión
+V0428,Chile,,M,Chan Chan,La Libertad,NA,,,Bus
+V0428,Chile,,M,Chan Chan,La Libertad,NA,,,Bus
+V0429,Perú,,F,Centro Histórico,Lima,2024-10-09,9,,Tren
+V0430,Colombia,,,Huacachina,Ica,NA,,,Bus
+V0431,México,,M,Iquitos,Loreto,,,2591.98,Avión
+V0432,Perú,,O,Cusco Ciudad,Cusco,2025-03-09,3,882.86,Tren
+V0433,Perú,,M,Cusco Ciudad,Cusco,2025-09-12,,,Bus
+V0434,Chile,,O,Huacachina,Ica,NA,3,,Barco
+V0435,Argentina,23,F,Huacachina,Ica,,8,,Bus
+V0436,Argentina,,M,Centro Histórico,Lima,2025-02-10,,,Barco
+V0437,España,,,Huacachina,Ica,2025-05-07,9,,Bus
+V0438,Alemania,45,,Centro Histórico,Lima,NA,9,,Tren
+V0439,Perú,,O,Centro Histórico,Lima,,,4340.84,Auto
+V0440,Perú,,F,Centro Histórico,Lima,,,299.27,Tren
+V0441,Perú,71,M,Centro Histórico,Lima,NA,,,
+V0442,Colombia,,,Machu Picchu,Cusco,NA,,,Barco
+V0443,México,41,O,Valle del Colca,Arequipa,NA,11,,Tren
+V0444,Colombia,,O,Huacachina,Ica,,,,Bus
+V0445,Alemania,,M,Lago Titicaca,Puno,NA,,,Avión
+V0446,Perú,,M,Valle del Colca,Arequipa,2024-06-16,8,,Auto
+V0447,Colombia,,M,Chan Chan,La Libertad,,,,
+V0448,USA,46,,Iquitos,Loreto,2024-09-27,,,Auto
+V0449,México,63,,Iquitos,Loreto,2025-06-11,11,,Auto
+V0450,Brasil,69,F,Chan Chan,La Libertad,,10,4180.54,Auto
+V0451,USA,,,Iquitos,Loreto,2024-01-25,,,Auto
+V0452,Francia,,,Centro Histórico,Lima,2024-04-13,12,,Tren
+V0453,Perú,,M,Valle del Colca,Arequipa,,,,Auto
+V0454,Chile,,M,Miraflores,Lima,NA,,4970.04,
+V0455,México,,M,Miraflores,Lima,2024-02-23,,2122.88,Avión
+V0456,Alemania,,,Centro Histórico,Lima,NA,,,Barco
+V0457,Argentina,,,Lago Titicaca,Puno,NA,,812.98,Auto
+V0458,Perú,39,O,Iquitos,Loreto,2024-08-22,11,,NA
+V0459,Colombia,,,Valle del Colca,Arequipa,,7,,Barco
+V0460,Chile,,,Iquitos,Loreto,2024-10-24,3,,Bus
+V0461,Perú,,,Cusco Ciudad,Cusco,NA,,855.68,Barco
+V0462,Argentina,20,,Cusco Ciudad,Cusco,,,168.9,Auto
+V0463,Perú,,,Chan Chan,La Libertad,,1,3590.54,Auto
+V0464,Chile,59,,Huacachina,Ica,NA,8,1392.51,Auto
+V0465,Perú,43,,Chan Chan,La Libertad,NA,5,1086.95,Auto
+V0466,Ecuador,,M,Miraflores,Lima,,,1417.43,NA
+V0467,México,,F,Machu Picchu,Cusco,NA,12,325.49,Barco
+V0468,México,,,Machu Picchu,Cusco,NA,8,209.75,Auto
+V0469,Argentina,69,,Cusco Ciudad,Cusco,NA,,,Avión
+V0470,Perú,,,Miraflores,Lima,NA,,450.48,Auto
+V0471,Perú,,O,Iquitos,Loreto,,,,Bus
+V0472,Perú,,M,Huacachina,Ica,2024-01-03,14,3674.87,NA
+V0473,Colombia,,F,Valle del Colca,Arequipa,2025-01-20,,2562.57,NA
+V0474,Perú,,,Centro Histórico,Lima,NA,,890.42,
+V0475,México,62,,Centro Histórico,Lima,NA,10,1867.94,Avión
+V0476,México,,,Iquitos,Loreto,,,2985.82,Auto
+V0477,México,44,O,Huacachina,Ica,NA,6,815.17,NA
+V0478,Argentina,47,F,Lago Titicaca,Puno,,,,Auto
+V0479,México,,F,Iquitos,Loreto,2024-06-27,,2228.44,Tren
+V0480,USA,36,,Lago Titicaca,Puno,,12,2765.14,NA
+V0481,Perú,47,,Iquitos,Loreto,2025-12-18,,,NA
+V0482,Ecuador,39,O,Lago Titicaca,Puno,2024-01-11,2,,Auto
+V0483,México,,F,Centro Histórico,Lima,NA,,4219.64,
+V0484,Colombia,,F,Chan Chan,La Libertad,2024-03-02,,4833.52,NA
+V0485,Brasil,,F,Chan Chan,La Libertad,,10,4158.33,Avión
+V0486,Perú,,,Chan Chan,La Libertad,,,4394.59,Barco
+V0487,Perú,,O,Chan Chan,La Libertad,2024-04-14,,1480.12,Bus
+V0488,Perú,,M,Iquitos,Loreto,NA,3,345.59,Auto
+V0489,Argentina,,O,Chan Chan,La Libertad,,,,Barco
+V0490,Perú,,M,Centro Histórico,Lima,NA,,4353.62,Bus
+V0491,Perú,,,Lago Titicaca,Puno,,,,Tren
+V0492,México,,F,Machu Picchu,Cusco,,6,1317.33,Tren
+V0493,Perú,,,Machu Picchu,Cusco,NA,,,Avión
+V0494,Brasil,42,,Iquitos,Loreto,2024-07-20,,4950.37,Avión
+V0495,Argentina,69,F,Iquitos,Loreto,,,1995.46,Avión
+V0496,México,,,Iquitos,Loreto,2025-12-01,,,NA
+V0497,USA,,M,Lago Titicaca,Puno,,,,Bus
+V0498,México,,,Machu Picchu,Cusco,NA,11,,Avión
+V0499,Argentina,,O,Valle del Colca,Arequipa,,,,Tren
+V0500,Colombia,,F,Iquitos,Loreto,NA,5,,Tren
+V0501,Perú,,,Iquitos,Loreto,,7,,Bus
+V0502,México,24,,Huacachina,Ica,,7,,Auto
+V0503,México,,F,Machu Picchu,Cusco,,9,3078.52,Barco
+V0504,México,,M,Cusco Ciudad,Cusco,,,,Barco
+V0505,España,,F,Lago Titicaca,Puno,NA,,4089.14,NA
+V0506,México,,O,Cusco Ciudad,Cusco,,8,,Bus
+V0507,Francia,,,Lago Titicaca,Puno,,,2624.76,Tren
+V0508,Perú,68,,Huacachina,Ica,2024-08-20,3,4325.85,Avión
+V0509,Perú,,M,Huacachina,Ica,2025-06-03,10,4567.62,Barco
+V0510,México,,M,Cusco Ciudad,Cusco,2024-11-01,,,Tren
+V0511,Perú,,O,Machu Picchu,Cusco,NA,7,2422.19,Barco
+V0512,Perú,62,F,Chan Chan,La Libertad,2025-01-28,,2938.79,
+V0513,Francia,42,M,Lago Titicaca,Puno,2025-08-14,,,Bus
+V0514,Colombia,,O,Miraflores,Lima,NA,4,,Bus
+V0515,Perú,,,Miraflores,Lima,NA,13,1516.6,Bus
+V0516,Perú,,O,Huacachina,Ica,2025-02-16,,4912.13,
+V0517,España,60,F,Iquitos,Loreto,,,1784.6,Barco
+V0518,Alemania,,M,Huacachina,Ica,,2,1910.28,Auto
+V0519,Perú,,O,Valle del Colca,Arequipa,NA,13,,Barco
+V0520,Argentina,,O,Chan Chan,La Libertad,NA,10,,
+V0521,Colombia,31,,Valle del Colca,Arequipa,2025-05-25,,,Avión
+V0522,Perú,36,,Valle del Colca,Arequipa,2024-06-16,,,
+V0523,Argentina,,F,Lago Titicaca,Puno,2025-01-30,9,,Avión
+V0524,Perú,,M,Cusco Ciudad,Cusco,NA,12,4508.87,Bus
+V0525,México,16,,Iquitos,Loreto,2024-03-05,,,Barco
+V0526,Perú,,F,Chan Chan,La Libertad,,,,Barco
+V0527,Brasil,,O,Miraflores,Lima,NA,,,Avión
+V0528,Perú,71,M,Huacachina,Ica,2024-09-26,,1399.15,Tren
+V0529,México,,O,Chan Chan,La Libertad,2024-02-18,,867.29,Bus
+V0530,Perú,,,Huacachina,Ica,2024-02-10,,3689.72,Avión
+V0531,USA,52,,Chan Chan,La Libertad,NA,,,Bus
+V0532,Colombia,,F,Valle del Colca,Arequipa,,,2253.0,Bus
+V0533,México,,,Miraflores,Lima,,,990.84,Bus
+V0534,Perú,,M,Valle del Colca,Arequipa,NA,10,3116.62,Barco
+V0535,México,,M,Lago Titicaca,Puno,2024-08-19,11,,NA
+V0536,Perú,,F,Valle del Colca,Arequipa,2025-09-12,,422.05,Auto
+V0537,México,,,Centro Histórico,Lima,2025-07-04,6,,Auto
+V0538,Perú,53,O,Chan Chan,La Libertad,,,,Auto
+V0539,México,,,Valle del Colca,Arequipa,,,,NA
+V0540,México,,M,Iquitos,Loreto,NA,12,4719.92,Bus
+V0541,Ecuador,,F,Iquitos,Loreto,,4,2946.64,Avión
+V0542,Argentina,61,,Iquitos,Loreto,2025-09-05,,,Bus
+V0543,Alemania,,,Cusco Ciudad,Cusco,2025-07-26,,,Barco
+V0544,Perú,,,Machu Picchu,Cusco,NA,6,1395.63,NA
+V0545,Perú,38,F,Chan Chan,La Libertad,2025-10-21,,4721.98,
+V0546,México,,M,Chan Chan,La Libertad,,,560.16,NA
+V0547,Argentina,,,Iquitos,Loreto,2025-12-15,,4260.95,NA
+V0548,Francia,,,Chan Chan,La Libertad,,,,Tren
+V0549,Ecuador,55,M,Chan Chan,La Libertad,NA,3,,Tren
+V0550,Colombia,,M,Valle del Colca,Arequipa,,,,Barco
+V0551,Bolivia,72,,Cusco Ciudad,Cusco,2025-09-26,11,773.83,Avión
+V0552,USA,,F,Huacachina,Ica,NA,,3470.4,
+V0553,Chile,25,O,Chan Chan,La Libertad,2024-04-12,13,108.21,NA
+V0554,Perú,73,O,Chan Chan,La Libertad,NA,,,Barco
+V0555,Argentina,,O,Centro Histórico,Lima,NA,,,NA
+V0556,Colombia,,M,Iquitos,Loreto,2024-01-12,10,,
+V0557,Brasil,,,Centro Histórico,Lima,2025-10-02,,3270.29,NA
+V0558,Perú,,,Cusco Ciudad,Cusco,2024-03-28,2,,
+V0559,México,34,,Cusco Ciudad,Cusco,,,,Avión
+V0560,México,,M,Huacachina,Ica,,,,
+V0561,Perú,,M,Lago Titicaca,Puno,,,,
+V0562,Perú,70,O,Miraflores,Lima,NA,,,Bus
+V0563,Perú,,,Iquitos,Loreto,NA,,2267.58,Avión
+V0564,Colombia,,,Valle del Colca,Arequipa,2025-09-03,14,,Bus
+V0565,Perú,,F,Valle del Colca,Arequipa,NA,13,3662.66,Auto
+V0566,USA,,,Machu Picchu,Cusco,NA,,1332.36,Avión
+V0567,Francia,67,M,Chan Chan,La Libertad,,11,4546.31,
+V0568,México,,,Iquitos,Loreto,2024-05-18,13,,Avión
+V0569,Perú,,,Lago Titicaca,Puno,,,,Bus
+V0570,Perú,,F,Huacachina,Ica,2025-07-03,,,Barco
+V0571,Brasil,,O,Lago Titicaca,Puno,2024-08-01,7,4238.35,NA
+V0572,Perú,18,M,Lago Titicaca,Puno,,,,Auto
+V0573,Francia,,M,Lago Titicaca,Puno,,6,,Tren
+V0574,México,55,F,Machu Picchu,Cusco,,1,2799.3,Auto
+V0575,Ecuador,,,Huacachina,Ica,,,1463.52,Avión
+V0576,Perú,,F,Huacachina,Ica,NA,14,4414.97,Auto
+V0577,USA,29,,Iquitos,Loreto,2025-03-30,5,4698.07,Bus
+V0578,Perú,,O,Huacachina,Ica,NA,14,,Bus
+V0579,Colombia,33,O,Valle del Colca,Arequipa,NA,6,2787.65,
+V0580,Chile,,M,Lago Titicaca,Puno,NA,,,NA
+V0581,Argentina,,,Valle del Colca,Arequipa,2025-03-26,,,Tren
+V0582,Colombia,,O,Chan Chan,La Libertad,2024-11-21,12,,Barco
+V0583,México,,,Iquitos,Loreto,2025-11-01,6,,Bus
+V0584,Perú,,,Cusco Ciudad,Cusco,NA,9,,
+V0585,Perú,,F,Centro Histórico,Lima,,,,
+V0586,México,,M,Valle del Colca,Arequipa,2024-04-02,,3553.92,NA
+V0587,Colombia,,O,Miraflores,Lima,,3,,Auto
+V0588,México,,F,Huacachina,Ica,2024-01-15,,4254.43,
+V0589,USA,74,M,Chan Chan,La Libertad,2024-03-26,14,2592.4,Avión
+V0590,México,,,Chan Chan,La Libertad,NA,,4623.49,Bus
+V0591,México,,,Chan Chan,La Libertad,NA,12,,NA
+V0592,Chile,,,Huacachina,Ica,NA,,481.72,NA
+V0593,Francia,54,M,Chan Chan,La Libertad,NA,,4716.36,Bus
+V0594,Colombia,,,Lago Titicaca,Puno,,14,,
+V0595,Colombia,,,Huacachina,Ica,,5,4059.18,NA
+V0596,Chile,,,Valle del Colca,Arequipa,,,3284.04,Barco
+V0597,Argentina,,,Huacachina,Ica,,,,Bus
+V0598,Perú,,M,Chan Chan,La Libertad,NA,4,,NA
+V0599,Perú,41,O,Centro Histórico,Lima,NA,,4731.04,Tren
+V0600,Colombia,44,,Valle del Colca,Arequipa,NA,6,,Bus
+V0601,Perú,,F,Lago Titicaca,Puno,2025-02-04,,2242.56,
+V0602,Perú,,F,Chan Chan,La Libertad,NA,,,Barco
+V0603,Perú,,F,Valle del Colca,Arequipa,2024-11-20,,,Auto
+V0604,Alemania,53,,Valle del Colca,Arequipa,2024-01-07,,2419.1,Auto
+V0605,México,,,Valle del Colca,Arequipa,2024-12-07,,2002.27,NA
+V0606,Chile,,F,Miraflores,Lima,2024-09-20,10,,Bus
+V0607,Perú,,,Iquitos,Loreto,,2,149.4,Bus
+V0608,Perú,,F,Valle del Colca,Arequipa,,6,2508.55,NA
+V0609,México,,,Chan Chan,La Libertad,NA,,,Avión
+V0610,México,50,F,Chan Chan,La Libertad,2025-06-04,9,,Tren
+V0611,Perú,56,M,Valle del Colca,Arequipa,2024-12-22,,,Auto
+V0612,México,,M,Iquitos,Loreto,NA,,4582.43,Barco
+V0613,España,,,Iquitos,Loreto,,,,Auto
+V0614,Perú,61,,Huacachina,Ica,2024-05-30,,3835.59,NA
+V0615,México,24,M,Iquitos,Loreto,,,603.79,Avión
+V0616,Argentina,,,Cusco Ciudad,Cusco,2025-09-16,12,1673.5,
+V0617,México,,,Iquitos,Loreto,2025-02-02,,4656.54,Auto
+V0618,Argentina,,M,Valle del Colca,Arequipa,NA,,3105.88,Avión
+V0619,Colombia,,F,Huacachina,Ica,NA,12,4413.54,
+V0620,Alemania,,,Iquitos,Loreto,NA,,,NA
+V0621,USA,,F,Chan Chan,La Libertad,,8,,Barco
+V0622,Perú,,M,Miraflores,Lima,NA,,205.08,Bus
+V0623,Chile,,F,Centro Histórico,Lima,NA,14,,
+V0624,Colombia,,M,Huacachina,Ica,2025-11-03,,1462.67,NA
+V0625,Ecuador,,,Chan Chan,La Libertad,,12,,Barco
+V0626,Argentina,21,O,Machu Picchu,Cusco,NA,7,3409.17,
+V0627,México,,,Centro Histórico,Lima,2024-12-01,12,1229.63,Auto
+V0628,Argentina,,O,Valle del Colca,Arequipa,NA,,56.58,Barco
+V0629,Ecuador,38,F,Cusco Ciudad,Cusco,NA,5,,Avión
+V0630,USA,23,,Huacachina,Ica,NA,,3075.13,Avión
+V0631,Brasil,,,Centro Histórico,Lima,NA,,,
+V0632,México,69,F,Huacachina,Ica,NA,10,594.7,Tren
+V0633,Chile,69,O,Iquitos,Loreto,,9,,Auto
+V0634,Perú,,M,Lago Titicaca,Puno,,2,226.74,Tren
+V0635,Perú,,O,Valle del Colca,Arequipa,NA,7,,Bus
+V0636,Ecuador,51,,Valle del Colca,Arequipa,2025-12-17,4,,
+V0637,Colombia,40,,Valle del Colca,Arequipa,,,3154.67,
+V0638,España,,O,Chan Chan,La Libertad,2024-08-09,3,2182.75,Auto
+V0639,España,,F,Iquitos,Loreto,,,,Tren
+V0640,Alemania,,,Miraflores,Lima,,,,Tren
+V0641,Argentina,,,Centro Histórico,Lima,NA,,3445.82,Avión
+V0642,Brasil,15,F,Iquitos,Loreto,NA,5,3270.09,Avión
+V0643,Perú,,M,Iquitos,Loreto,NA,11,2229.48,Tren
+V0644,Chile,,F,Chan Chan,La Libertad,,7,,Barco
+V0645,México,25,,Centro Histórico,Lima,NA,,2116.19,
+V0646,Perú,57,,Iquitos,Loreto,2024-09-05,,,Avión
+V0647,Argentina,,,Machu Picchu,Cusco,NA,,2268.06,Tren
+V0648,México,16,M,Iquitos,Loreto,2024-03-30,6,,Bus
+V0649,Perú,,M,Valle del Colca,Arequipa,2025-11-13,,,Bus
+V0650,Colombia,,O,Miraflores,Lima,NA,,3395.42,Tren
+V0651,México,54,O,Valle del Colca,Arequipa,,,,Auto
+V0652,USA,68,,Valle del Colca,Arequipa,NA,,,Barco
+V0653,Colombia,69,F,Cusco Ciudad,Cusco,NA,,,Bus
+V0654,Brasil,,,Lago Titicaca,Puno,NA,,318.62,NA
+V0655,Alemania,,,Iquitos,Loreto,,3,4183.71,Barco
+V0656,Perú,,F,Huacachina,Ica,NA,7,4279.56,Barco
+V0657,México,,O,Miraflores,Lima,NA,,4661.22,Tren
+V0658,Perú,,F,Miraflores,Lima,NA,4,,
+V0659,Argentina,62,,Valle del Colca,Arequipa,,,353.75,Auto
+V0660,Colombia,,,Huacachina,Ica,,,,Avión
+V0661,Perú,50,M,Cusco Ciudad,Cusco,NA,11,,
+V0662,Argentina,42,F,Miraflores,Lima,,3,,Tren
+V0663,USA,,M,Iquitos,Loreto,,5,961.86,Auto
+V0664,Perú,,O,Cusco Ciudad,Cusco,NA,5,,Tren
+V0665,Bolivia,,F,Cusco Ciudad,Cusco,NA,13,668.19,Barco
+V0666,México,,M,Iquitos,Loreto,NA,,2476.76,Bus
+V0667,Chile,,,Iquitos,Loreto,NA,3,4880.09,Auto
+V0668,Perú,,O,Huacachina,Ica,2024-10-31,1,1092.44,Barco
+V0669,Chile,,,Cusco Ciudad,Cusco,NA,14,,Barco
+V0670,Perú,,O,Chan Chan,La Libertad,2025-08-15,,,
+V0671,Francia,,O,Chan Chan,La Libertad,NA,4,,Tren
+V0672,USA,,M,Huacachina,Ica,NA,10,,NA
+V0673,Perú,59,,Miraflores,Lima,,14,,Avión
+V0674,Colombia,,M,Iquitos,Loreto,,3,,Tren
+V0675,Argentina,,O,Machu Picchu,Cusco,NA,,4416.34,Tren
+V0676,Chile,,,Miraflores,Lima,NA,,3359.98,Tren
+V0677,Brasil,72,,Valle del Colca,Arequipa,NA,,,Auto
+V0678,Chile,,,Huacachina,Ica,NA,10,4732.65,Avión
+V0679,Colombia,28,O,Lago Titicaca,Puno,,,650.69,NA
+V0680,Francia,38,M,Cusco Ciudad,Cusco,2025-03-26,8,,
+V0681,Argentina,59,,Machu Picchu,Cusco,,,,Avión
+V0682,Perú,,O,Chan Chan,La Libertad,,6,4466.64,Bus
+V0683,Colombia,,,Miraflores,Lima,NA,2,,Bus
+V0684,Perú,64,,Machu Picchu,Cusco,NA,5,,Barco
+V0685,Chile,,,Huacachina,Ica,2025-04-23,10,,Auto
+V0686,Perú,,M,Lago Titicaca,Puno,NA,,4584.01,NA
+V0687,USA,,,Valle del Colca,Arequipa,,,,Bus
+V0688,USA,65,,Huacachina,Ica,NA,,348.3,NA
+V0689,Brasil,25,M,Lago Titicaca,Puno,NA,6,,Avión
+V0690,Colombia,,M,Huacachina,Ica,NA,12,,Tren
+V0691,México,36,M,Chan Chan,La Libertad,2025-12-04,,2791.74,
+V0692,Perú,,O,Miraflores,Lima,NA,,,Auto
+V0693,México,,O,Valle del Colca,Arequipa,,10,3097.8,NA
+V0694,Perú,,,Machu Picchu,Cusco,2025-06-30,9,,Avión
+V0694,Perú,,,Machu Picchu,Cusco,2025-06-30,9,,Avión
+V0695,USA,,,Centro Histórico,Lima,NA,4,,Barco
+V0696,Colombia,28,,Chan Chan,La Libertad,2024-10-25,,2566.53,Bus
+V0697,Perú,,M,Huacachina,Ica,NA,,,Barco
+V0698,Perú,,,Centro Histórico,Lima,2024-03-29,,,NA
+V0699,Perú,,,Huacachina,Ica,NA,12,,NA
+V0700,Argentina,,,Lago Titicaca,Puno,2024-01-17,7,,Bus
+V0701,Colombia,21,,Lago Titicaca,Puno,2024-01-30,,,Barco
+V0702,Perú,47,M,Huacachina,Ica,NA,8,,Barco
+V0703,México,,M,Iquitos,Loreto,2024-06-19,14,480.44,Avión
+V0704,Alemania,74,,Huacachina,Ica,NA,5,1626.82,Tren
+V0705,Colombia,,,Huacachina,Ica,NA,,3038.81,Auto
+V0706,Perú,,F,Chan Chan,La Libertad,NA,11,2724.73,Barco
+V0707,México,,F,Centro Histórico,Lima,NA,,251.2,Auto
+V0708,Perú,,O,Valle del Colca,Arequipa,NA,,2505.1,Bus
+V0709,Ecuador,,,Valle del Colca,Arequipa,,,,Auto
+V0710,Perú,,F,Miraflores,Lima,NA,10,,Bus
+V0711,Argentina,,,Valle del Colca,Arequipa,2025-05-10,10,,
+V0712,USA,,F,Iquitos,Loreto,,2,3273.41,Bus
+V0713,Perú,,F,Centro Histórico,Lima,NA,10,,
+V0714,Chile,,F,Machu Picchu,Cusco,,5,1266.96,Avión
+V0715,Argentina,18,O,Iquitos,Loreto,2025-08-29,12,931.68,Barco
+V0716,Colombia,,,Chan Chan,La Libertad,NA,,3623.29,Bus
+V0717,México,37,M,Iquitos,Loreto,2024-09-14,,,Bus
+V0718,Argentina,,,Miraflores,Lima,2024-06-11,14,3908.38,Avión
+V0719,Colombia,,M,Miraflores,Lima,NA,,4685.54,Auto
+V0720,Perú,,O,Chan Chan,La Libertad,NA,10,,Avión
+V0721,Brasil,19,M,Iquitos,Loreto,,13,,Auto
+V0722,Ecuador,23,,Valle del Colca,Arequipa,NA,,,Barco
+V0723,Perú,,,Huacachina,Ica,NA,,2971.96,Bus
+V0724,USA,27,F,Huacachina,Ica,NA,,4310.13,Auto
+V0725,Perú,,O,Centro Histórico,Lima,2025-03-05,11,,Avión
+V0726,Chile,17,,Machu Picchu,Cusco,,1,4209.98,Tren
+V0727,Ecuador,,O,Iquitos,Loreto,2024-11-26,,3212.21,Tren
+V0728,Perú,35,M,Chan Chan,La Libertad,,13,,Barco
+V0729,México,38,F,Iquitos,Loreto,2024-02-08,7,2065.12,Barco
+V0730,Perú,,M,Iquitos,Loreto,,4,2201.96,Auto
+V0731,Perú,,M,Valle del Colca,Arequipa,,,1409.75,Avión
+V0732,Alemania,,,Huacachina,Ica,,5,,Bus
+V0733,Perú,64,O,Huacachina,Ica,2025-08-20,,,NA
+V0734,Perú,,O,Centro Histórico,Lima,2025-01-28,,,Auto
+V0735,Perú,75,O,Huacachina,Ica,2024-12-17,,2645.05,Tren
+V0736,Perú,,O,Machu Picchu,Cusco,2025-11-29,,1641.74,Tren
+V0737,Alemania,,,Lago Titicaca,Puno,NA,,,Tren
+V0738,Chile,66,M,Centro Histórico,Lima,,3,,NA
+V0739,Perú,,M,Centro Histórico,Lima,,,,
+V0740,México,,,Miraflores,Lima,NA,12,3673.36,Barco
+V0741,Perú,,,Huacachina,Ica,2024-07-11,,116.29,NA
+V0742,Perú,,,Cusco Ciudad,Cusco,NA,5,4568.2,Auto
+V0743,USA,,F,Iquitos,Loreto,NA,13,4188.93,Tren
+V0744,Perú,,,Huacachina,Ica,NA,5,3697.31,Bus
+V0745,Brasil,,,Iquitos,Loreto,NA,,526.23,Avión
+V0746,Perú,,O,Miraflores,Lima,,6,2436.58,Avión
+V0747,Perú,67,O,Cusco Ciudad,Cusco,NA,,1373.89,Tren
+V0748,Perú,,,Centro Histórico,Lima,NA,,1899.1,Barco
+V0749,Perú,,F,Iquitos,Loreto,,,4917.6,Bus
+V0750,Colombia,59,,Chan Chan,La Libertad,,3,,Barco
+V0751,Chile,,O,Cusco Ciudad,Cusco,NA,10,3679.28,Tren
+V0752,Perú,,M,Iquitos,Loreto,2025-04-19,,,Auto
+V0753,Chile,,,Chan Chan,La Libertad,2025-04-02,,,Avión
+V0754,Perú,,M,Lago Titicaca,Puno,2025-09-27,,,NA
+V0755,Colombia,24,F,Huacachina,Ica,NA,,,Barco
+V0756,Perú,,,Chan Chan,La Libertad,,,,Tren
+V0757,Chile,,,Valle del Colca,Arequipa,2025-03-26,13,4634.7,Avión
+V0758,Perú,,,Chan Chan,La Libertad,NA,,3211.09,Auto
+V0759,México,,,Machu Picchu,Cusco,NA,,134.01,Avión
+V0760,México,,M,Iquitos,Loreto,2025-10-06,2,166.99,NA
+V0761,Perú,,M,Valle del Colca,Arequipa,,1,,Avión
+V0762,USA,39,,Valle del Colca,Arequipa,2024-03-11,4,4427.58,Barco
+V0763,México,,,Iquitos,Loreto,2025-05-28,,2650.69,Tren
+V0764,Colombia,63,,Iquitos,Loreto,2025-12-30,,2064.1,Bus
+V0765,Perú,,O,Chan Chan,La Libertad,,7,2423.48,Auto
+V0766,Francia,,,Cusco Ciudad,Cusco,,,,Bus
+V0767,Perú,,,Lago Titicaca,Puno,,9,4430.66,Avión
+V0768,México,,,Valle del Colca,Arequipa,,2,,Avión
+V0769,México,17,,Machu Picchu,Cusco,2025-09-28,12,,Avión
+V0770,México,,,Valle del Colca,Arequipa,2025-10-07,,1444.49,Avión
+V0771,Chile,,,Centro Histórico,Lima,2024-01-15,7,3164.66,
+V0772,USA,73,,Lago Titicaca,Puno,,,,Bus
+V0773,Chile,38,,Centro Histórico,Lima,NA,,,Avión
+V0774,Chile,34,,Huacachina,Ica,,14,,Bus
+V0775,Colombia,65,,Valle del Colca,Arequipa,NA,7,,Barco
+V0776,Perú,,,Chan Chan,La Libertad,,5,,Barco
+V0777,Perú,,O,Chan Chan,La Libertad,2024-01-04,14,4656.26,NA
+V0778,Perú,72,,Valle del Colca,Arequipa,,,,Barco
+V0779,Colombia,48,F,Iquitos,Loreto,2024-04-25,5,,Barco
+V0780,USA,,F,Lago Titicaca,Puno,2025-12-25,4,4752.92,NA
+V0781,México,69,O,Iquitos,Loreto,NA,3,4665.33,Avión
+V0782,Chile,,,Lago Titicaca,Puno,,,3249.84,Bus
+V0783,México,60,,Centro Histórico,Lima,2025-02-15,5,4065.9,Bus
+V0784,Perú,,F,Valle del Colca,Arequipa,NA,,4055.23,Tren
+V0785,Perú,,M,Valle del Colca,Arequipa,,,178.73,Avión
+V0786,México,,,Iquitos,Loreto,,,4429.06,
+V0787,Perú,49,M,Huacachina,Ica,,1,,Auto
+V0788,Ecuador,30,F,Iquitos,Loreto,2024-11-28,,,Bus
+V0788,Ecuador,30,F,Iquitos,Loreto,2024-11-28,,,Bus
+V0789,Perú,48,F,Chan Chan,La Libertad,2024-11-06,,832.65,NA
+V0790,Perú,42,,Centro Histórico,Lima,NA,10,629.41,Avión
+V0791,México,,,Valle del Colca,Arequipa,,,,Avión
+V0792,Ecuador,75,,Machu Picchu,Cusco,2025-05-14,4,3313.9,Tren
+V0793,Perú,,,Centro Histórico,Lima,,14,3964.44,NA
+V0794,USA,,,Miraflores,Lima,NA,,1228.01,Avión
+V0795,USA,,O,Lago Titicaca,Puno,2024-12-12,13,,Auto
+V0796,Perú,,O,Machu Picchu,Cusco,NA,,522.21,Barco
+V0797,Chile,20,O,Valle del Colca,Arequipa,2025-05-06,11,,Tren
+V0798,Argentina,20,,Iquitos,Loreto,2025-10-23,14,,Bus
+V0799,México,,O,Lago Titicaca,Puno,,,62.75,NA
+V0800,Chile,74,M,Lago Titicaca,Puno,,12,3591.64,NA
+V0801,Perú,,,Lago Titicaca,Puno,2025-11-13,,,Bus
+V0802,Perú,,M,Iquitos,Loreto,NA,,2544.76,
+V0802,Perú,,M,Iquitos,Loreto,NA,,2544.76,
+V0803,México,44,,Valle del Colca,Arequipa,2025-08-16,2,1381.19,Avión
+V0804,Perú,30,O,Lago Titicaca,Puno,,11,,Bus
+V0805,Perú,,,Miraflores,Lima,2024-05-04,,,Bus
+V0806,Perú,,,Miraflores,Lima,NA,12,1863.82,NA
+V0807,México,,M,Miraflores,Lima,2024-10-24,,253.24,NA
+V0808,México,,,Iquitos,Loreto,2025-10-08,,,Tren
+V0809,Brasil,68,,Chan Chan,La Libertad,,2,4461.43,
+V0810,Colombia,47,,Huacachina,Ica,,,,Barco
+V0811,Argentina,73,,Chan Chan,La Libertad,2025-08-31,14,,Bus
+V0812,Perú,59,,Huacachina,Ica,,,3253.45,Tren
+V0813,Colombia,,,Centro Histórico,Lima,NA,9,,
+V0814,Chile,19,,Cusco Ciudad,Cusco,,12,2616.12,NA
+V0815,Colombia,23,F,Miraflores,Lima,NA,4,3951.37,Avión
+V0816,Perú,70,M,Huacachina,Ica,NA,14,1418.21,Bus
+V0817,Argentina,,M,Machu Picchu,Cusco,NA,11,2489.82,Tren
+V0818,Perú,,F,Lago Titicaca,Puno,2024-10-15,,,NA
+V0819,Colombia,21,F,Cusco Ciudad,Cusco,NA,2,155.94,NA
+V0820,Perú,,,Lago Titicaca,Puno,2024-02-13,,,Avión
+V0821,Perú,40,,Chan Chan,La Libertad,NA,,3205.03,
+V0822,Colombia,73,F,Lago Titicaca,Puno,NA,,2672.94,
+V0823,Perú,,,Iquitos,Loreto,NA,12,,Avión
+V0824,Argentina,60,,Iquitos,Loreto,NA,,,Auto
+V0825,México,,M,Valle del Colca,Arequipa,2024-01-15,,,NA
+V0826,USA,,,Machu Picchu,Cusco,2025-03-06,,1470.91,NA
+V0827,México,48,F,Miraflores,Lima,2024-04-08,7,,Auto
+V0828,México,68,M,Valle del Colca,Arequipa,,,424.31,
+V0829,Perú,,F,Lago Titicaca,Puno,2025-04-12,,,NA
+V0830,Argentina,19,M,Huacachina,Ica,,1,,Bus
+V0831,Perú,,F,Valle del Colca,Arequipa,NA,,,Auto
+V0832,Perú,,O,Chan Chan,La Libertad,NA,3,,Avión
+V0833,Perú,64,M,Chan Chan,La Libertad,2024-03-02,4,629.69,NA
+V0834,México,,,Centro Histórico,Lima,2025-03-06,,3648.28,
+V0835,Argentina,,,Chan Chan,La Libertad,NA,,,
+V0836,Bolivia,51,F,Lago Titicaca,Puno,,,1544.31,NA
+V0837,México,,,Iquitos,Loreto,NA,,558.14,Barco
+V0838,Perú,,M,Lago Titicaca,Puno,NA,10,,Auto
+V0839,Perú,,,Machu Picchu,Cusco,NA,8,,
+V0840,Perú,,M,Iquitos,Loreto,NA,,,Avión
+V0841,Perú,,,Valle del Colca,Arequipa,NA,2,3782.26,NA
+V0842,Argentina,30,F,Miraflores,Lima,NA,8,2161.11,Bus
+V0843,Perú,17,F,Valle del Colca,Arequipa,2025-11-02,,212.11,NA
+V0844,España,,O,Chan Chan,La Libertad,NA,,,Auto
+V0845,USA,,M,Miraflores,Lima,NA,,,Bus
+V0846,México,,,Huacachina,Ica,,,,NA
+V0847,Ecuador,,F,Machu Picchu,Cusco,,6,3283.16,NA
+V0848,México,18,,Chan Chan,La Libertad,NA,5,,Bus
+V0849,Perú,48,M,Valle del Colca,Arequipa,NA,9,1222.76,Avión
+V0850,Perú,,F,Centro Histórico,Lima,2024-02-19,3,,NA
+V0851,USA,,F,Lago Titicaca,Puno,2025-08-07,3,,Avión
+V0852,Chile,16,M,Cusco Ciudad,Cusco,,,,Auto
+V0853,Perú,,M,Huacachina,Ica,NA,2,2963.49,
+V0854,Perú,40,,Huacachina,Ica,NA,,,NA
+V0855,Perú,,M,Lago Titicaca,Puno,2025-08-10,3,,Bus
+V0856,Perú,,,Chan Chan,La Libertad,2024-11-13,5,,Avión
+V0857,Colombia,,,Iquitos,Loreto,2024-08-05,9,4941.14,
+V0858,Perú,,,Huacachina,Ica,,3,,
+V0859,Colombia,37,,Miraflores,Lima,2024-06-27,,3702.68,Auto
+V0860,Ecuador,43,,Lago Titicaca,Puno,NA,,3047.41,
+V0861,Perú,73,,Chan Chan,La Libertad,,,741.74,Barco
+V0862,México,,,Machu Picchu,Cusco,NA,11,,Bus
+V0863,Colombia,,O,Lago Titicaca,Puno,2025-06-28,3,493.6,Avión
+V0864,Brasil,,M,Huacachina,Ica,,11,,Barco
+V0865,Ecuador,25,,Iquitos,Loreto,2024-07-07,,2629.22,NA
+V0866,México,,,Lago Titicaca,Puno,,,,Tren
+V0867,Colombia,30,O,Chan Chan,La Libertad,,6,4290.17,Auto
+V0868,Perú,,M,Chan Chan,La Libertad,,1,2571.03,Tren
+V0869,Bolivia,53,,Iquitos,Loreto,2025-12-19,12,620.49,Tren
+V0870,Perú,61,M,Iquitos,Loreto,NA,,2701.48,
+V0871,México,,,Cusco Ciudad,Cusco,NA,,1751.12,
+V0872,Francia,,,Valle del Colca,Arequipa,,14,,Tren
+V0873,Perú,,M,Valle del Colca,Arequipa,NA,1,4567.6,Avión
+V0874,Colombia,,F,Huacachina,Ica,NA,,1741.41,
+V0875,Alemania,,F,Iquitos,Loreto,2024-09-17,,,NA
+V0876,USA,,M,Valle del Colca,Arequipa,,7,,Tren
+V0877,Colombia,,,Chan Chan,La Libertad,,,3535.73,Avión
+V0878,Argentina,53,F,Cusco Ciudad,Cusco,NA,,3063.18,Bus
+V0879,Colombia,71,M,Lago Titicaca,Puno,NA,9,,Barco
+V0880,Perú,,O,Lago Titicaca,Puno,2025-01-04,,,Auto
+V0881,Perú,36,,Iquitos,Loreto,NA,13,3612.94,NA
+V0882,Perú,,,Chan Chan,La Libertad,,4,2638.64,Tren
+V0883,Perú,,F,Lago Titicaca,Puno,,3,2117.78,NA
+V0884,Perú,,F,Miraflores,Lima,2024-02-27,6,,Avión
+V0885,España,,O,Chan Chan,La Libertad,2024-04-28,,,Bus
+V0886,Perú,,M,Centro Histórico,Lima,2025-02-21,,139.86,Tren
+V0887,Brasil,,,Iquitos,Loreto,2025-08-23,,2191.91,NA
+V0888,México,67,,Centro Histórico,Lima,2025-10-15,,98.38,
+V0888,México,67,,Centro Histórico,Lima,2025-10-15,,98.38,
+V0889,Perú,55,O,Machu Picchu,Cusco,2024-10-22,3,,Avión
+V0890,Perú,,,Huacachina,Ica,,,3120.53,Auto
+V0891,Perú,,O,Valle del Colca,Arequipa,2025-01-13,9,399.85,NA
+V0892,Perú,48,M,Cusco Ciudad,Cusco,,6,,Tren
+V0893,México,69,,Huacachina,Ica,,,2506.81,
+V0894,Colombia,,F,Valle del Colca,Arequipa,NA,12,1551.77,NA
+V0895,Brasil,68,O,Chan Chan,La Libertad,,,,Tren
+V0896,Perú,,F,Huacachina,Ica,NA,,,Barco
+V0897,México,,M,Lago Titicaca,Puno,,1,,Barco
+V0898,Brasil,64,,Valle del Colca,Arequipa,2025-08-01,,1134.28,Bus
+V0899,Perú,,F,Valle del Colca,Arequipa,,3,4927.04,Auto
+V0900,Perú,,M,Valle del Colca,Arequipa,,13,,Barco
+V0901,México,,M,Centro Histórico,Lima,NA,12,1861.24,Avión
+V0902,Brasil,16,,Chan Chan,La Libertad,2025-01-05,,,Barco
+V0903,Perú,43,M,Machu Picchu,Cusco,,2,,Avión
+V0904,Francia,,M,Iquitos,Loreto,,,,Bus
+V0905,Argentina,,M,Valle del Colca,Arequipa,2024-07-18,9,,Auto
+V0906,Perú,,F,Lago Titicaca,Puno,,6,,Avión
+V0907,Bolivia,43,,Cusco Ciudad,Cusco,NA,,2006.33,Barco
+V0908,Brasil,,M,Chan Chan,La Libertad,,,1008.52,Barco
+V0909,Alemania,,O,Machu Picchu,Cusco,NA,,724.64,Avión
+V0910,México,,,Centro Histórico,Lima,NA,3,,
+V0911,Alemania,,,Chan Chan,La Libertad,,1,1895.4,Tren
+V0912,Perú,,,Chan Chan,La Libertad,,,1210.26,Auto
+V0913,Chile,,F,Cusco Ciudad,Cusco,,8,,Barco
+V0914,España,,,Valle del Colca,Arequipa,,5,1010.23,
+V0915,Perú,29,,Lago Titicaca,Puno,NA,,3871.68,Avión
+V0916,Perú,,O,Valle del Colca,Arequipa,2025-09-23,,,Barco
+V0917,Colombia,,O,Valle del Colca,Arequipa,,,,Auto
+V0918,Colombia,,O,Huacachina,Ica,2024-09-22,1,,Avión
+V0919,Argentina,,,Iquitos,Loreto,,,,Tren
+V0920,Brasil,70,F,Iquitos,Loreto,,7,2295.67,
+V0921,Brasil,60,,Iquitos,Loreto,,,,Avión
+V0922,México,,,Huacachina,Ica,,,,Auto
+V0923,Perú,34,O,Chan Chan,La Libertad,2025-03-09,,4968.4,
+V0924,Bolivia,,,Lago Titicaca,Puno,2024-01-17,8,,Barco
+V0925,Perú,47,F,Lago Titicaca,Puno,,,,
+V0926,Perú,31,F,Machu Picchu,Cusco,,,,Auto
+V0927,México,,O,Iquitos,Loreto,2024-05-23,,,Tren
+V0928,Perú,25,F,Chan Chan,La Libertad,NA,13,3459.12,Bus
+V0929,Brasil,,,Machu Picchu,Cusco,NA,13,970.23,NA
+V0930,España,72,M,Lago Titicaca,Puno,NA,13,4781.61,
+V0931,México,,,Huacachina,Ica,2025-06-13,,4949.64,Tren
+V0932,Perú,,O,Miraflores,Lima,,5,4823.78,Auto
+V0933,Perú,57,M,Valle del Colca,Arequipa,2024-09-22,5,,Avión
+V0934,Perú,,M,Huacachina,Ica,2025-11-01,,,NA
+V0935,España,,O,Lago Titicaca,Puno,NA,,,Bus
+V0936,Colombia,,M,Huacachina,Ica,NA,,664.79,Auto
+V0937,Ecuador,,,Chan Chan,La Libertad,,11,3341.08,Avión
+V0938,Colombia,,F,Miraflores,Lima,NA,,618.16,NA
+V0939,Colombia,31,F,Huacachina,Ica,2024-05-15,9,4336.27,Bus
+V0940,Perú,,,Cusco Ciudad,Cusco,2024-04-20,10,,Tren
+V0941,Perú,,,Huacachina,Ica,NA,,,Tren
+V0941,Perú,,,Huacachina,Ica,NA,,,Tren
+V0942,USA,71,F,Cusco Ciudad,Cusco,,9,2925.63,Auto
+V0943,México,44,O,Lago Titicaca,Puno,NA,,3649.49,Barco
+V0944,Perú,30,,Lago Titicaca,Puno,2025-08-31,,3754.6,Auto
+V0945,Chile,71,,Miraflores,Lima,2024-12-10,10,3028.15,Auto
+V0946,México,,F,Miraflores,Lima,NA,4,4842.54,Tren
+V0947,Perú,21,F,Machu Picchu,Cusco,NA,10,1993.5,Bus
+V0948,México,,F,Chan Chan,La Libertad,,3,1207.25,NA
+V0949,Perú,15,,Miraflores,Lima,,,374.33,Tren
+V0950,Perú,46,F,Lago Titicaca,Puno,NA,13,577.67,Auto
+V0951,Ecuador,,,Cusco Ciudad,Cusco,2024-05-12,,,Barco
+V0952,Argentina,27,,Lago Titicaca,Puno,,5,,Avión
+V0953,Perú,,F,Valle del Colca,Arequipa,2025-03-09,12,3676.22,Avión
+V0954,Perú,,,Huacachina,Ica,NA,,2457.07,Auto
+V0955,Perú,,F,Valle del Colca,Arequipa,NA,5,4118.68,NA
+V0956,México,,,Huacachina,Ica,2024-10-11,7,,Bus
+V0957,Perú,,F,Centro Histórico,Lima,2025-09-06,11,587.42,Barco
+V0958,Brasil,,O,Machu Picchu,Cusco,,12,4564.53,Bus
+V0959,México,,O,Iquitos,Loreto,2025-04-14,7,4496.37,
+V0960,Argentina,,M,Lago Titicaca,Puno,NA,5,283.51,Tren
+V0961,Argentina,,,Centro Histórico,Lima,,,,Tren
+V0962,Perú,,,Chan Chan,La Libertad,2024-05-21,,,Tren
+V0963,Colombia,23,,Lago Titicaca,Puno,2025-09-22,8,1269.48,Avión
+V0964,Francia,,O,Chan Chan,La Libertad,,6,,Bus
+V0965,México,50,,Machu Picchu,Cusco,2025-10-28,5,,Tren
+V0966,Colombia,,,Valle del Colca,Arequipa,,,,Avión
+V0967,Argentina,,F,Lago Titicaca,Puno,,7,3125.21,Barco
+V0968,Perú,,F,Valle del Colca,Arequipa,,10,,Avión
+V0969,Ecuador,26,F,Lago Titicaca,Puno,2025-02-16,8,2762.36,Bus
+V0970,Perú,,O,Machu Picchu,Cusco,NA,11,4798.46,Auto
+V0971,Perú,,M,Miraflores,Lima,,,,Avión
+V0972,Perú,,F,Lago Titicaca,Puno,NA,8,,Auto
+V0973,Ecuador,15,,Iquitos,Loreto,NA,5,2699.34,Auto
+V0974,Bolivia,49,F,Valle del Colca,Arequipa,2024-08-01,,,
+V0975,Perú,,F,Iquitos,Loreto,NA,,4328.61,Auto
+V0976,Ecuador,34,,Iquitos,Loreto,NA,12,,Avión
+V0977,Colombia,57,O,Huacachina,Ica,NA,13,2175.15,Avión
+V0978,Perú,34,F,Iquitos,Loreto,,6,4720.62,
+V0979,Argentina,,,Chan Chan,La Libertad,,12,,
+V0979,Argentina,,,Chan Chan,La Libertad,,12,,
+V0980,Colombia,,O,Huacachina,Ica,,,,Tren
+V0981,Colombia,36,O,Chan Chan,La Libertad,,5,,NA
+V0982,Brasil,,O,Lago Titicaca,Puno,NA,,,
+V0983,México,,F,Miraflores,Lima,NA,,2974.33,Avión
+V0984,Perú,38,O,Centro Histórico,Lima,NA,14,,Auto
+V0985,Bolivia,,,Valle del Colca,Arequipa,2024-05-02,,148.44,Auto
+V0986,Perú,,,Valle del Colca,Arequipa,2025-12-07,,,
+V0987,México,,F,Valle del Colca,Arequipa,2025-09-22,3,,Auto
+V0988,Colombia,,F,Chan Chan,La Libertad,,6,1489.4,Avión
+V0989,México,44,O,Machu Picchu,Cusco,2025-10-26,,,
+V0990,Perú,,F,Lago Titicaca,Puno,,,4083.08,Barco
+V0991,Perú,,F,Centro Histórico,Lima,2025-12-16,4,666.25,NA
+V0992,Ecuador,37,O,Valle del Colca,Arequipa,2025-06-07,11,209.81,Bus
+V0993,Perú,,,Huacachina,Ica,2024-05-08,,,Barco
+V0994,Ecuador,50,O,Valle del Colca,Arequipa,,6,,NA
+V0995,Argentina,,O,Machu Picchu,Cusco,,,1983.18,Avión
+V0996,Ecuador,,O,Chan Chan,La Libertad,2025-11-04,,,Bus
+V0997,Colombia,,M,Chan Chan,La Libertad,2025-11-22,11,,
+V0998,México,,,Valle del Colca,Arequipa,NA,6,,Auto
+V0999,USA,,,Valle del Colca,Arequipa,NA,,,Auto
+V1000,Colombia,,M,Iquitos,Loreto,2025-01-13,10,,NA
+V1001,México,74,,Cusco Ciudad,Cusco,,,2311.51,Bus
+V1002,Perú,,M,Iquitos,Loreto,,11,563.06,Barco
+V1003,Perú,56,F,Iquitos,Loreto,2025-08-01,4,4360.39,Auto
+V1004,México,,F,Valle del Colca,Arequipa,2024-10-22,7,,
+V1005,Perú,47,M,Iquitos,Loreto,2025-12-22,,,Tren
+V1006,Perú,21,,Iquitos,Loreto,NA,,,Tren
+V1007,Perú,45,,Lago Titicaca,Puno,,6,,
+V1008,Perú,,,Chan Chan,La Libertad,,,3011.1,
+V1009,España,,F,Valle del Colca,Arequipa,2025-02-18,,1348.47,Auto
+V1010,Ecuador,69,,Valle del Colca,Arequipa,2024-12-02,,,
+V1011,Perú,,O,Chan Chan,La Libertad,2025-03-07,1,1111.01,Auto
+V1012,Ecuador,,,Machu Picchu,Cusco,2025-06-14,,,Auto
+V1013,Perú,,M,Valle del Colca,Arequipa,NA,14,,Tren
+V1014,México,,,Valle del Colca,Arequipa,2025-07-22,,1327.74,Tren
+V1015,Colombia,,M,Chan Chan,La Libertad,NA,12,615.29,Avión
+V1016,México,,O,Valle del Colca,Arequipa,2025-09-02,,,Avión
+V1017,Colombia,29,M,Lago Titicaca,Puno,NA,10,,Avión
+V1018,Argentina,49,M,Machu Picchu,Cusco,2025-04-16,1,4072.3,Auto
+V1019,Argentina,,,Huacachina,Ica,NA,,,Avión
+V1020,Perú,56,M,Huacachina,Ica,,,1332.88,Tren
+V1021,México,,,Valle del Colca,Arequipa,NA,,,Auto
+V1022,Francia,60,M,Lago Titicaca,Puno,NA,,3162.48,Bus
+V1023,Colombia,35,O,Valle del Colca,Arequipa,,,,Barco
+V1024,Colombia,,M,Huacachina,Ica,2024-08-18,14,,Tren
+V1025,Colombia,28,M,Chan Chan,La Libertad,,13,1789.58,Bus
+V1026,Perú,,O,Huacachina,Ica,,,3844.81,Auto
+V1027,Perú,,,Lago Titicaca,Puno,2024-12-18,,,
+V1028,Brasil,,,Lago Titicaca,Puno,,,3235.85,Auto
+V1029,Perú,,M,Iquitos,Loreto,2025-07-13,,,NA
+V1030,Perú,,O,Chan Chan,La Libertad,2025-08-31,,,Avión
+V1031,Perú,,O,Huacachina,Ica,NA,8,2931.84,Avión
+V1032,Chile,38,O,Chan Chan,La Libertad,,,540.05,Bus
+V1033,Argentina,,,Lago Titicaca,Puno,NA,11,1411.97,Barco
+V1034,México,69,F,Chan Chan,La Libertad,NA,11,,Avión
+V1035,Colombia,,O,Centro Histórico,Lima,2024-08-06,,,Bus
+V1036,Perú,45,,Chan Chan,La Libertad,,11,,NA
+V1037,Argentina,,,Machu Picchu,Cusco,2024-04-20,14,,Avión
+V1038,Perú,,O,Valle del Colca,Arequipa,2025-04-21,,,Tren
+V1039,Colombia,,M,Valle del Colca,Arequipa,2024-11-07,,,Avión
+V1040,Perú,,,Huacachina,Ica,2024-03-02,,,Bus
+V1041,USA,35,M,Chan Chan,La Libertad,,10,,NA
+V1042,México,60,M,Chan Chan,La Libertad,,10,,Auto
+V1043,Colombia,60,,Chan Chan,La Libertad,2025-10-29,4,1466.06,Bus
+V1044,Argentina,27,F,Miraflores,Lima,,7,,Bus
+V1045,Perú,26,,Lago Titicaca,Puno,2025-09-26,,4567.49,Tren
+V1046,Ecuador,,O,Huacachina,Ica,2024-11-25,7,4111.49,Auto
+V1047,México,,O,Huacachina,Ica,2025-07-24,1,2713.46,Auto
+V1048,Argentina,,,Chan Chan,La Libertad,,,,Avión
+V1049,Argentina,69,F,Cusco Ciudad,Cusco,NA,,,Bus
+V1050,Perú,27,F,Valle del Colca,Arequipa,2025-12-10,,,NA
+V1051,México,,,Iquitos,Loreto,NA,7,722.15,NA
+V1052,Colombia,47,,Iquitos,Loreto,,10,,Barco
+V1053,España,,,Valle del Colca,Arequipa,2024-06-11,2,4866.57,Bus
+V1054,Colombia,,,Valle del Colca,Arequipa,2024-09-08,11,4971.49,Avión
+V1055,Perú,43,,Lago Titicaca,Puno,,9,947.06,Avión
+V1056,Colombia,,F,Chan Chan,La Libertad,NA,,273.26,Auto
+V1057,España,,,Huacachina,Ica,,,,Tren
+V1058,Chile,31,,Huacachina,Ica,NA,13,3288.99,
+V1059,Perú,,M,Iquitos,Loreto,NA,12,2119.66,Avión
+V1060,México,44,,Centro Histórico,Lima,2024-09-27,10,2566.06,Avión
+V1061,USA,16,M,Valle del Colca,Arequipa,,9,,NA
+V1062,México,,O,Iquitos,Loreto,NA,,4142.0,Auto
+V1063,USA,28,O,Machu Picchu,Cusco,,13,4478.09,Tren
+V1064,Chile,,M,Centro Histórico,Lima,2025-09-27,,2817.23,Avión
+V1065,Ecuador,,,Cusco Ciudad,Cusco,,,,Barco
+V1066,Perú,17,O,Iquitos,Loreto,NA,,,
+V1067,Perú,,F,Iquitos,Loreto,,,4408.66,NA
+V1068,Argentina,21,F,Chan Chan,La Libertad,NA,,4497.95,Barco
+V1069,México,,F,Iquitos,Loreto,,6,697.19,Avión
+V1070,Perú,,F,Chan Chan,La Libertad,NA,7,,Auto
+V1071,México,,M,Iquitos,Loreto,,,,Bus
+V1072,Perú,53,,Iquitos,Loreto,2024-06-24,3,,Tren
+V1073,México,,,Iquitos,Loreto,2025-02-04,13,2561.83,Barco
+V1074,Argentina,,,Chan Chan,La Libertad,2024-04-29,3,304.98,NA
+V1075,Perú,,F,Cusco Ciudad,Cusco,2024-04-19,12,,Barco
+V1076,Colombia,29,O,Miraflores,Lima,2025-07-17,14,,Bus
+V1077,Perú,40,,Machu Picchu,Cusco,,,2242.27,NA
+V1078,Chile,17,M,Lago Titicaca,Puno,,6,,NA
+V1079,Perú,,M,Chan Chan,La Libertad,2024-10-01,,,Auto
+V1080,Chile,,,Chan Chan,La Libertad,2025-11-02,,2521.32,
+V1081,Colombia,,,Chan Chan,La Libertad,NA,4,4069.0,Barco
+V1082,Colombia,,F,Chan Chan,La Libertad,NA,,,Barco
+V1083,Perú,54,,Chan Chan,La Libertad,2025-06-30,10,4813.74,Bus
+V1084,Colombia,,M,Chan Chan,La Libertad,2024-09-20,,4781.94,Avión
+V1085,Argentina,37,,Cusco Ciudad,Cusco,NA,,1071.46,Bus
+V1086,Perú,63,O,Cusco Ciudad,Cusco,NA,1,,Tren
+V1087,Perú,61,O,Miraflores,Lima,2025-01-13,2,3147.15,Auto
+V1088,Perú,,M,Chan Chan,La Libertad,,3,1822.73,Bus
+V1089,México,34,M,Iquitos,Loreto,,,3748.0,Auto
+V1089,México,34,M,Iquitos,Loreto,,,3748.0,Auto
+V1090,Colombia,,,Valle del Colca,Arequipa,NA,,,Bus
+V1091,España,30,O,Cusco Ciudad,Cusco,2024-08-09,13,227.24,NA
+V1092,Chile,,,Valle del Colca,Arequipa,NA,4,1049.22,
+V1093,México,,M,Huacachina,Ica,,9,,NA
+V1094,Chile,,M,Centro Histórico,Lima,2024-08-29,,2459.38,Barco
+V1095,Perú,67,F,Huacachina,Ica,NA,,4842.49,NA
+V1096,Perú,,M,Iquitos,Loreto,,5,574.11,Bus
+V1097,Argentina,,F,Centro Histórico,Lima,2024-09-19,10,1454.98,Barco
+V1098,Brasil,26,,Chan Chan,La Libertad,2025-12-01,,,Auto
+V1099,México,,,Iquitos,Loreto,,,298.52,Bus
+V1100,Perú,,M,Iquitos,Loreto,2025-06-19,6,,Barco
+V1101,Argentina,43,,Machu Picchu,Cusco,,,2857.52,
+V1102,Perú,,F,Huacachina,Ica,,3,4096.24,NA
+V1103,México,,F,Lago Titicaca,Puno,NA,,1410.22,Barco
+V1104,Francia,,,Huacachina,Ica,NA,5,,
+V1105,Perú,,O,Chan Chan,La Libertad,2024-05-23,,,Auto
+V1106,México,,M,Valle del Colca,Arequipa,,1,,Bus
+V1107,Perú,34,O,Huacachina,Ica,NA,,1609.92,Barco
+V1108,USA,52,F,Iquitos,Loreto,NA,3,2904.79,Barco
+V1109,Argentina,69,,Chan Chan,La Libertad,2024-01-30,,3752.32,Auto
+V1110,Argentina,,F,Miraflores,Lima,NA,,217.62,Tren
+V1111,México,58,F,Chan Chan,La Libertad,2025-02-18,,,Avión
+V1112,Colombia,16,M,Huacachina,Ica,NA,8,1467.68,Tren
+V1113,Argentina,,,Iquitos,Loreto,NA,,,Bus
+V1114,Perú,,,Cusco Ciudad,Cusco,,9,4557.09,Bus
+V1115,Brasil,,O,Cusco Ciudad,Cusco,,7,,Barco
+V1116,España,,M,Huacachina,Ica,2024-05-24,4,3504.24,
+V1117,Argentina,,O,Lago Titicaca,Puno,,2,4817.56,Auto
+V1118,Perú,28,M,Chan Chan,La Libertad,,,,Avión
+V1119,Colombia,,,Chan Chan,La Libertad,,11,4414.42,NA
+V1120,México,46,F,Chan Chan,La Libertad,NA,10,,Auto
+V1120,México,46,F,Chan Chan,La Libertad,NA,10,,Auto
+V1121,Brasil,37,M,Machu Picchu,Cusco,,12,,
+V1122,Perú,65,,Huacachina,Ica,,,1975.43,Auto
+V1123,México,,,Chan Chan,La Libertad,NA,,,NA
+V1124,Colombia,75,M,Iquitos,Loreto,,,3140.36,NA
+V1125,Perú,,O,Lago Titicaca,Puno,,7,,Bus
+V1126,Bolivia,,M,Chan Chan,La Libertad,NA,12,1678.52,Avión
+V1127,Chile,,O,Cusco Ciudad,Cusco,NA,,,Bus
+V1128,Perú,,F,Machu Picchu,Cusco,2025-02-06,12,,NA
+V1129,Chile,,F,Centro Histórico,Lima,NA,,,Auto
+V1130,Perú,19,,Miraflores,Lima,,10,,Auto
+V1131,México,,,Lago Titicaca,Puno,NA,5,,Bus
+V1132,Colombia,,F,Centro Histórico,Lima,,11,,Bus
+V1133,Perú,67,F,Huacachina,Ica,NA,,3518.5,Auto
+V1134,Perú,,M,Centro Histórico,Lima,,7,3997.12,
+V1135,Perú,,M,Cusco Ciudad,Cusco,,,,
+V1136,México,30,M,Iquitos,Loreto,NA,12,2245.31,
+V1137,Colombia,,F,Valle del Colca,Arequipa,2025-09-10,,,Avión
+V1138,Alemania,,M,Chan Chan,La Libertad,NA,,,
+V1139,Perú,74,,Lago Titicaca,Puno,2025-03-01,6,,Tren
+V1140,Perú,,O,Huacachina,Ica,NA,6,,Bus
+V1141,Argentina,,,Lago Titicaca,Puno,2025-07-31,,,Barco
+V1142,Perú,34,F,Miraflores,Lima,NA,,4127.86,Bus
+V1143,Perú,,F,Iquitos,Loreto,2025-10-23,9,2923.92,Auto
+V1144,Ecuador,,M,Cusco Ciudad,Cusco,2024-04-22,8,632.74,NA
+V1145,Perú,70,M,Cusco Ciudad,Cusco,2025-06-28,,4136.18,Tren
+V1146,Perú,,F,Iquitos,Loreto,,2,2128.77,Tren
+V1147,Ecuador,,,Miraflores,Lima,NA,14,,
+V1148,Argentina,,,Chan Chan,La Libertad,2024-06-22,12,,Avión
+V1149,Alemania,,F,Chan Chan,La Libertad,NA,,2740.7,Avión
+V1150,Ecuador,58,O,Machu Picchu,Cusco,2024-11-28,,4229.9,Barco
+V1151,Chile,,,Valle del Colca,Arequipa,,,,Auto
+V1152,Argentina,,O,Valle del Colca,Arequipa,NA,6,1789.14,
+V1153,Chile,46,O,Cusco Ciudad,Cusco,2024-12-23,14,,NA
+V1154,México,,,Valle del Colca,Arequipa,2024-09-01,9,,Avión
+V1155,Perú,,O,Huacachina,Ica,NA,,,
+V1156,Bolivia,,F,Miraflores,Lima,NA,,905.67,Auto
+V1157,Perú,,,Iquitos,Loreto,,,3970.36,
+V1158,Argentina,,F,Miraflores,Lima,NA,10,,Tren
+V1159,Perú,,M,Huacachina,Ica,NA,11,4904.88,Tren
+V1160,Francia,,M,Chan Chan,La Libertad,2025-04-23,,1007.68,Bus
+V1161,Perú,,,Iquitos,Loreto,NA,,,
+V1162,Perú,34,O,Iquitos,Loreto,,8,3208.42,Bus
+V1163,México,55,,Cusco Ciudad,Cusco,2024-12-12,14,,Tren
+V1164,México,46,,Valle del Colca,Arequipa,2025-03-31,6,3031.69,Avión
+V1165,Colombia,,,Valle del Colca,Arequipa,NA,,,Bus
+V1166,Colombia,56,,Huacachina,Ica,2024-10-23,,,Tren
+V1167,Perú,42,O,Huacachina,Ica,2025-11-18,,4150.41,NA
+V1168,Perú,48,F,Valle del Colca,Arequipa,,12,1786.17,Tren
+V1169,Perú,,M,Valle del Colca,Arequipa,2025-05-16,,,
+V1170,Perú,,,Huacachina,Ica,NA,3,2471.35,Avión
+V1171,México,,M,Lago Titicaca,Puno,NA,9,,Auto
+V1172,Chile,,,Machu Picchu,Cusco,2024-11-26,,,Avión
+V1173,Perú,,O,Miraflores,Lima,,,,
+V1174,Perú,39,F,Centro Histórico,Lima,NA,14,4984.15,Bus
+V1175,Argentina,,O,Miraflores,Lima,,13,,Avión
+V1176,Chile,31,,Huacachina,Ica,NA,,,NA
+V1177,Perú,,,Chan Chan,La Libertad,NA,,2617.71,
+V1178,Ecuador,,F,Chan Chan,La Libertad,NA,,,NA
+V1179,Brasil,,O,Chan Chan,La Libertad,,7,2156.89,Avión
+V1180,Brasil,,F,Valle del Colca,Arequipa,,4,,Avión
+V1181,Bolivia,54,,Valle del Colca,Arequipa,,8,,Avión
+V1182,Brasil,,,Valle del Colca,Arequipa,,8,,Avión
+V1183,Colombia,,O,Cusco Ciudad,Cusco,2024-08-28,,4060.92,
+V1184,Perú,50,,Huacachina,Ica,,13,3284.04,Avión
+V1185,Argentina,,,Iquitos,Loreto,NA,,1981.05,Avión
+V1186,Perú,33,M,Iquitos,Loreto,2024-06-24,,660.95,
+V1187,USA,27,,Machu Picchu,Cusco,NA,6,,Auto
+V1188,USA,,,Chan Chan,La Libertad,2024-03-30,,,NA
+V1189,Ecuador,,,Valle del Colca,Arequipa,NA,11,2245.66,Avión
+V1190,Colombia,57,M,Lago Titicaca,Puno,,11,,Tren
+V1191,México,,,Huacachina,Ica,,,3451.0,Avión
+V1192,Perú,,M,Huacachina,Ica,,9,,Bus
+V1193,Perú,,,Iquitos,Loreto,,,,NA
+V1194,México,,M,Cusco Ciudad,Cusco,NA,,,Tren
+V1195,Perú,49,F,Chan Chan,La Libertad,,,,Tren
+V1196,México,,F,Miraflores,Lima,,,2119.72,Auto
+V1197,Perú,,F,Lago Titicaca,Puno,2024-02-19,14,,Auto
+V1198,Perú,,M,Iquitos,Loreto,NA,,62.76,Auto
+V1199,Brasil,,O,Chan Chan,La Libertad,,11,3750.6,Tren
+V1200,Bolivia,30,,Machu Picchu,Cusco,NA,,,Auto
+V1201,México,31,F,Huacachina,Ica,NA,,,Auto
+V1202,México,,O,Chan Chan,La Libertad,2024-03-11,14,3180.17,Bus
+V1203,Perú,63,F,Miraflores,Lima,NA,13,,NA
+V1204,Chile,,M,Machu Picchu,Cusco,2025-04-23,12,,NA
+V1205,Colombia,,F,Lago Titicaca,Puno,2025-02-27,7,,Tren
+V1206,Perú,,,Centro Histórico,Lima,NA,13,,Auto
+V1207,Bolivia,,,Cusco Ciudad,Cusco,,12,3147.16,NA
+V1208,USA,,,Huacachina,Ica,,,,Barco
+V1209,México,,M,Machu Picchu,Cusco,NA,,3996.11,Avión
+V1210,Brasil,,M,Chan Chan,La Libertad,2025-10-11,11,,Auto
+V1211,Alemania,,M,Iquitos,Loreto,,11,,Avión
+V1212,México,,F,Iquitos,Loreto,2024-02-06,,2915.68,Bus
+V1213,Perú,,M,Iquitos,Loreto,,1,,Tren
+V1214,Perú,,,Chan Chan,La Libertad,2025-01-25,,,Auto
+V1215,Perú,,F,Valle del Colca,Arequipa,2025-11-06,13,1165.88,Bus
+V1216,Chile,,,Chan Chan,La Libertad,2025-04-05,10,3465.21,NA
+V1217,México,,,Miraflores,Lima,,1,,
+V1218,Perú,,M,Centro Histórico,Lima,NA,10,3801.09,Auto
+V1219,México,54,,Valle del Colca,Arequipa,2024-05-01,4,4095.67,Bus
+V1220,Colombia,48,,Lago Titicaca,Puno,NA,6,703.83,Bus
+V1221,Bolivia,26,O,Valle del Colca,Arequipa,NA,,2911.91,Tren
+V1222,Perú,,,Miraflores,Lima,2024-08-03,7,,
+V1223,Colombia,20,O,Cusco Ciudad,Cusco,NA,,,NA
+V1224,México,,M,Huacachina,Ica,NA,,542.01,
+V1225,Colombia,,O,Miraflores,Lima,2025-08-21,12,,
+V1226,México,,,Lago Titicaca,Puno,,,,
+V1227,Perú,,O,Cusco Ciudad,Cusco,2025-06-07,,,Avión
+V1228,Colombia,,F,Iquitos,Loreto,,5,,Bus
+V1229,Perú,,,Lago Titicaca,Puno,,3,,NA
+V1230,España,,O,Machu Picchu,Cusco,2024-12-05,3,,NA
+V1231,Perú,,,Lago Titicaca,Puno,,2,,Bus
+V1232,Perú,,M,Valle del Colca,Arequipa,NA,,,
+V1233,México,,O,Cusco Ciudad,Cusco,,,1991.95,Auto
+V1234,México,,,Chan Chan,La Libertad,2024-10-07,3,,
+V1235,México,,O,Lago Titicaca,Puno,,,,NA
+V1236,España,,F,Miraflores,Lima,,,,Tren
+V1237,Colombia,,O,Huacachina,Ica,NA,3,1282.05,Tren
+V1238,México,,,Chan Chan,La Libertad,NA,,3422.02,Tren
+V1239,Perú,,O,Huacachina,Ica,2024-05-27,,513.93,Bus
+V1240,Perú,,,Huacachina,Ica,NA,,230.83,Barco
+V1241,Francia,,F,Miraflores,Lima,,4,,Tren
+V1242,Argentina,27,F,Iquitos,Loreto,NA,,3969.76,Tren
+V1243,Perú,,M,Chan Chan,La Libertad,2024-09-06,,,
+V1244,Perú,,O,Chan Chan,La Libertad,NA,5,2090.9,
+V1245,Colombia,39,,Valle del Colca,Arequipa,2024-02-28,,1610.26,Bus
+V1246,Colombia,29,O,Lago Titicaca,Puno,NA,,206.17,Barco
+V1247,Perú,,,Miraflores,Lima,,,2857.06,Tren
+V1248,Argentina,,F,Huacachina,Ica,,5,,Barco
+V1249,Argentina,,M,Machu Picchu,Cusco,,4,,Barco
+V1250,Perú,67,,Centro Histórico,Lima,NA,,,Avión
+V1251,Brasil,,F,Lago Titicaca,Puno,2024-03-25,12,4274.1,NA
+V1252,México,28,F,Chan Chan,La Libertad,NA,,4206.49,Auto
+V1253,Perú,24,,Cusco Ciudad,Cusco,NA,,,Bus
+V1254,México,,F,Chan Chan,La Libertad,2025-12-11,8,,
+V1255,Argentina,,M,Lago Titicaca,Puno,,,2833.95,NA
+V1256,Alemania,,,Iquitos,Loreto,2025-10-22,7,,
+V1257,Perú,39,,Iquitos,Loreto,,13,,
+V1258,Perú,,O,Cusco Ciudad,Cusco,2024-03-24,11,236.58,Bus
+V1259,México,,M,Huacachina,Ica,2025-07-23,9,,Barco
+V1260,Colombia,,O,Valle del Colca,Arequipa,,,,Bus
+V1261,Perú,,M,Iquitos,Loreto,2024-06-05,7,,
+V1262,Perú,,,Iquitos,Loreto,NA,,543.4,NA
+V1263,Brasil,,M,Miraflores,Lima,NA,,4932.89,
+V1264,México,64,,Valle del Colca,Arequipa,2025-09-21,,2025.92,Bus
+V1265,Perú,,,Cusco Ciudad,Cusco,NA,,,NA
+V1266,Francia,,O,Huacachina,Ica,,,4412.34,Avión
+V1267,Perú,48,,Cusco Ciudad,Cusco,2025-12-14,,,Barco
+V1268,Colombia,,M,Cusco Ciudad,Cusco,,14,3931.1,Barco
+V1269,México,,O,Iquitos,Loreto,NA,6,1086.32,Barco
+V1270,Perú,,M,Valle del Colca,Arequipa,,4,4126.78,Auto
+V1271,Francia,,O,Machu Picchu,Cusco,2025-03-01,,4779.15,Auto
+V1272,Chile,,,Miraflores,Lima,,,,Auto
+V1273,Argentina,,F,Huacachina,Ica,NA,10,2334.03,Tren
+V1274,Perú,,F,Valle del Colca,Arequipa,,,1970.28,
+V1275,Chile,,O,Chan Chan,La Libertad,NA,,1850.03,NA
+V1276,Bolivia,,M,Cusco Ciudad,Cusco,NA,14,2213.33,Avión
+V1277,México,46,,Huacachina,Ica,,4,,Tren
+V1278,Argentina,,M,Valle del Colca,Arequipa,,3,2743.85,Tren
+V1279,Perú,,F,Lago Titicaca,Puno,NA,,930.18,Auto
+V1280,Ecuador,,F,Chan Chan,La Libertad,NA,,,
+V1281,Perú,,M,Valle del Colca,Arequipa,NA,,417.81,Avión
+V1282,Perú,,O,Huacachina,Ica,2024-06-30,,892.46,
+V1283,Perú,,M,Iquitos,Loreto,2025-11-27,,1552.26,Auto
+V1284,Perú,,O,Miraflores,Lima,NA,1,,NA
+V1285,México,73,M,Machu Picchu,Cusco,NA,12,,
+V1286,Colombia,22,F,Cusco Ciudad,Cusco,2025-03-09,,,Auto
+V1287,Chile,61,O,Centro Histórico,Lima,,,,Auto
+V1288,Bolivia,57,F,Miraflores,Lima,,,2139.41,
+V1289,Colombia,,,Chan Chan,La Libertad,2024-07-02,7,,Bus
+V1290,Ecuador,40,F,Cusco Ciudad,Cusco,,,,Avión
+V1291,Perú,,F,Miraflores,Lima,NA,3,915.5,Barco
+V1292,España,,M,Lago Titicaca,Puno,NA,11,,Tren
+V1293,Francia,,,Huacachina,Ica,2025-06-22,,4629.82,NA
+V1294,Colombia,27,,Huacachina,Ica,,,2784.87,NA
+V1295,Perú,,F,Chan Chan,La Libertad,,,,
+V1296,Perú,,M,Valle del Colca,Arequipa,NA,6,,Tren
+V1297,Perú,,,Iquitos,Loreto,NA,,,
+V1298,Colombia,,O,Machu Picchu,Cusco,2024-08-20,,,NA
+V1299,Ecuador,,F,Chan Chan,La Libertad,NA,6,,Tren
+V1300,Colombia,,O,Chan Chan,La Libertad,NA,,3185.29,Auto
+V1301,Argentina,,,Machu Picchu,Cusco,,,,Barco
+V1302,Perú,,F,Huacachina,Ica,NA,,,Tren
+V1303,Francia,,F,Machu Picchu,Cusco,,,4609.95,Auto
+V1304,Chile,,F,Cusco Ciudad,Cusco,2025-10-07,11,,Bus
+V1305,Perú,,O,Lago Titicaca,Puno,2024-09-14,3,,Bus
+V1306,Perú,,F,Lago Titicaca,Puno,,12,,Auto
+V1307,Perú,48,M,Iquitos,Loreto,NA,13,1044.67,Bus
+V1308,Argentina,,,Machu Picchu,Cusco,NA,,1270.43,Tren
+V1309,México,,F,Huacachina,Ica,NA,,,
+V1310,Ecuador,,F,Valle del Colca,Arequipa,,,,
+V1311,Perú,,M,Iquitos,Loreto,NA,,4328.87,Auto
+V1312,Perú,73,F,Iquitos,Loreto,,3,,Tren
+V1313,México,68,M,Valle del Colca,Arequipa,NA,,,NA
+V1314,España,,F,Cusco Ciudad,Cusco,,,536.31,Barco
+V1315,Brasil,,M,Lago Titicaca,Puno,2025-12-21,,950.78,Auto
+V1316,Chile,,F,Chan Chan,La Libertad,,5,3463.56,NA
+V1317,Perú,37,O,Cusco Ciudad,Cusco,,,,Bus
+V1318,Colombia,,O,Iquitos,Loreto,,,3326.61,NA
+V1319,Bolivia,,,Cusco Ciudad,Cusco,2024-05-16,7,,NA
+V1320,México,,,Chan Chan,La Libertad,2024-04-03,11,1515.46,Barco
+V1321,Perú,,,Miraflores,Lima,NA,1,456.13,Barco
+V1322,Perú,,,Valle del Colca,Arequipa,2025-05-24,2,2744.4,Avión
+V1323,Colombia,32,F,Iquitos,Loreto,NA,,4423.55,Bus
+V1324,Perú,,F,Valle del Colca,Arequipa,2025-11-10,,,
+V1325,USA,,O,Miraflores,Lima,2025-01-24,,1119.4,Barco
+V1326,Perú,,M,Lago Titicaca,Puno,2025-12-28,,1852.11,NA
+V1327,Perú,,M,Centro Histórico,Lima,NA,6,,Bus
+V1328,Perú,21,F,Lago Titicaca,Puno,2025-12-02,,3386.09,Barco
+V1329,Colombia,,,Centro Histórico,Lima,,,,NA
+V1330,Perú,,,Huacachina,Ica,2025-06-04,,2991.68,Auto
+V1331,Bolivia,32,F,Lago Titicaca,Puno,,,,
+V1332,México,72,F,Chan Chan,La Libertad,NA,14,,Barco
+V1333,Argentina,,,Miraflores,Lima,,8,,
+V1334,Argentina,45,,Miraflores,Lima,,,4966.57,NA
+V1335,México,30,,Iquitos,Loreto,2024-04-23,9,,Avión
+V1336,México,,F,Machu Picchu,Cusco,NA,,,
+V1337,Francia,,,Centro Histórico,Lima,NA,3,,NA
+V1338,Francia,,M,Cusco Ciudad,Cusco,NA,,4176.55,Bus
+V1339,Perú,,F,Chan Chan,La Libertad,2024-01-06,1,4719.31,
+V1340,Perú,35,,Miraflores,Lima,NA,8,2031.46,Tren
+V1341,Colombia,72,M,Iquitos,Loreto,,,1394.07,Barco
+V1342,México,,,Iquitos,Loreto,2025-12-05,,3058.97,Avión
+V1343,México,,,Lago Titicaca,Puno,2024-10-31,2,693.38,
+V1344,Chile,,,Valle del Colca,Arequipa,,,2389.6,
+V1345,Colombia,,M,Valle del Colca,Arequipa,NA,10,,Barco
+V1346,México,,M,Iquitos,Loreto,2025-12-11,,4973.92,Avión
+V1347,Ecuador,,F,Iquitos,Loreto,NA,4,,Barco
+V1348,México,,M,Lago Titicaca,Puno,,3,425.31,NA
+V1349,México,,,Machu Picchu,Cusco,2025-03-14,13,1963.94,Auto
+V1350,Perú,42,F,Chan Chan,La Libertad,,,,Barco
+V1351,México,37,,Valle del Colca,Arequipa,,,,Barco
+V1352,Ecuador,,M,Chan Chan,La Libertad,2024-11-24,4,,
+V1353,Perú,,,Lago Titicaca,Puno,2024-09-16,,2840.48,NA
+V1354,España,,F,Lago Titicaca,Puno,,,,NA
+V1355,Perú,,M,Iquitos,Loreto,,11,,Tren
+V1356,Perú,30,,Huacachina,Ica,,,4419.46,Barco
+V1357,USA,60,F,Lago Titicaca,Puno,2024-05-20,,2355.3,Barco
+V1358,Argentina,55,O,Huacachina,Ica,,3,,Avión
+V1359,Perú,,,Valle del Colca,Arequipa,,6,1651.39,
+V1360,Argentina,45,O,Huacachina,Ica,2024-09-17,,2428.14,Tren
+V1361,México,,,Centro Histórico,Lima,,,,Auto
+V1362,Colombia,41,,Centro Histórico,Lima,,,3876.42,
+V1363,Perú,,M,Valle del Colca,Arequipa,,,,
+V1364,México,,M,Centro Histórico,Lima,,6,,NA
+V1365,Ecuador,,O,Machu Picchu,Cusco,NA,12,,
+V1366,Perú,,,Chan Chan,La Libertad,2025-08-30,,,
+V1367,Francia,51,O,Cusco Ciudad,Cusco,,7,1260.05,Tren
+V1368,Argentina,,M,Iquitos,Loreto,,10,1394.49,Avión
+V1369,Argentina,31,M,Cusco Ciudad,Cusco,,,3189.23,
+V1370,Brasil,,,Machu Picchu,Cusco,2024-04-01,,,Tren
+V1371,Perú,,F,Huacachina,Ica,NA,10,,Auto
+V1372,Ecuador,68,,Iquitos,Loreto,2025-10-11,,,Auto
+V1373,España,22,O,Huacachina,Ica,2024-01-01,10,1643.89,
+V1374,Colombia,,F,Centro Histórico,Lima,NA,6,,
+V1375,México,36,,Valle del Colca,Arequipa,,1,,Barco
+V1376,Colombia,,,Lago Titicaca,Puno,,,,Tren
+V1377,Perú,,M,Chan Chan,La Libertad,NA,,2432.07,NA
+V1378,Alemania,27,F,Miraflores,Lima,NA,,,Barco
+V1379,USA,27,O,Valle del Colca,Arequipa,NA,,886.86,Avión
+V1380,Colombia,,,Lago Titicaca,Puno,NA,10,1128.3,Tren
+V1381,México,32,,Huacachina,Ica,NA,,,Bus
+V1382,Perú,,,Centro Histórico,Lima,NA,9,2213.77,Auto
+V1383,Ecuador,49,F,Lago Titicaca,Puno,,,235.37,
+V1384,Perú,43,F,Chan Chan,La Libertad,2024-01-11,,,Tren
+V1385,USA,,O,Chan Chan,La Libertad,2024-09-06,,,Avión
+V1386,Perú,,F,Chan Chan,La Libertad,,1,,Auto
+V1387,Brasil,,,Cusco Ciudad,Cusco,2025-05-04,,,Avión
+V1388,Bolivia,,O,Iquitos,Loreto,2024-08-05,14,1672.11,
+V1389,Perú,,F,Huacachina,Ica,,1,4748.12,Tren
+V1390,Brasil,37,,Miraflores,Lima,NA,,,
+V1391,Perú,31,M,Huacachina,Ica,2024-02-09,7,3698.23,Avión
+V1392,Brasil,,M,Valle del Colca,Arequipa,2025-05-26,,3514.81,Bus
+V1393,Argentina,,,Valle del Colca,Arequipa,,,2901.99,Bus
+V1394,Argentina,,,Centro Histórico,Lima,NA,,840.32,Auto
+V1395,Chile,62,,Cusco Ciudad,Cusco,2025-01-24,8,725.5,NA
+V1396,Perú,,O,Chan Chan,La Libertad,,,3914.65,
+V1397,Argentina,20,F,Lago Titicaca,Puno,,,1850.25,Avión
+V1398,Argentina,,,Lago Titicaca,Puno,NA,7,,Bus
+V1399,Argentina,22,F,Valle del Colca,Arequipa,NA,,,Avión
+V1400,México,,M,Lago Titicaca,Puno,2025-06-11,12,,
+V1401,México,,M,Machu Picchu,Cusco,2025-02-17,,,Avión
+V1402,Perú,,O,Machu Picchu,Cusco,2024-02-08,,,Auto
+V1403,Perú,64,F,Huacachina,Ica,2024-06-13,,4623.16,
+V1404,Argentina,21,O,Chan Chan,La Libertad,2025-04-13,,,Tren
+V1405,Perú,,F,Iquitos,Loreto,,13,,Avión
+V1406,México,,M,Lago Titicaca,Puno,NA,,734.47,Tren
+V1407,Colombia,,,Valle del Colca,Arequipa,,,,Avión
+V1408,Bolivia,17,M,Huacachina,Ica,2025-07-04,1,2451.24,
+V1409,Perú,58,M,Lago Titicaca,Puno,,8,,Bus
+V1410,Perú,70,M,Lago Titicaca,Puno,NA,5,1037.18,
+V1411,Chile,,,Chan Chan,La Libertad,,,,Bus
+V1412,Perú,,O,Iquitos,Loreto,NA,13,3873.35,Auto
+V1413,Perú,27,,Chan Chan,La Libertad,,12,,Auto
+V1414,Argentina,,F,Huacachina,Ica,2024-07-16,,3494.38,NA
+V1415,Chile,28,M,Lago Titicaca,Puno,NA,14,,Auto
+V1416,Perú,,,Cusco Ciudad,Cusco,,1,,
+V1417,México,,F,Huacachina,Ica,NA,13,3431.61,Barco
+V1418,Alemania,,O,Lago Titicaca,Puno,NA,,,Avión
+V1419,Perú,,,Iquitos,Loreto,2025-01-25,8,1966.47,NA
+V1420,Perú,,,Lago Titicaca,Puno,,7,,Tren
+V1421,Perú,17,O,Iquitos,Loreto,,,,Avión
+V1422,USA,,M,Chan Chan,La Libertad,2024-08-28,10,743.53,Auto
+V1423,México,,,Iquitos,Loreto,2025-06-22,,2977.11,Tren
+V1424,Perú,,O,Valle del Colca,Arequipa,2025-04-16,5,,Auto
+V1425,España,,,Chan Chan,La Libertad,NA,1,1521.75,NA
+V1426,Perú,69,,Lago Titicaca,Puno,2024-07-12,12,,NA
+V1427,Perú,,,Lago Titicaca,Puno,NA,,4732.4,Bus
+V1428,Perú,,M,Iquitos,Loreto,,,,Auto
+V1429,España,,,Machu Picchu,Cusco,,,1654.97,Auto
+V1430,México,26,,Iquitos,Loreto,2024-12-09,14,736.53,Auto
+V1431,Colombia,,M,Machu Picchu,Cusco,2024-04-10,,,
+V1432,Perú,,F,Cusco Ciudad,Cusco,,6,,Barco
+V1433,Perú,,,Huacachina,Ica,2024-05-15,,998.12,Avión
+V1434,Perú,,M,Chan Chan,La Libertad,2025-02-08,,,Auto
+V1434,Perú,,M,Chan Chan,La Libertad,2025-02-08,,,Auto
+V1435,Perú,,,Iquitos,Loreto,NA,,,Avión
+V1436,México,64,,Miraflores,Lima,2025-07-16,,3657.2,Barco
+V1437,Perú,,F,Cusco Ciudad,Cusco,,,3450.69,Avión
+V1438,Perú,,M,Iquitos,Loreto,2024-02-13,,,Avión
+V1439,Argentina,,M,Huacachina,Ica,2025-06-08,,,Barco
+V1440,Perú,46,M,Valle del Colca,Arequipa,2024-01-12,,1214.57,Avión
+V1441,Perú,,,Cusco Ciudad,Cusco,,,3912.81,Auto
+V1442,Argentina,,F,Miraflores,Lima,,,,Barco
+V1443,Perú,,,Miraflores,Lima,,7,,Barco
+V1444,México,,M,Machu Picchu,Cusco,2025-01-22,8,2903.91,Barco
+V1445,Chile,,F,Valle del Colca,Arequipa,,,,Bus
+V1446,Bolivia,38,F,Valle del Colca,Arequipa,,6,,NA
+V1447,Perú,,,Cusco Ciudad,Cusco,,,80.33,
+V1448,USA,,,Miraflores,Lima,2025-09-24,,4727.28,Barco
+V1449,México,,M,Chan Chan,La Libertad,2024-07-17,,831.81,
+V1450,Alemania,,,Valle del Colca,Arequipa,2025-05-11,,,Auto
+V1451,Argentina,70,M,Valle del Colca,Arequipa,NA,11,,Tren
+V1452,Perú,,,Centro Histórico,Lima,NA,11,,NA
+V1453,Perú,,F,Lago Titicaca,Puno,,,,Auto
+V1454,Perú,15,F,Lago Titicaca,Puno,2024-03-19,7,,Bus
+V1455,México,,M,Huacachina,Ica,2024-12-08,6,1677.8,Barco
+V1456,Colombia,,,Iquitos,Loreto,2024-03-03,2,,Bus
+V1457,Colombia,67,,Iquitos,Loreto,NA,3,,Tren
+V1458,México,,F,Machu Picchu,Cusco,,11,1608.33,Barco
+V1459,Perú,,O,Lago Titicaca,Puno,2024-06-12,,,Auto
+V1460,Colombia,,,Centro Histórico,Lima,2024-08-19,13,1069.94,Barco
+V1461,Chile,,M,Iquitos,Loreto,2024-01-16,,,Barco
+V1462,España,,,Miraflores,Lima,NA,9,3294.26,Tren
+V1463,Colombia,,O,Chan Chan,La Libertad,NA,10,,Bus
+V1464,Brasil,25,,Valle del Colca,Arequipa,NA,9,4389.21,
+V1465,México,,,Lago Titicaca,Puno,NA,11,1524.9,NA
+V1466,Perú,,F,Centro Histórico,Lima,NA,,1932.42,Tren
+V1467,Colombia,22,,Valle del Colca,Arequipa,2024-08-01,5,,Tren
+V1468,Perú,,M,Centro Histórico,Lima,2024-05-03,,4147.93,Auto
+V1469,Argentina,,F,Huacachina,Ica,,,,Avión
+V1470,Argentina,25,,Machu Picchu,Cusco,,14,,Tren
+V1471,Perú,,F,Chan Chan,La Libertad,NA,9,,Bus
+V1472,México,,,Machu Picchu,Cusco,,7,,
+V1473,Perú,,O,Miraflores,Lima,2025-04-07,,,
+V1474,Alemania,,O,Iquitos,Loreto,2025-03-08,8,,Auto
+V1475,Colombia,71,,Valle del Colca,Arequipa,2025-08-28,10,,Barco
+V1476,USA,,M,Centro Histórico,Lima,,10,,Tren
+V1477,México,,,Machu Picchu,Cusco,2025-12-27,11,,Auto
+V1478,Ecuador,,M,Chan Chan,La Libertad,2025-10-31,1,439.96,NA
+V1479,Perú,,O,Chan Chan,La Libertad,,,,Barco
+V1480,USA,,O,Miraflores,Lima,NA,,4033.31,
+V1481,México,,,Lago Titicaca,Puno,NA,5,69.94,NA
+V1482,Perú,69,,Valle del Colca,Arequipa,NA,2,461.13,
+V1483,Perú,,O,Centro Histórico,Lima,,,,Auto
+V1484,Ecuador,55,,Lago Titicaca,Puno,NA,10,,Auto
+V1485,Alemania,,,Valle del Colca,Arequipa,,6,,Avión
+V1486,Bolivia,32,O,Iquitos,Loreto,2024-01-31,,,NA
+V1487,Perú,15,,Miraflores,Lima,,,1030.4,Barco
+V1488,Alemania,49,F,Cusco Ciudad,Cusco,,,4070.51,Tren
+V1489,Chile,29,,Cusco Ciudad,Cusco,,9,,Tren
+V1490,Bolivia,,M,Huacachina,Ica,,3,,Barco
+V1491,México,,,Miraflores,Lima,,14,251.84,Bus
+V1492,Perú,72,F,Lago Titicaca,Puno,,,,
+V1493,Argentina,,O,Machu Picchu,Cusco,NA,14,2085.31,NA
+V1494,Perú,,,Valle del Colca,Arequipa,NA,10,4902.2,Auto
+V1495,Argentina,,,Iquitos,Loreto,,,2801.7,Barco
+V1496,Argentina,,,Chan Chan,La Libertad,,,,Avión
+V1497,Chile,,F,Chan Chan,La Libertad,,,2194.86,Barco
+V1498,Perú,,,Iquitos,Loreto,2025-02-20,,3759.38,NA
+V1499,México,,,Centro Histórico,Lima,2025-03-12,9,1098.84,Auto
+V1500,USA,,,Machu Picchu,Cusco,,4,2583.81,
+V1501,Argentina,,M,Chan Chan,La Libertad,NA,,3201.5,Avión
+V1502,Brasil,28,M,Chan Chan,La Libertad,2025-01-04,9,,Avión
+V1503,Perú,,F,Valle del Colca,Arequipa,2024-07-27,,2891.71,
+V1504,USA,,,Valle del Colca,Arequipa,NA,,,NA
+V1505,Perú,51,O,Centro Histórico,Lima,2024-06-17,,3066.37,Tren
+V1506,México,,,Chan Chan,La Libertad,,,,Auto
+V1507,México,,F,Huacachina,Ica,2025-04-09,6,2061.41,NA
+V1508,México,,,Centro Histórico,Lima,NA,,,Bus
+V1509,Perú,,M,Huacachina,Ica,NA,,2617.63,Tren
+V1510,México,43,O,Miraflores,Lima,NA,9,,Auto
+V1511,Perú,,O,Cusco Ciudad,Cusco,2025-05-05,13,1604.21,NA
+V1512,Perú,,M,Huacachina,Ica,,,,Avión
+V1513,España,,F,Centro Histórico,Lima,2024-06-17,,,NA
+V1514,Perú,,M,Miraflores,Lima,NA,,,
+V1515,España,30,,Iquitos,Loreto,,11,481.61,Auto
+V1516,Argentina,,,Miraflores,Lima,2024-03-18,6,1876.01,Bus
+V1517,Argentina,,O,Valle del Colca,Arequipa,NA,,721.89,NA
+V1518,Chile,,O,Huacachina,Ica,2024-11-13,9,155.9,Auto
+V1519,Francia,,,Cusco Ciudad,Cusco,NA,,4131.09,Auto
+V1520,USA,40,O,Cusco Ciudad,Cusco,,,3496.73,Bus
+V1521,Chile,,F,Valle del Colca,Arequipa,2025-11-04,,,Tren
+V1522,Chile,62,O,Lago Titicaca,Puno,NA,,1203.7,Avión
+V1523,Perú,,,Chan Chan,La Libertad,2025-07-21,14,2319.52,Avión
+V1524,Alemania,,M,Iquitos,Loreto,2025-04-29,,2516.23,Tren
+V1525,Brasil,,M,Iquitos,Loreto,2024-06-11,,2291.35,NA
+V1526,México,,,Huacachina,Ica,,,2202.35,NA
+V1527,México,,M,Machu Picchu,Cusco,2025-12-15,10,,Auto
+V1528,México,35,O,Chan Chan,La Libertad,2024-12-30,,,Bus
+V1529,México,51,,Valle del Colca,Arequipa,NA,,3726.13,NA
+V1530,Perú,,M,Machu Picchu,Cusco,NA,,3491.89,Bus
+V1531,Argentina,47,,Iquitos,Loreto,NA,9,2961.48,Avión
+V1532,Perú,68,M,Chan Chan,La Libertad,2025-06-15,2,3134.69,Tren
+V1533,Perú,,M,Valle del Colca,Arequipa,2024-08-23,1,4182.17,
+V1534,México,,F,Lago Titicaca,Puno,NA,,,Barco
+V1535,Ecuador,,M,Chan Chan,La Libertad,2025-12-08,,,NA
+V1536,Chile,,O,Lago Titicaca,Puno,NA,,,Avión
+V1537,Francia,53,F,Huacachina,Ica,2025-01-10,,4313.79,Auto
+V1538,Perú,,O,Cusco Ciudad,Cusco,,10,,Auto
+V1539,Colombia,,,Lago Titicaca,Puno,NA,11,1356.39,
+V1540,Perú,,F,Lago Titicaca,Puno,2024-04-05,5,3125.35,Bus
+V1541,USA,30,O,Cusco Ciudad,Cusco,,13,,Auto
+V1542,Francia,62,,Lago Titicaca,Puno,,,,Auto
+V1543,Perú,,M,Valle del Colca,Arequipa,,,3826.27,
+V1544,Colombia,,F,Huacachina,Ica,NA,6,2236.35,
+V1545,Perú,75,M,Huacachina,Ica,2025-04-24,13,2497.71,
+V1546,Perú,,F,Iquitos,Loreto,,3,,NA
+V1547,Argentina,46,F,Iquitos,Loreto,NA,,3120.35,Auto
+V1548,Colombia,,O,Iquitos,Loreto,NA,,4184.14,Avión
+V1549,México,,,Valle del Colca,Arequipa,,10,3759.17,Bus
+V1549,México,,,Valle del Colca,Arequipa,,10,3759.17,Bus
+V1550,Perú,,,Lago Titicaca,Puno,,,,Barco
+V1551,Chile,,M,Miraflores,Lima,2024-09-17,6,2058.46,Barco
+V1552,Colombia,15,M,Valle del Colca,Arequipa,NA,,2873.18,Barco
+V1553,Colombia,,,Iquitos,Loreto,,2,3437.61,
+V1554,Perú,,,Valle del Colca,Arequipa,NA,13,3385.51,NA
+V1555,Bolivia,,,Lago Titicaca,Puno,NA,7,1393.6,NA
+V1556,Colombia,71,,Machu Picchu,Cusco,2025-07-12,,,NA
+V1557,Colombia,,M,Iquitos,Loreto,NA,,511.17,Avión
+V1558,Perú,,M,Huacachina,Ica,2025-03-03,,,Tren
+V1559,Perú,,,Valle del Colca,Arequipa,2025-10-25,,2649.09,Auto
+V1560,Perú,,,Huacachina,Ica,NA,7,4133.09,Tren
+V1561,Ecuador,,O,Huacachina,Ica,NA,10,,Auto
+V1562,Perú,,M,Cusco Ciudad,Cusco,2025-10-31,7,,Tren
+V1563,Brasil,,F,Chan Chan,La Libertad,NA,,1378.79,Avión
+V1564,Perú,42,F,Valle del Colca,Arequipa,NA,5,,Bus
+V1565,Perú,38,,Valle del Colca,Arequipa,NA,11,,Bus
+V1566,Argentina,24,,Iquitos,Loreto,2025-07-17,,3442.05,Barco
+V1567,Colombia,,F,Huacachina,Ica,2025-11-24,,,NA
+V1568,México,59,F,Cusco Ciudad,Cusco,2025-04-06,10,2344.15,Barco
+V1569,España,,,Chan Chan,La Libertad,,5,,NA
+V1570,Perú,,M,Cusco Ciudad,Cusco,NA,2,2252.39,NA
+V1571,España,19,,Centro Histórico,Lima,,,1075.87,Auto
+V1572,Chile,72,O,Lago Titicaca,Puno,2025-06-21,,,Auto
+V1573,Chile,44,,Chan Chan,La Libertad,,,4656.13,Auto
+V1574,México,,,Iquitos,Loreto,NA,3,3563.69,Barco
+V1575,México,,F,Miraflores,Lima,2025-05-12,,1669.79,NA
+V1576,México,48,,Chan Chan,La Libertad,NA,1,3196.83,Auto
+V1577,Chile,,O,Huacachina,Ica,,4,677.07,NA
+V1578,Colombia,73,,Machu Picchu,Cusco,,12,1445.99,Barco
+V1579,Alemania,,M,Valle del Colca,Arequipa,NA,,4582.52,Auto
+V1580,Argentina,74,,Chan Chan,La Libertad,2025-05-13,,813.88,Barco
+V1581,Colombia,,,Lago Titicaca,Puno,NA,1,496.01,Avión
+V1582,Perú,68,F,Miraflores,Lima,NA,,3122.65,Tren
+V1583,Argentina,52,F,Chan Chan,La Libertad,,,,Tren
+V1584,Chile,29,,Cusco Ciudad,Cusco,NA,11,3220.15,Bus
+V1585,Colombia,,O,Huacachina,Ica,2025-08-09,,,Barco
+V1586,Ecuador,,F,Chan Chan,La Libertad,NA,,2978.84,Barco
+V1587,México,,M,Huacachina,Ica,,3,509.44,Avión
+V1588,Argentina,,O,Iquitos,Loreto,,6,,Avión
+V1589,Perú,,,Cusco Ciudad,Cusco,,10,,Auto
+V1590,Colombia,60,O,Cusco Ciudad,Cusco,,6,,
+V1591,Colombia,37,,Chan Chan,La Libertad,NA,,3697.85,Auto
+V1592,México,27,,Lago Titicaca,Puno,,,4367.56,Barco
+V1593,USA,,O,Iquitos,Loreto,NA,14,,
+V1594,Perú,42,,Cusco Ciudad,Cusco,NA,,317.2,Tren
+V1595,Brasil,,M,Huacachina,Ica,,9,3972.26,Avión
+V1596,Colombia,,M,Huacachina,Ica,,,,Tren
+V1597,Ecuador,,O,Iquitos,Loreto,2024-07-24,1,2391.94,
+V1598,México,17,F,Chan Chan,La Libertad,,14,,Bus
+V1599,México,,F,Iquitos,Loreto,,,4136.36,Bus
+V1600,México,,F,Huacachina,Ica,,4,3120.85,Barco
+V1601,Perú,37,,Iquitos,Loreto,,,3332.05,NA
+V1602,Brasil,,O,Chan Chan,La Libertad,NA,,,NA
+V1603,Perú,,F,Miraflores,Lima,,7,1150.8,Auto
+V1604,Colombia,,M,Valle del Colca,Arequipa,NA,3,,Bus
+V1605,Colombia,,,Cusco Ciudad,Cusco,,7,4702.57,Tren
+V1606,Perú,,O,Centro Histórico,Lima,2024-09-18,11,2602.56,NA
+V1607,Brasil,55,,Centro Histórico,Lima,NA,14,,Tren
+V1608,Perú,49,O,Iquitos,Loreto,NA,,,Tren
+V1609,Alemania,,,Cusco Ciudad,Cusco,,,,Bus
+V1610,Perú,,F,Centro Histórico,Lima,NA,,,NA
+V1611,Argentina,,M,Machu Picchu,Cusco,2024-02-10,6,1647.83,Tren
+V1612,México,50,O,Huacachina,Ica,2024-08-24,,348.21,NA
+V1613,Colombia,67,,Lago Titicaca,Puno,,13,,Auto
+V1614,Argentina,,,Iquitos,Loreto,NA,2,574.49,Barco
+V1615,Perú,,F,Valle del Colca,Arequipa,NA,5,271.97,
+V1616,USA,,O,Huacachina,Ica,NA,,3581.16,NA
+V1617,Perú,,,Valle del Colca,Arequipa,NA,3,2664.29,Auto
+V1618,Perú,,,Miraflores,Lima,NA,7,,Bus
+V1619,Brasil,,F,Miraflores,Lima,2024-05-26,,,Bus
+V1620,Brasil,,O,Chan Chan,La Libertad,,,4462.75,Avión
+V1621,México,19,,Cusco Ciudad,Cusco,NA,13,2163.17,Barco
+V1622,Perú,,,Valle del Colca,Arequipa,2025-09-24,,,Barco
+V1623,Bolivia,,,Lago Titicaca,Puno,NA,,,
+V1624,Perú,,,Iquitos,Loreto,2024-12-08,,2997.81,Auto
+V1625,Perú,,F,Iquitos,Loreto,2025-01-11,,2317.05,Tren
+V1626,Perú,,,Huacachina,Ica,NA,14,2002.04,Tren
+V1627,México,,F,Cusco Ciudad,Cusco,,5,,
+V1628,Argentina,,,Valle del Colca,Arequipa,,6,4422.99,Bus
+V1629,México,,O,Huacachina,Ica,,,,Tren
+V1630,Argentina,,,Iquitos,Loreto,2024-04-06,7,,Bus
+V1631,Perú,,M,Centro Histórico,Lima,,5,,Auto
+V1632,Chile,,,Huacachina,Ica,NA,2,,Auto
+V1633,Colombia,,M,Iquitos,Loreto,2025-03-07,,,Auto
+V1634,Ecuador,33,F,Lago Titicaca,Puno,,9,,NA
+V1635,Francia,,M,Huacachina,Ica,NA,12,3095.35,Bus
+V1636,Perú,21,,Machu Picchu,Cusco,NA,1,,Avión
+V1637,México,,M,Centro Histórico,Lima,,,2957.9,Barco
+V1638,Perú,,O,Lago Titicaca,Puno,2024-08-04,,,Auto
+V1639,España,,M,Machu Picchu,Cusco,,2,4134.9,Auto
+V1640,Chile,,F,Miraflores,Lima,NA,,2094.16,Barco
+V1641,Perú,,,Iquitos,Loreto,,,,NA
+V1642,Argentina,,F,Machu Picchu,Cusco,,,,Barco
+V1643,Chile,17,F,Centro Histórico,Lima,NA,7,,NA
+V1644,Perú,,,Cusco Ciudad,Cusco,2024-12-05,,,
+V1645,Brasil,,,Chan Chan,La Libertad,2025-11-07,,4778.85,Auto
+V1646,Colombia,62,O,Machu Picchu,Cusco,NA,,,Barco
+V1647,Perú,18,M,Chan Chan,La Libertad,,,2555.8,
+V1648,México,30,M,Huacachina,Ica,2024-09-28,,486.46,
+V1649,USA,,,Iquitos,Loreto,2025-10-09,9,3883.93,Auto
+V1650,México,22,M,Centro Histórico,Lima,,,,Tren
+V1650,México,22,M,Centro Histórico,Lima,,,,Tren
+V1651,México,,O,Iquitos,Loreto,,3,,NA
+V1651,México,,O,Iquitos,Loreto,,3,,NA
+V1652,Brasil,,O,Lago Titicaca,Puno,,,3089.51,NA
+V1653,México,,F,Valle del Colca,Arequipa,2025-02-21,12,,Barco
+V1654,Perú,,,Valle del Colca,Arequipa,2024-06-27,,,Tren
+V1655,Ecuador,74,F,Miraflores,Lima,,,2801.7,Barco
+V1656,Argentina,42,F,Chan Chan,La Libertad,,8,3087.83,Auto
+V1657,Perú,,,Valle del Colca,Arequipa,,,3274.31,Tren
+V1658,Colombia,30,M,Chan Chan,La Libertad,NA,1,3426.55,NA
+V1659,Argentina,,M,Machu Picchu,Cusco,NA,4,1039.65,Auto
+V1660,Francia,,F,Lago Titicaca,Puno,NA,10,,Bus
+V1661,Perú,,O,Chan Chan,La Libertad,NA,,,Barco
+V1662,Perú,,F,Iquitos,Loreto,,12,,Bus
+V1663,Colombia,,F,Valle del Colca,Arequipa,2025-03-25,,2817.82,Barco
+V1664,México,,M,Centro Histórico,Lima,,4,,Avión
+V1665,Colombia,,F,Cusco Ciudad,Cusco,NA,,,Auto
+V1666,Perú,70,,Chan Chan,La Libertad,NA,14,,Auto
+V1667,Argentina,,O,Chan Chan,La Libertad,,7,1343.98,NA
+V1668,Perú,,,Miraflores,Lima,,12,3319.85,Barco
+V1669,Colombia,,,Valle del Colca,Arequipa,2025-12-21,,2277.68,Barco
+V1670,Argentina,,M,Valle del Colca,Arequipa,,,,
+V1671,Perú,,F,Iquitos,Loreto,2025-09-03,8,,NA
+V1672,Ecuador,75,O,Cusco Ciudad,Cusco,2024-07-04,2,,NA
+V1673,Chile,,M,Huacachina,Ica,,,197.05,Tren
+V1674,Colombia,22,,Centro Histórico,Lima,,3,4151.43,Auto
+V1675,Argentina,47,,Chan Chan,La Libertad,NA,,,Avión
+V1676,Colombia,,M,Lago Titicaca,Puno,,4,,Bus
+V1677,Francia,,,Valle del Colca,Arequipa,,5,,Barco
+V1678,Perú,35,O,Lago Titicaca,Puno,NA,11,,Auto
+V1679,Colombia,,,Huacachina,Ica,NA,1,,Bus
+V1680,Francia,,O,Valle del Colca,Arequipa,,8,,Auto
+V1681,Colombia,55,,Huacachina,Ica,,,,Barco
+V1682,Perú,,,Iquitos,Loreto,NA,,2831.75,Tren
+V1683,México,,F,Lago Titicaca,Puno,2025-07-29,,946.34,Bus
+V1684,Perú,,M,Chan Chan,La Libertad,,12,1421.12,
+V1685,Colombia,45,F,Huacachina,Ica,NA,3,2539.65,Bus
+V1686,Perú,42,,Iquitos,Loreto,2025-07-29,,,Auto
+V1687,Colombia,,,Cusco Ciudad,Cusco,,10,4165.04,Bus
+V1688,México,22,,Huacachina,Ica,,8,,Auto
+V1689,Perú,,M,Machu Picchu,Cusco,NA,9,,Barco
+V1690,Perú,,,Huacachina,Ica,NA,6,1163.01,Barco
+V1691,Brasil,,,Iquitos,Loreto,,,1114.29,Avión
+V1692,España,,M,Valle del Colca,Arequipa,2024-07-17,,1088.35,Auto
+V1693,Francia,,,Chan Chan,La Libertad,2025-12-21,1,2739.88,
+V1694,Francia,,,Iquitos,Loreto,,,,Barco
+V1695,Perú,,O,Miraflores,Lima,,8,3047.37,
+V1696,Brasil,,,Iquitos,Loreto,NA,11,4577.59,Bus
+V1697,Chile,22,O,Chan Chan,La Libertad,,11,2452.59,Auto
+V1698,Perú,20,,Valle del Colca,Arequipa,,,,
+V1699,Bolivia,,F,Centro Histórico,Lima,2024-12-14,11,1855.95,Barco
+V1700,Perú,56,O,Machu Picchu,Cusco,,,2455.47,Bus
+V1701,USA,68,,Valle del Colca,Arequipa,2025-11-15,2,,
+V1702,Colombia,,M,Lago Titicaca,Puno,NA,,3073.85,
+V1703,México,,,Centro Histórico,Lima,,1,3768.59,
+V1704,México,,M,Miraflores,Lima,2025-04-10,,2009.28,Auto
+V1705,Ecuador,,M,Valle del Colca,Arequipa,,,4885.32,Tren
+V1706,Perú,36,F,Huacachina,Ica,2025-03-21,,,NA
+V1707,Chile,40,F,Chan Chan,La Libertad,2024-07-28,,1904.34,Bus
+V1708,España,,M,Iquitos,Loreto,2024-12-22,,4792.59,Tren
+V1709,Perú,38,F,Chan Chan,La Libertad,NA,,1874.03,Bus
+V1710,Francia,,M,Huacachina,Ica,,9,1854.46,
+V1710,Francia,,M,Huacachina,Ica,,9,1854.46,
+V1711,Perú,,,Iquitos,Loreto,,,1985.2,
+V1712,Perú,,F,Centro Histórico,Lima,NA,,,Auto
+V1713,México,,,Lago Titicaca,Puno,NA,,4775.46,Bus
+V1714,Perú,,,Huacachina,Ica,2025-06-26,,1121.07,Avión
+V1715,Perú,,,Huacachina,Ica,2024-09-08,1,,Auto
+V1715,Perú,,,Huacachina,Ica,2024-09-08,1,,Auto
+V1716,Chile,70,,Miraflores,Lima,2024-02-02,,,
+V1717,México,,F,Cusco Ciudad,Cusco,2025-09-19,,4983.65,Avión
+V1718,Colombia,69,M,Valle del Colca,Arequipa,2025-09-16,7,4792.21,NA
+V1719,Chile,46,F,Cusco Ciudad,Cusco,NA,5,2479.14,Bus
+V1720,Colombia,,O,Lago Titicaca,Puno,NA,,310.54,NA
+V1721,Perú,,M,Valle del Colca,Arequipa,NA,5,2816.25,NA
+V1722,Brasil,,O,Iquitos,Loreto,2024-12-13,,443.72,Avión
+V1723,Perú,,O,Chan Chan,La Libertad,2024-02-08,7,,
+V1724,USA,,M,Lago Titicaca,Puno,NA,,3106.52,Auto
+V1725,Perú,16,,Centro Histórico,Lima,NA,,,NA
+V1726,Argentina,,,Machu Picchu,Cusco,NA,13,,Tren
+V1727,México,,F,Valle del Colca,Arequipa,,3,,Tren
+V1728,USA,66,M,Centro Histórico,Lima,NA,,995.27,NA
+V1729,Perú,,,Valle del Colca,Arequipa,,,1105.61,Barco
+V1730,Brasil,,,Iquitos,Loreto,,,,
+V1731,Perú,,O,Chan Chan,La Libertad,2025-11-26,13,495.49,Barco
+V1732,Perú,75,,Machu Picchu,Cusco,,,,NA
+V1733,Ecuador,,F,Valle del Colca,Arequipa,2025-11-22,14,3535.97,NA
+V1734,México,,O,Cusco Ciudad,Cusco,NA,,521.9,Avión
+V1735,México,,O,Huacachina,Ica,,,4122.96,NA
+V1736,México,,,Huacachina,Ica,,,,NA
+V1737,Brasil,,F,Chan Chan,La Libertad,NA,,,Avión
+V1738,Argentina,,,Huacachina,Ica,2025-06-15,,1944.89,Tren
+V1739,Chile,69,O,Iquitos,Loreto,,,,Bus
+V1740,Perú,,,Huacachina,Ica,NA,,1705.99,Barco
+V1741,Chile,,M,Chan Chan,La Libertad,,,1716.23,
+V1742,Colombia,,O,Huacachina,Ica,2024-11-12,,,
+V1743,México,57,M,Chan Chan,La Libertad,NA,2,4916.23,
+V1744,Perú,,,Lago Titicaca,Puno,NA,9,,Avión
+V1745,Perú,54,,Lago Titicaca,Puno,,7,1438.75,
+V1746,Ecuador,,O,Miraflores,Lima,2024-04-09,,,Avión
+V1747,México,,,Iquitos,Loreto,,9,2262.04,Avión
+V1748,Chile,59,,Huacachina,Ica,2025-10-29,7,,Barco
+V1749,Perú,,M,Valle del Colca,Arequipa,,,1886.18,Auto
+V1750,Perú,,F,Machu Picchu,Cusco,NA,,1505.54,Bus
+V1751,Brasil,,M,Miraflores,Lima,,7,,NA
+V1752,Argentina,,,Lago Titicaca,Puno,2025-09-09,,,Auto
+V1753,Perú,,M,Huacachina,Ica,2025-07-24,7,2238.3,Tren
+V1754,Colombia,,,Lago Titicaca,Puno,NA,,,Barco
+V1755,Colombia,56,,Centro Histórico,Lima,NA,,682.23,Tren
+V1756,Perú,,,Valle del Colca,Arequipa,,,,NA
+V1757,Chile,,O,Chan Chan,La Libertad,2025-06-06,,,
+V1758,Perú,,,Huacachina,Ica,,10,,Bus
+V1759,Perú,,O,Iquitos,Loreto,2025-05-06,,,Auto
+V1760,Colombia,30,,Machu Picchu,Cusco,2025-08-16,,,
+V1761,Colombia,33,O,Huacachina,Ica,2024-05-09,,870.06,Barco
+V1762,México,59,,Chan Chan,La Libertad,NA,5,,
+V1763,México,,O,Lago Titicaca,Puno,2024-11-27,,,NA
+V1764,Colombia,73,,Machu Picchu,Cusco,2025-11-25,,2216.02,Barco
+V1765,México,,F,Chan Chan,La Libertad,2025-09-10,4,1223.36,
+V1766,México,,,Machu Picchu,Cusco,,6,,Barco
+V1767,Alemania,,O,Valle del Colca,Arequipa,NA,2,,Barco
+V1768,Argentina,,O,Iquitos,Loreto,2025-12-26,,,Tren
+V1769,Argentina,24,,Huacachina,Ica,,,594.82,Avión
+V1770,Chile,,,Cusco Ciudad,Cusco,NA,12,,Tren
+V1771,Perú,,,Miraflores,Lima,NA,7,,Auto
+V1772,Chile,58,,Machu Picchu,Cusco,2025-08-08,,3198.98,
+V1773,Chile,,F,Miraflores,Lima,NA,,,Tren
+V1774,Ecuador,15,,Huacachina,Ica,2024-01-26,14,2651.91,NA
+V1775,Perú,,,Chan Chan,La Libertad,,11,3093.92,Auto
+V1776,Perú,,F,Centro Histórico,Lima,,7,,Barco
+V1777,Perú,64,O,Lago Titicaca,Puno,2024-04-28,11,,Avión
+V1778,Perú,19,,Valle del Colca,Arequipa,,4,3975.74,Barco
+V1779,Brasil,58,,Iquitos,Loreto,,7,,Bus
+V1780,Bolivia,,,Cusco Ciudad,Cusco,,12,,Avión
+V1781,Perú,,,Valle del Colca,Arequipa,,7,2446.59,Avión
+V1782,Perú,,,Lago Titicaca,Puno,NA,3,715.42,Auto
+V1783,Perú,,O,Lago Titicaca,Puno,2024-04-08,,2653.58,Avión
+V1784,Brasil,,,Chan Chan,La Libertad,2025-08-28,7,1308.07,NA
+V1785,México,24,,Huacachina,Ica,2025-07-20,,,Barco
+V1786,México,,,Lago Titicaca,Puno,2025-10-20,,4559.78,Tren
+V1787,Bolivia,,,Iquitos,Loreto,NA,14,4291.53,Auto
+V1788,Ecuador,,O,Valle del Colca,Arequipa,,8,3519.14,Barco
+V1789,Perú,,M,Huacachina,Ica,NA,2,3465.11,Barco
+V1790,Perú,21,,Miraflores,Lima,2025-08-31,,4376.61,Barco
+V1791,Perú,,F,Lago Titicaca,Puno,2025-07-06,,682.35,Avión
+V1792,México,,,Cusco Ciudad,Cusco,NA,8,,Barco
+V1793,México,,M,Huacachina,Ica,NA,,1986.17,Auto
+V1794,Perú,,M,Iquitos,Loreto,2024-07-08,8,3344.41,Barco
+V1795,Colombia,,O,Centro Histórico,Lima,NA,9,4188.71,Tren
+V1796,Colombia,31,O,Miraflores,Lima,,,1716.95,
+V1797,México,30,M,Valle del Colca,Arequipa,NA,,,Auto
+V1798,Perú,,O,Chan Chan,La Libertad,NA,2,,Tren
+V1799,Colombia,44,M,Iquitos,Loreto,2025-10-14,14,1086.35,Tren
+V1800,Brasil,,O,Cusco Ciudad,Cusco,,,2488.84,Avión
+V1801,México,,M,Valle del Colca,Arequipa,,3,3701.05,NA
+V1802,Perú,,O,Huacachina,Ica,NA,,,Tren
+V1803,Ecuador,,F,Huacachina,Ica,NA,,,Avión
+V1804,Perú,,,Centro Histórico,Lima,,,,Avión
+V1805,Colombia,,M,Lago Titicaca,Puno,,2,291.22,NA
+V1806,México,26,,Lago Titicaca,Puno,NA,11,3808.58,Bus
+V1807,Francia,,F,Lago Titicaca,Puno,2025-08-04,7,4436.7,Avión
+V1808,Colombia,,F,Iquitos,Loreto,NA,,,Bus
+V1809,USA,,,Iquitos,Loreto,2024-09-30,3,,Bus
+V1810,Perú,,O,Centro Histórico,Lima,2024-09-24,14,,NA
+V1811,Perú,,M,Huacachina,Ica,2024-10-19,8,,Barco
+V1812,México,,,Chan Chan,La Libertad,,,708.26,NA
+V1813,Francia,,,Chan Chan,La Libertad,,3,3129.68,
+V1814,Alemania,,,Cusco Ciudad,Cusco,NA,11,,Auto
+V1815,Alemania,39,,Machu Picchu,Cusco,2025-12-27,,,Barco
+V1816,USA,58,F,Cusco Ciudad,Cusco,,,,NA
+V1817,Colombia,,,Iquitos,Loreto,,1,2007.16,NA
+V1818,Perú,,,Valle del Colca,Arequipa,NA,,2828.4,Tren
+V1819,México,,,Lago Titicaca,Puno,NA,,4962.19,Avión
+V1820,Colombia,74,F,Machu Picchu,Cusco,NA,,,
+V1821,México,,,Cusco Ciudad,Cusco,2024-11-25,,939.62,NA
+V1822,Colombia,51,O,Huacachina,Ica,NA,6,3223.37,Tren
+V1823,Perú,,,Iquitos,Loreto,NA,,,NA
+V1824,Perú,49,F,Iquitos,Loreto,,,1045.95,Tren
+V1825,Perú,,,Valle del Colca,Arequipa,2024-02-16,,512.11,Avión
+V1826,Colombia,72,O,Centro Histórico,Lima,,,,Avión
+V1827,Perú,,M,Lago Titicaca,Puno,,,,Barco
+V1828,Perú,,O,Centro Histórico,Lima,,,,Avión
+V1829,Perú,,,Cusco Ciudad,Cusco,2024-07-06,,3303.26,Bus
+V1830,México,66,,Iquitos,Loreto,2025-12-16,,1192.21,Tren
+V1831,Chile,66,,Iquitos,Loreto,NA,,,Bus
+V1832,México,57,F,Machu Picchu,Cusco,NA,,1649.51,Avión
+V1833,Perú,55,,Cusco Ciudad,Cusco,2024-08-11,10,3801.2,Tren
+V1834,USA,,O,Lago Titicaca,Puno,,6,1194.06,Auto
+V1835,México,,O,Chan Chan,La Libertad,,7,,
+V1836,Brasil,,O,Cusco Ciudad,Cusco,,,3642.36,Avión
+V1837,Brasil,,,Chan Chan,La Libertad,NA,,,Barco
+V1838,Perú,24,M,Iquitos,Loreto,2025-06-17,5,,Tren
+V1839,USA,,,Lago Titicaca,Puno,,,,Bus
+V1840,Ecuador,68,,Lago Titicaca,Puno,2025-08-02,,,Barco
+V1841,Perú,64,,Lago Titicaca,Puno,,,520.55,Auto
+V1841,Perú,64,,Lago Titicaca,Puno,,,520.55,Auto
+V1842,México,,,Chan Chan,La Libertad,2024-07-17,2,1906.53,Tren
+V1843,México,23,O,Iquitos,Loreto,,,,NA
+V1844,Brasil,,M,Machu Picchu,Cusco,2025-11-23,12,979.3,
+V1845,Argentina,,M,Valle del Colca,Arequipa,,,4553.84,Barco
+V1846,Perú,,,Huacachina,Ica,NA,14,4868.09,Tren
+V1847,Perú,71,,Valle del Colca,Arequipa,,5,,Barco
+V1848,Alemania,30,,Centro Histórico,Lima,NA,7,479.95,Avión
+V1849,Chile,61,F,Chan Chan,La Libertad,,6,3929.52,Tren
+V1850,Perú,,F,Valle del Colca,Arequipa,2025-08-21,,4849.35,Auto
+V1851,Bolivia,45,,Valle del Colca,Arequipa,2024-08-03,5,1547.88,Auto
+V1852,Colombia,33,M,Chan Chan,La Libertad,NA,,,Avión
+V1853,México,,,Iquitos,Loreto,2024-05-25,,,Barco
+V1854,Perú,,M,Iquitos,Loreto,,13,4210.06,Bus
+V1855,Perú,,,Miraflores,Lima,,11,,Avión
+V1856,Ecuador,,F,Iquitos,Loreto,,,,Avión
+V1857,USA,,M,Valle del Colca,Arequipa,NA,7,,Auto
+V1858,Brasil,,O,Miraflores,Lima,2024-04-22,,,Auto
+V1859,Perú,,,Valle del Colca,Arequipa,2024-12-25,2,,Barco
+V1860,México,,,Valle del Colca,Arequipa,2025-01-22,6,,Auto
+V1861,Brasil,,,Machu Picchu,Cusco,,,1485.54,Tren
+V1862,Perú,23,F,Iquitos,Loreto,NA,,4061.65,
+V1863,México,,O,Huacachina,Ica,NA,5,,Tren
+V1864,México,,,Centro Histórico,Lima,NA,,,Avión
+V1865,México,,M,Lago Titicaca,Puno,,12,,Avión
+V1866,México,42,F,Valle del Colca,Arequipa,,,2093.93,Barco
+V1867,Perú,,O,Valle del Colca,Arequipa,NA,3,1818.69,Tren
+V1868,México,,F,Machu Picchu,Cusco,NA,3,,NA
+V1869,Perú,,O,Chan Chan,La Libertad,NA,13,,Avión
+V1870,Argentina,,M,Huacachina,Ica,2024-05-23,9,4748.36,
+V1871,Bolivia,15,,Miraflores,Lima,NA,5,,Avión
+V1872,Colombia,15,,Huacachina,Ica,2025-11-14,,426.54,Auto
+V1873,Colombia,50,O,Iquitos,Loreto,,,,Auto
+V1874,Perú,,,Valle del Colca,Arequipa,2024-07-21,,3193.92,Barco
+V1874,Perú,,,Valle del Colca,Arequipa,2024-07-21,,3193.92,Barco
+V1875,Perú,40,O,Lago Titicaca,Puno,,4,2008.03,Bus
+V1876,México,27,F,Centro Histórico,Lima,NA,1,,Tren
+V1877,Colombia,,F,Miraflores,Lima,NA,5,,NA
+V1878,Argentina,,,Chan Chan,La Libertad,NA,3,1772.97,NA
+V1879,Perú,,,Miraflores,Lima,2024-01-18,,,Tren
+V1880,Argentina,,M,Machu Picchu,Cusco,,8,,Bus
+V1881,Perú,,,Miraflores,Lima,,,,Barco
+V1882,Colombia,,M,Centro Histórico,Lima,NA,6,,Barco
+V1883,Ecuador,,F,Lago Titicaca,Puno,NA,,4721.56,Auto
+V1884,Perú,,,Iquitos,Loreto,2025-05-30,,926.87,Avión
+V1885,Colombia,,,Huacachina,Ica,,5,2006.78,Auto
+V1886,Chile,,,Machu Picchu,Cusco,NA,,792.24,Tren
+V1887,Perú,,,Huacachina,Ica,,,,Tren
+V1888,Perú,,,Iquitos,Loreto,2024-01-23,8,4613.34,Tren
+V1889,Colombia,74,,Machu Picchu,Cusco,,,,Bus
+V1890,México,34,F,Miraflores,Lima,2024-04-17,,1390.41,Auto
+V1891,Perú,,,Centro Histórico,Lima,NA,,4228.62,
+V1892,Chile,,,Valle del Colca,Arequipa,2025-06-09,1,,Avión
+V1893,Perú,,M,Huacachina,Ica,2024-11-19,,,NA
+V1894,México,59,M,Valle del Colca,Arequipa,NA,13,2882.66,NA
+V1895,Perú,,F,Huacachina,Ica,NA,6,,Tren
+V1896,Colombia,,M,Chan Chan,La Libertad,,,,Barco
+V1897,Brasil,,M,Lago Titicaca,Puno,2025-06-09,,2110.8,Auto
+V1898,Perú,60,,Lago Titicaca,Puno,NA,13,,Auto
+V1899,Ecuador,,O,Iquitos,Loreto,,11,230.13,Bus
+V1900,Perú,,O,Cusco Ciudad,Cusco,NA,,473.5,NA
+V1901,Ecuador,,F,Iquitos,Loreto,2024-10-16,13,917.23,Bus
+V1902,Perú,38,,Lago Titicaca,Puno,NA,13,,Bus
+V1903,Chile,,M,Chan Chan,La Libertad,NA,6,55.0,Barco
+V1904,Perú,,F,Centro Histórico,Lima,NA,,4734.1,Barco
+V1905,Perú,27,,Valle del Colca,Arequipa,,12,1408.06,Avión
+V1906,Perú,,O,Iquitos,Loreto,2025-08-01,,1393.87,Avión
+V1907,Colombia,47,F,Valle del Colca,Arequipa,2025-04-07,,,Bus
+V1908,México,39,,Valle del Colca,Arequipa,NA,,4328.88,Tren
+V1909,Argentina,,,Centro Histórico,Lima,2024-05-08,5,,NA
+V1910,Francia,,,Chan Chan,La Libertad,2024-11-24,10,2640.79,Tren
+V1911,México,,,Huacachina,Ica,,4,,Avión
+V1912,Perú,,M,Chan Chan,La Libertad,NA,,1407.16,Auto
+V1913,Colombia,,F,Iquitos,Loreto,NA,11,,Barco
+V1914,México,,,Miraflores,Lima,2025-02-16,,,Auto
+V1915,México,,,Chan Chan,La Libertad,2025-11-13,,,Barco
+V1916,España,,F,Machu Picchu,Cusco,NA,,,
+V1917,España,,,Machu Picchu,Cusco,2024-06-13,13,,Bus
+V1918,Perú,,F,Centro Histórico,Lima,NA,4,,Barco
+V1919,Perú,18,F,Chan Chan,La Libertad,2025-06-26,5,,Barco
+V1920,México,41,,Chan Chan,La Libertad,NA,8,,Barco
+V1921,Perú,,F,Huacachina,Ica,NA,5,625.99,Bus
+V1922,Alemania,,F,Miraflores,Lima,,4,,NA
+V1923,Ecuador,,M,Machu Picchu,Cusco,NA,6,3132.87,
+V1924,Colombia,,,Miraflores,Lima,2025-11-17,,,Barco
+V1925,Colombia,18,F,Machu Picchu,Cusco,NA,9,1575.94,Barco
+V1926,Alemania,58,,Centro Histórico,Lima,2025-12-06,8,,Avión
+V1927,Perú,,M,Lago Titicaca,Puno,NA,,1132.49,NA
+V1928,USA,,,Valle del Colca,Arequipa,NA,2,579.3,NA
+V1929,Chile,22,O,Lago Titicaca,Puno,,2,,Tren
+V1930,Perú,,,Machu Picchu,Cusco,NA,11,,Auto
+V1931,Perú,63,F,Valle del Colca,Arequipa,NA,3,,Avión
+V1932,Colombia,,,Valle del Colca,Arequipa,2025-07-26,,560.2,Bus
+V1933,México,57,O,Lago Titicaca,Puno,2024-05-20,,1510.81,Bus
+V1934,México,63,O,Valle del Colca,Arequipa,,6,4763.91,Tren
+V1935,Perú,32,O,Valle del Colca,Arequipa,,,961.89,Tren
+V1936,Perú,,F,Miraflores,Lima,NA,5,,
+V1937,USA,63,,Chan Chan,La Libertad,,5,1304.03,
+V1938,México,,,Lago Titicaca,Puno,2024-02-29,3,4190.65,Auto
+V1939,Colombia,72,,Huacachina,Ica,NA,,,Barco
+V1940,Perú,,,Chan Chan,La Libertad,2025-05-05,6,4823.59,Bus
+V1941,Perú,,,Centro Histórico,Lima,2024-02-13,,142.03,NA
+V1942,Colombia,,F,Machu Picchu,Cusco,,2,3752.9,Tren
+V1943,Bolivia,50,,Centro Histórico,Lima,NA,,1757.91,NA
+V1944,Chile,51,,Cusco Ciudad,Cusco,2025-01-23,,4396.13,Barco
+V1945,Colombia,,O,Valle del Colca,Arequipa,2024-04-29,,607.24,Avión
+V1946,Argentina,,M,Valle del Colca,Arequipa,NA,12,,Barco
+V1947,Ecuador,53,O,Huacachina,Ica,,12,1760.57,NA
+V1948,USA,20,O,Iquitos,Loreto,,1,,Barco
+V1949,Alemania,,O,Machu Picchu,Cusco,2025-10-08,1,,Bus
+V1950,Perú,,O,Valle del Colca,Arequipa,2024-03-21,,,Tren
+V1951,Brasil,71,,Lago Titicaca,Puno,NA,,,NA
+V1952,México,,F,Cusco Ciudad,Cusco,NA,,3317.76,Bus
+V1953,Francia,,,Centro Histórico,Lima,NA,14,4802.48,Tren
+V1954,Perú,,,Machu Picchu,Cusco,2025-11-14,,3083.28,Bus
+V1955,Colombia,,M,Huacachina,Ica,,11,,Tren
+V1956,México,,O,Huacachina,Ica,,,,Avión
+V1957,Perú,35,,Cusco Ciudad,Cusco,2025-01-14,13,,Auto
+V1958,Perú,,,Huacachina,Ica,NA,,473.39,Auto
+V1959,México,20,M,Centro Histórico,Lima,2025-01-04,14,,NA
+V1960,Brasil,45,O,Lago Titicaca,Puno,2024-07-05,,1187.26,
+V1961,Colombia,53,O,Cusco Ciudad,Cusco,2024-01-05,12,2109.1,Barco
+V1962,Brasil,18,,Huacachina,Ica,2025-01-10,12,1612.6,NA
+V1963,USA,,,Miraflores,Lima,NA,,4062.47,Avión
+V1964,México,,O,Cusco Ciudad,Cusco,NA,,,Tren
+V1965,Brasil,,M,Chan Chan,La Libertad,NA,11,1346.89,Auto
+V1966,México,29,,Cusco Ciudad,Cusco,2024-04-08,,2516.43,Barco
+V1967,Perú,31,,Lago Titicaca,Puno,2025-04-15,,,
+V1968,Colombia,21,O,Valle del Colca,Arequipa,,,4449.31,NA
+V1969,Ecuador,,,Iquitos,Loreto,,,208.98,Avión
+V1970,Argentina,74,F,Huacachina,Ica,NA,,1930.35,Barco
+V1971,Perú,24,O,Valle del Colca,Arequipa,NA,,1012.58,
+V1972,Perú,,,Cusco Ciudad,Cusco,2025-03-12,,614.44,Avión
+V1973,Perú,,,Huacachina,Ica,,,3169.21,Avión
+V1974,Perú,,,Huacachina,Ica,2025-04-25,,2065.38,Tren
+V1975,Perú,23,F,Huacachina,Ica,NA,7,696.86,Avión
+V1976,México,57,,Chan Chan,La Libertad,2025-04-12,,1385.46,Bus
+V1977,Colombia,45,F,Centro Histórico,Lima,,,,Auto
+V1978,Bolivia,,,Huacachina,Ica,2025-11-05,,,NA
+V1979,Argentina,,M,Machu Picchu,Cusco,,10,3860.23,NA
+V1980,Perú,,,Chan Chan,La Libertad,,,3844.2,Barco
+V1981,Perú,,M,Machu Picchu,Cusco,,4,4925.66,Bus
+V1982,Colombia,57,F,Lago Titicaca,Puno,2025-05-11,12,2804.28,
+V1983,USA,,,Lago Titicaca,Puno,NA,13,185.23,Bus
+V1984,México,17,M,Lago Titicaca,Puno,,4,3778.74,NA
+V1985,Brasil,,,Cusco Ciudad,Cusco,2024-09-19,11,2797.29,
+V1986,Perú,25,,Miraflores,Lima,NA,,3229.42,Bus
+V1987,Perú,,,Lago Titicaca,Puno,2025-07-07,,,Auto
+V1988,México,,,Cusco Ciudad,Cusco,,,658.94,NA
+V1989,Bolivia,67,,Centro Histórico,Lima,2025-02-21,,,
+V1990,México,,F,Centro Histórico,Lima,NA,3,1090.61,Avión
+V1991,México,56,M,Chan Chan,La Libertad,,,,Tren
+V1992,Argentina,73,,Huacachina,Ica,NA,10,802.92,Auto
+V1993,España,,,Lago Titicaca,Puno,,13,3682.97,Bus
+V1994,Perú,,F,Huacachina,Ica,NA,,4751.11,Barco
+V1995,Brasil,,,Cusco Ciudad,Cusco,2024-07-31,,140.59,Barco
+V1996,USA,20,M,Iquitos,Loreto,,13,,Bus
+V1997,Perú,,,Lago Titicaca,Puno,,,2630.2,
+V1997,Perú,,,Lago Titicaca,Puno,,,2630.2,
+V1998,Perú,52,F,Chan Chan,La Libertad,2024-01-19,7,106.06,Avión
+V1999,Perú,,M,Centro Histórico,Lima,NA,6,3531.27,Bus
+V2000,USA,,,Chan Chan,La Libertad,NA,,,
+V2001,Ecuador,,,Centro Histórico,Lima,,1,,Auto
+V2002,Perú,52,,Huacachina,Ica,NA,8,,Auto
+V2003,México,,O,Huacachina,Ica,,11,2880.94,Auto
+V2004,Perú,,O,Lago Titicaca,Puno,,,2016.75,Tren
+V2005,Perú,,M,Huacachina,Ica,,2,3272.74,Auto
+V2006,USA,30,M,Chan Chan,La Libertad,NA,,,Barco
+V2007,Perú,,,Huacachina,Ica,,,,Auto
+V2008,Ecuador,63,,Iquitos,Loreto,,10,,Tren
+V2008,Ecuador,63,,Iquitos,Loreto,,10,,Tren
+V2009,Bolivia,,,Iquitos,Loreto,,,,Bus
+V2010,Perú,75,,Valle del Colca,Arequipa,NA,,1266.75,Bus
+V2011,Argentina,,,Cusco Ciudad,Cusco,NA,,,Auto
+V2012,México,,,Huacachina,Ica,2025-03-23,11,4997.54,NA
+V2013,Argentina,,O,Miraflores,Lima,,11,2041.29,Auto
+V2014,Colombia,18,,Valle del Colca,Arequipa,2024-01-09,1,,Auto
+V2015,México,49,F,Miraflores,Lima,NA,,,
+V2016,España,,,Miraflores,Lima,NA,3,,Tren
+V2017,Perú,,,Chan Chan,La Libertad,,3,,Bus
+V2018,Perú,,F,Machu Picchu,Cusco,,5,766.97,Barco
+V2019,Chile,,F,Miraflores,Lima,,,1918.65,Barco
+V2020,Brasil,,,Valle del Colca,Arequipa,NA,13,,Tren
+V2021,México,,,Centro Histórico,Lima,,12,,Avión
+V2022,Perú,24,O,Huacachina,Ica,2025-01-06,,3425.34,NA
+V2023,Perú,,O,Lago Titicaca,Puno,,,4628.94,Tren
+V2024,México,72,,Valle del Colca,Arequipa,2025-04-30,14,4687.37,Bus
+V2025,Perú,,,Miraflores,Lima,2025-11-16,13,,Tren
+V2026,Perú,,,Lago Titicaca,Puno,2025-07-21,2,,Bus
+V2027,Colombia,,F,Huacachina,Ica,2025-01-08,,4099.31,Avión
+V2028,México,,F,Miraflores,Lima,NA,,2927.98,NA
+V2029,México,52,O,Iquitos,Loreto,2025-05-04,4,3719.9,
+V2030,Perú,49,,Iquitos,Loreto,2024-09-24,12,,NA
+V2031,Perú,,F,Cusco Ciudad,Cusco,2024-11-10,,,
+V2032,Chile,,F,Valle del Colca,Arequipa,2025-06-05,,,Auto
+V2033,Ecuador,20,,Lago Titicaca,Puno,NA,,238.4,Tren
+V2034,Perú,,F,Valle del Colca,Arequipa,,5,,Avión
+V2035,Francia,,,Iquitos,Loreto,NA,,,Bus
+V2036,Perú,58,M,Centro Histórico,Lima,,,,
+V2037,USA,,M,Centro Histórico,Lima,2024-07-20,13,,
+V2038,Perú,,,Machu Picchu,Cusco,2024-10-22,,902.88,Auto
+V2039,Francia,66,O,Huacachina,Ica,NA,,,Tren
+V2040,Brasil,,F,Iquitos,Loreto,2025-11-22,,,Barco
+V2041,Colombia,,F,Machu Picchu,Cusco,,14,,Barco
+V2042,Perú,,M,Huacachina,Ica,2024-07-28,14,1445.76,Tren
+V2043,Ecuador,39,O,Iquitos,Loreto,NA,,4735.53,
+V2044,Perú,,O,Lago Titicaca,Puno,2024-03-23,,1642.67,Auto
+V2045,Perú,26,O,Lago Titicaca,Puno,NA,6,,Auto
+V2046,Alemania,,M,Machu Picchu,Cusco,2024-01-11,,379.55,Barco
+V2047,USA,,,Iquitos,Loreto,2025-12-02,,690.84,
+V2048,España,,,Centro Histórico,Lima,2025-09-14,3,,NA
+V2049,México,,,Lago Titicaca,Puno,2024-01-10,2,,NA
+V2050,México,42,,Valle del Colca,Arequipa,NA,13,,
+V2051,Perú,,,Miraflores,Lima,NA,,3845.36,
+V2052,Perú,68,O,Valle del Colca,Arequipa,,2,,Tren
+V2053,Colombia,26,,Valle del Colca,Arequipa,2024-12-28,2,4890.99,
+V2054,Ecuador,,,Lago Titicaca,Puno,NA,14,2164.75,
+V2055,Colombia,,,Valle del Colca,Arequipa,2025-08-25,,2140.05,Bus
+V2056,México,,F,Huacachina,Ica,2025-12-30,11,,Barco
+V2057,Argentina,26,,Lago Titicaca,Puno,NA,,,Barco
+V2058,Perú,,,Valle del Colca,Arequipa,,6,3649.96,Tren
+V2059,Perú,,F,Chan Chan,La Libertad,NA,10,,NA
+V2060,Colombia,72,O,Centro Histórico,Lima,,2,,Avión
+V2061,Perú,16,O,Centro Histórico,Lima,2024-02-13,,616.36,Avión
+V2062,Brasil,27,O,Machu Picchu,Cusco,,,,Tren
+V2063,Chile,42,F,Machu Picchu,Cusco,,,,Auto
+V2064,USA,,,Lago Titicaca,Puno,2024-12-14,14,1439.34,Avión
+V2065,Argentina,,,Huacachina,Ica,2024-10-25,,603.67,Auto
+V2066,USA,,F,Lago Titicaca,Puno,,1,2155.34,Auto
+V2067,Colombia,36,,Lago Titicaca,Puno,,,,
+V2068,Argentina,30,,Chan Chan,La Libertad,2025-09-05,1,895.18,Auto
+V2069,Perú,33,,Valle del Colca,Arequipa,,,258.62,Barco
+V2070,Colombia,70,,Huacachina,Ica,2025-01-23,,2862.49,Avión
+V2071,Chile,,M,Chan Chan,La Libertad,2024-09-11,,,
+V2072,Ecuador,,F,Centro Histórico,Lima,,2,,Tren
+V2073,Perú,,,Huacachina,Ica,2025-11-30,1,2617.15,Auto
+V2074,Perú,,,Lago Titicaca,Puno,2024-06-09,,,Auto
+V2075,Chile,,M,Centro Histórico,Lima,2024-03-27,11,4202.86,
+V2076,Ecuador,49,M,Centro Histórico,Lima,NA,,,Auto
+V2077,Argentina,33,,Iquitos,Loreto,NA,4,4689.48,Bus
+V2078,México,,F,Iquitos,Loreto,2024-01-11,6,547.51,Tren
+V2079,Chile,34,,Lago Titicaca,Puno,,,,Auto
+V2080,Perú,,,Lago Titicaca,Puno,NA,,782.79,Auto
+V2081,Perú,,,Chan Chan,La Libertad,NA,14,1769.79,Bus
+V2082,Alemania,,,Huacachina,Ica,NA,,,Tren
+V2083,Alemania,51,O,Huacachina,Ica,NA,,287.12,Barco
+V2084,Perú,64,,Huacachina,Ica,NA,11,,Barco
+V2085,México,,,Valle del Colca,Arequipa,,4,,NA
+V2086,Perú,43,,Miraflores,Lima,NA,,,Bus
+V2087,Alemania,74,,Chan Chan,La Libertad,2025-12-02,,478.27,Bus
+V2088,España,,M,Chan Chan,La Libertad,2024-07-23,6,1705.84,Tren
+V2089,Chile,,M,Lago Titicaca,Puno,,6,,Bus
+V2090,Argentina,,F,Valle del Colca,Arequipa,,,2716.43,Bus
+V2091,Colombia,,M,Lago Titicaca,Puno,NA,,979.45,NA
+V2092,Colombia,,F,Cusco Ciudad,Cusco,NA,10,,
+V2093,Alemania,,F,Centro Histórico,Lima,2024-01-19,10,,
+V2094,Argentina,,,Huacachina,Ica,NA,4,3224.33,Tren
+V2095,Perú,,,Lago Titicaca,Puno,,12,427.42,
+V2096,Perú,,M,Lago Titicaca,Puno,NA,,,Tren
+V2097,Brasil,72,M,Huacachina,Ica,2025-04-23,,,Avión
+V2098,Colombia,,F,Centro Histórico,Lima,NA,10,1820.97,
+V2099,Perú,,,Chan Chan,La Libertad,NA,3,,Barco
+V2100,Perú,18,M,Centro Histórico,Lima,2024-11-03,9,2145.23,Avión
+V2101,Brasil,,,Chan Chan,La Libertad,NA,,,Tren
+V2102,Francia,44,M,Chan Chan,La Libertad,NA,,4044.31,Barco
+V2103,Colombia,16,,Huacachina,Ica,2024-06-26,,2748.93,Barco
+V2104,Argentina,,O,Valle del Colca,Arequipa,2025-06-13,10,,Avión
+V2105,USA,45,M,Cusco Ciudad,Cusco,,7,,Bus
+V2106,USA,,M,Chan Chan,La Libertad,,9,,Auto
+V2107,Argentina,,F,Huacachina,Ica,NA,2,4521.59,Bus
+V2108,Perú,38,F,Machu Picchu,Cusco,,,407.39,Auto
+V2109,Chile,,M,Iquitos,Loreto,2024-05-14,,,Barco
+V2110,Perú,,,Iquitos,Loreto,,4,,Auto
+V2111,Brasil,,O,Lago Titicaca,Puno,NA,,709.2,Auto
+V2112,México,47,,Chan Chan,La Libertad,,4,,Bus
+V2113,Perú,62,F,Iquitos,Loreto,NA,5,,Avión
+V2114,Perú,16,,Lago Titicaca,Puno,NA,,,Auto
+V2115,México,40,F,Valle del Colca,Arequipa,,,,Avión
+V2116,Bolivia,,,Iquitos,Loreto,NA,4,4142.33,
+V2117,Colombia,48,M,Centro Histórico,Lima,NA,,2398.86,Bus
+V2118,Colombia,,,Lago Titicaca,Puno,NA,,,NA
+V2119,México,,,Valle del Colca,Arequipa,,4,549.53,Barco
+V2120,México,,,Chan Chan,La Libertad,,,3370.59,NA
+V2121,Perú,,M,Iquitos,Loreto,,13,4057.95,Barco
+V2122,Colombia,,F,Centro Histórico,Lima,,3,3211.24,
+V2123,México,54,F,Huacachina,Ica,NA,,1032.88,Bus
+V2124,México,,F,Lago Titicaca,Puno,NA,6,4687.63,Avión
+V2125,Perú,58,O,Huacachina,Ica,NA,,4253.94,
+V2126,Perú,,,Huacachina,Ica,2025-12-13,7,4537.08,Bus
+V2127,México,,,Chan Chan,La Libertad,NA,2,1580.98,Avión
+V2128,Perú,,F,Valle del Colca,Arequipa,2024-03-04,,,Tren
+V2129,USA,,M,Iquitos,Loreto,,2,,
+V2130,Argentina,26,M,Chan Chan,La Libertad,2024-08-02,,,Auto
+V2131,Argentina,,O,Valle del Colca,Arequipa,,11,,Bus
+V2132,Chile,17,M,Machu Picchu,Cusco,NA,,,NA
+V2133,España,48,F,Machu Picchu,Cusco,,,52.14,Barco
+V2134,Perú,44,,Iquitos,Loreto,2024-05-05,13,,Auto
+V2135,Ecuador,,F,Machu Picchu,Cusco,,,4442.08,NA
+V2136,México,33,O,Iquitos,Loreto,NA,,4844.04,Bus
+V2137,México,68,,Machu Picchu,Cusco,2024-09-03,,3755.08,NA
+V2138,México,,M,Centro Histórico,Lima,NA,,,Auto
+V2139,Chile,23,O,Valle del Colca,Arequipa,,,2605.46,Auto
+V2140,Perú,,,Huacachina,Ica,,1,2973.63,Tren
+V2141,Chile,26,M,Cusco Ciudad,Cusco,NA,12,4350.47,Auto
+V2142,México,,M,Valle del Colca,Arequipa,NA,9,2101.08,Auto
+V2143,Perú,,O,Huacachina,Ica,NA,11,,Bus
+V2144,Colombia,56,,Chan Chan,La Libertad,,7,,
+V2145,México,49,O,Iquitos,Loreto,2025-06-23,,,Avión
+V2146,Brasil,,,Lago Titicaca,Puno,2025-12-06,10,3371.72,
+V2147,Colombia,39,O,Lago Titicaca,Puno,,,,
+V2148,Colombia,,,Centro Histórico,Lima,NA,,4717.72,
+V2149,Perú,29,,Centro Histórico,Lima,2024-08-08,1,3882.31,Barco
+V2150,México,,F,Chan Chan,La Libertad,,,,Auto
+V2151,México,,,Iquitos,Loreto,NA,,1272.29,
+V2152,Francia,,M,Chan Chan,La Libertad,NA,11,,Barco
+V2153,Perú,34,O,Miraflores,Lima,2025-06-03,14,,Bus
+V2154,Colombia,,,Lago Titicaca,Puno,2024-04-29,,2494.39,Avión
+V2155,Perú,,,Chan Chan,La Libertad,NA,8,,Avión
+V2156,Perú,,,Huacachina,Ica,,10,1715.71,Avión
+V2157,Perú,,M,Miraflores,Lima,NA,,227.96,NA
+V2158,Argentina,,M,Chan Chan,La Libertad,2025-06-21,6,,Bus
+V2159,Perú,,,Iquitos,Loreto,,,1957.76,Bus
+V2160,USA,,,Miraflores,Lima,2025-01-27,1,,Bus
+V2161,Bolivia,,,Cusco Ciudad,Cusco,2025-08-05,,,Bus
+V2162,Argentina,22,M,Iquitos,Loreto,2025-08-21,8,,
+V2163,Perú,,,Machu Picchu,Cusco,NA,10,,Avión
+V2164,Francia,,M,Valle del Colca,Arequipa,,4,,Auto
+V2165,USA,,O,Centro Histórico,Lima,NA,,,Auto
+V2166,México,,,Chan Chan,La Libertad,,8,,Tren
+V2167,USA,,M,Centro Histórico,Lima,NA,8,3213.76,Tren
+V2168,Colombia,,,Cusco Ciudad,Cusco,NA,,,Tren
+V2168,Colombia,,,Cusco Ciudad,Cusco,NA,,,Tren
+V2169,Perú,,,Iquitos,Loreto,NA,,,Auto
+V2170,USA,,M,Huacachina,Ica,,,,Bus
+V2171,Perú,,,Chan Chan,La Libertad,2024-06-11,11,1356.82,
+V2172,Colombia,,O,Lago Titicaca,Puno,,2,2249.55,Avión
+V2173,Perú,,,Valle del Colca,Arequipa,NA,,1227.96,NA
+V2174,Colombia,,,Cusco Ciudad,Cusco,,8,,Barco
+V2175,Perú,,,Valle del Colca,Arequipa,NA,,329.52,NA
+V2176,Argentina,40,,Huacachina,Ica,NA,,,Auto
+V2177,Perú,46,M,Centro Histórico,Lima,2025-09-02,7,2769.27,Avión
+V2178,Brasil,,,Lago Titicaca,Puno,NA,,289.99,Auto
+V2179,Argentina,62,M,Chan Chan,La Libertad,NA,14,1529.96,Auto
+V2180,USA,,F,Machu Picchu,Cusco,,11,1953.76,Bus
+V2181,Perú,17,O,Lago Titicaca,Puno,NA,5,,Avión
+V2182,Bolivia,,,Lago Titicaca,Puno,2024-01-04,12,1547.85,NA
+V2183,México,,M,Centro Histórico,Lima,NA,10,,Bus
+V2184,Colombia,43,,Machu Picchu,Cusco,,,,NA
+V2185,Bolivia,,M,Valle del Colca,Arequipa,,4,1951.98,Bus
+V2186,Argentina,,O,Valle del Colca,Arequipa,,,,Barco
+V2187,Perú,,M,Lago Titicaca,Puno,2024-03-21,12,,Avión
+V2188,Perú,56,O,Chan Chan,La Libertad,NA,,,Tren
+V2189,USA,15,,Valle del Colca,Arequipa,,13,735.27,Barco
+V2190,Argentina,50,,Lago Titicaca,Puno,NA,7,1850.79,Avión
+V2191,USA,45,O,Miraflores,Lima,NA,,2136.58,Auto
+V2192,México,,F,Iquitos,Loreto,2025-11-01,12,,Avión
+V2193,México,,M,Miraflores,Lima,,,,Avión
+V2194,Argentina,17,,Cusco Ciudad,Cusco,,,,Avión
+V2195,Colombia,30,,Chan Chan,La Libertad,NA,14,4713.0,Bus
+V2196,México,,M,Lago Titicaca,Puno,NA,,,Barco
+V2197,Perú,23,,Iquitos,Loreto,2025-10-06,14,3526.35,
+V2198,Colombia,,,Valle del Colca,Arequipa,,13,3148.88,Tren
+V2199,Perú,17,F,Iquitos,Loreto,NA,5,1119.24,Bus
+V2200,Ecuador,,,Lago Titicaca,Puno,NA,,4817.12,Bus
+V2201,Perú,,O,Machu Picchu,Cusco,2024-06-12,,1348.05,Auto
+V2202,Chile,,,Cusco Ciudad,Cusco,,,2605.47,Auto
+V2203,México,,,Iquitos,Loreto,,,1929.65,
+V2204,Argentina,,,Lago Titicaca,Puno,2025-08-25,11,,Barco
+V2205,USA,17,,Valle del Colca,Arequipa,,,,Avión
+V2206,Colombia,,,Lago Titicaca,Puno,2024-06-26,2,,Auto
+V2207,Francia,,,Iquitos,Loreto,,,3357.29,Tren
+V2208,Francia,,,Valle del Colca,Arequipa,NA,,1742.04,Auto
+V2209,Perú,71,,Chan Chan,La Libertad,NA,6,,Bus
+V2210,México,,O,Miraflores,Lima,NA,,,Bus
+V2211,Colombia,,,Lago Titicaca,Puno,,,,Auto
+V2212,Bolivia,,O,Machu Picchu,Cusco,,,,
+V2213,Colombia,17,O,Chan Chan,La Libertad,2025-11-10,8,4422.04,Auto
+V2214,España,29,,Cusco Ciudad,Cusco,2024-08-28,,,
+V2215,Perú,,,Iquitos,Loreto,NA,12,,NA
+V2216,Argentina,,M,Centro Histórico,Lima,,14,1560.46,Tren
+V2217,Brasil,70,,Valle del Colca,Arequipa,2025-04-24,,,Tren
+V2218,México,,M,Miraflores,Lima,2024-08-26,6,,NA
+V2219,Chile,66,F,Huacachina,Ica,2025-03-14,,,
+V2220,USA,18,,Chan Chan,La Libertad,,,,NA
+V2221,Perú,,M,Machu Picchu,Cusco,NA,,,Barco
+V2222,Ecuador,28,M,Chan Chan,La Libertad,2025-05-31,8,1902.7,Avión
+V2223,España,,,Iquitos,Loreto,2024-12-18,,,Auto
+V2224,Argentina,,O,Iquitos,Loreto,NA,,4979.38,
+V2225,Perú,59,,Lago Titicaca,Puno,2024-04-06,4,,Avión
+V2226,Perú,45,O,Iquitos,Loreto,2024-02-29,,3440.91,NA
+V2227,Perú,,,Lago Titicaca,Puno,2025-10-26,,,NA
+V2228,Argentina,,,Cusco Ciudad,Cusco,NA,1,3746.88,NA
+V2229,Argentina,70,F,Valle del Colca,Arequipa,,9,1982.12,NA
+V2230,USA,59,,Iquitos,Loreto,2024-07-26,,,Barco
+V2231,Perú,,,Iquitos,Loreto,,,2331.8,Avión
+V2232,Argentina,,M,Lago Titicaca,Puno,,6,1132.25,NA
+V2233,Colombia,43,F,Lago Titicaca,Puno,NA,1,373.68,
+V2234,Perú,,F,Cusco Ciudad,Cusco,NA,,4531.89,Bus
+V2235,Perú,,F,Centro Histórico,Lima,2024-06-14,1,449.48,Bus
+V2236,Chile,19,M,Machu Picchu,Cusco,NA,13,1251.94,Barco
+V2237,Colombia,,F,Iquitos,Loreto,2024-11-13,13,551.39,NA
+V2238,México,,,Valle del Colca,Arequipa,,,,Tren
+V2239,Chile,,,Huacachina,Ica,2024-10-08,,,Auto
+V2240,Chile,,F,Cusco Ciudad,Cusco,,,,Auto
+V2241,Perú,,,Valle del Colca,Arequipa,NA,11,,Auto
+V2242,Argentina,,F,Valle del Colca,Arequipa,,6,,
+V2243,Colombia,,F,Centro Histórico,Lima,NA,13,2324.94,Tren
+V2244,Perú,59,O,Machu Picchu,Cusco,,13,,NA
+V2245,Colombia,,O,Huacachina,Ica,,,,NA
+V2246,Perú,,,Miraflores,Lima,2025-09-25,6,,NA
+V2247,Perú,,O,Huacachina,Ica,2025-07-18,,3694.79,Auto
+V2248,Chile,,,Centro Histórico,Lima,,,2190.01,Auto
+V2249,México,,,Lago Titicaca,Puno,NA,13,3572.47,Bus
+V2250,Bolivia,,O,Lago Titicaca,Puno,NA,,,Barco
+V2251,México,,,Lago Titicaca,Puno,NA,,,Tren
+V2252,Argentina,41,,Huacachina,Ica,NA,,,Bus
+V2253,Perú,,,Lago Titicaca,Puno,2024-04-29,8,3919.41,Bus
+V2254,México,64,M,Iquitos,Loreto,2024-10-19,,,Avión
+V2255,Perú,37,O,Centro Histórico,Lima,,,,Barco
+V2256,Perú,44,,Huacachina,Ica,2025-05-17,,,Tren
+V2257,Perú,64,F,Iquitos,Loreto,,,,Barco
+V2258,USA,,,Lago Titicaca,Puno,NA,,4250.93,Bus
+V2259,Ecuador,47,,Huacachina,Ica,2024-12-23,13,2413.51,Bus
+V2260,Colombia,,,Centro Histórico,Lima,NA,,,Auto
+V2261,Brasil,,O,Iquitos,Loreto,,,240.13,
+V2262,Perú,,,Centro Histórico,Lima,2024-09-25,11,248.15,Barco
+V2263,Alemania,,,Machu Picchu,Cusco,,,527.23,
+V2264,Ecuador,42,O,Cusco Ciudad,Cusco,2025-02-23,5,4141.83,Tren
+V2265,Ecuador,,M,Huacachina,Ica,NA,11,1060.48,Avión
+V2266,Chile,36,M,Lago Titicaca,Puno,NA,,310.43,
+V2267,Chile,39,M,Huacachina,Ica,NA,11,,Tren
+V2268,Perú,66,M,Chan Chan,La Libertad,2025-12-04,,,Bus
+V2269,Brasil,56,F,Machu Picchu,Cusco,,,3254.83,Avión
+V2270,Colombia,,,Machu Picchu,Cusco,NA,3,,Auto
+V2271,Perú,,M,Iquitos,Loreto,NA,,,Tren
+V2272,Perú,,,Machu Picchu,Cusco,,,,Bus
+V2273,Chile,,,Chan Chan,La Libertad,2024-09-22,,2325.53,Avión
+V2274,Perú,22,M,Cusco Ciudad,Cusco,2024-04-01,,3176.93,Auto
+V2275,Ecuador,,O,Cusco Ciudad,Cusco,NA,,1958.21,Avión
+V2276,Perú,,M,Machu Picchu,Cusco,2025-12-18,,970.15,NA
+V2277,USA,32,M,Iquitos,Loreto,2025-01-01,2,3234.16,Tren
+V2278,USA,,F,Centro Histórico,Lima,NA,6,333.35,Auto
+V2279,Perú,44,,Iquitos,Loreto,NA,,,
+V2280,Ecuador,,O,Chan Chan,La Libertad,,,,Tren
+V2281,Brasil,,,Miraflores,Lima,,,567.45,Auto
+V2282,Ecuador,,F,Lago Titicaca,Puno,2024-11-19,12,,Auto
+V2283,México,,M,Machu Picchu,Cusco,NA,,4853.56,Barco
+V2284,Perú,55,F,Valle del Colca,Arequipa,,14,3097.51,Barco
+V2285,USA,,O,Cusco Ciudad,Cusco,NA,,,Avión
+V2286,Brasil,,F,Huacachina,Ica,NA,4,2351.48,NA
+V2287,Colombia,,,Valle del Colca,Arequipa,2025-04-11,,,Tren
+V2287,Colombia,,,Valle del Colca,Arequipa,2025-04-11,,,Tren
+V2288,Bolivia,,F,Centro Histórico,Lima,NA,4,3628.38,Tren
+V2289,Perú,,O,Huacachina,Ica,,,886.56,Avión
+V2290,USA,,M,Chan Chan,La Libertad,2025-01-01,7,3769.95,Bus
+V2291,Perú,,,Valle del Colca,Arequipa,,,,
+V2292,Ecuador,44,F,Miraflores,Lima,2025-12-31,,,Barco
+V2293,Perú,,,Chan Chan,La Libertad,NA,5,,Auto
+V2294,USA,46,F,Huacachina,Ica,2025-04-03,,4739.21,Auto
+V2295,Colombia,,M,Valle del Colca,Arequipa,2024-11-04,12,,Avión
+V2296,Bolivia,44,O,Centro Histórico,Lima,,,,Auto
+V2297,México,,,Lago Titicaca,Puno,2024-10-12,,2324.2,Tren
+V2298,México,,,Valle del Colca,Arequipa,2025-05-17,,,Auto
+V2299,Chile,,,Valle del Colca,Arequipa,2025-03-18,4,2486.63,
+V2300,Ecuador,,,Centro Histórico,Lima,,,4662.24,NA
+V2301,Bolivia,62,M,Lago Titicaca,Puno,,,,Tren
+V2302,Francia,74,,Valle del Colca,Arequipa,NA,,,
+V2303,Colombia,,M,Valle del Colca,Arequipa,,13,422.14,
+V2304,Chile,16,F,Lago Titicaca,Puno,NA,12,4406.15,
+V2305,Perú,31,M,Cusco Ciudad,Cusco,NA,5,,Auto
+V2306,México,71,,Huacachina,Ica,NA,8,,Bus
+V2307,España,35,O,Centro Histórico,Lima,,9,,
+V2308,México,,,Iquitos,Loreto,2025-02-01,,,Avión
+V2309,Perú,,M,Iquitos,Loreto,NA,13,,Avión
+V2310,Chile,,F,Valle del Colca,Arequipa,NA,8,504.71,Bus
+V2311,México,,,Chan Chan,La Libertad,2025-02-17,,404.7,Auto
+V2312,Chile,35,,Huacachina,Ica,,3,,Bus
+V2313,Perú,,,Valle del Colca,Arequipa,NA,11,2914.31,Avión
+V2314,México,,O,Centro Histórico,Lima,,4,,Tren
+V2315,México,,,Chan Chan,La Libertad,,,1124.9,Barco
+V2316,México,,,Lago Titicaca,Puno,2025-03-05,,,Tren
+V2317,Argentina,34,O,Machu Picchu,Cusco,NA,9,2778.97,Avión
+V2318,España,72,O,Chan Chan,La Libertad,NA,,1410.85,Bus
+V2319,Argentina,,F,Lago Titicaca,Puno,2024-01-28,,4489.33,Avión
+V2320,México,39,O,Miraflores,Lima,,2,4157.77,Barco
+V2321,España,,F,Lago Titicaca,Puno,NA,10,,Auto
+V2322,USA,56,,Iquitos,Loreto,,3,,Barco
+V2323,Colombia,,O,Huacachina,Ica,,,1103.58,Tren
+V2324,México,65,O,Machu Picchu,Cusco,2025-05-14,,2113.59,Barco
+V2325,Perú,,,Centro Histórico,Lima,NA,10,,Barco
+V2326,Alemania,,,Chan Chan,La Libertad,,3,1315.52,Auto
+V2327,Argentina,39,M,Huacachina,Ica,2025-10-25,,,Auto
+V2328,Perú,50,O,Valle del Colca,Arequipa,NA,,,Tren
+V2329,Colombia,,,Iquitos,Loreto,,13,,Auto
+V2330,México,,F,Valle del Colca,Arequipa,NA,,,Bus
+V2331,México,,F,Lago Titicaca,Puno,2025-06-08,,2299.04,NA
+V2332,Perú,66,F,Chan Chan,La Libertad,,1,2100.79,Avión
+V2333,Colombia,22,O,Chan Chan,La Libertad,2025-10-13,,,Auto
+V2334,USA,40,O,Chan Chan,La Libertad,NA,,2841.46,
+V2335,USA,25,O,Centro Histórico,Lima,,,2199.96,NA
+V2336,Perú,,F,Valle del Colca,Arequipa,NA,9,3920.77,
+V2337,USA,,,Iquitos,Loreto,,7,3356.08,Tren
+V2338,México,29,,Centro Histórico,Lima,,14,,Avión
+V2339,Perú,31,M,Lago Titicaca,Puno,NA,8,963.19,Tren
+V2340,Chile,,M,Lago Titicaca,Puno,2025-02-19,,,Avión
+V2341,Colombia,,O,Miraflores,Lima,,7,481.19,Avión
+V2342,Alemania,17,M,Lago Titicaca,Puno,2024-10-01,6,1047.67,Auto
+V2343,México,,M,Iquitos,Loreto,,5,2430.96,Bus
+V2344,Chile,,O,Chan Chan,La Libertad,2024-05-25,11,,Bus
+V2345,Perú,68,M,Huacachina,Ica,2025-10-27,11,,Tren
+V2346,Brasil,58,O,Iquitos,Loreto,,,,Bus
+V2347,Chile,,M,Iquitos,Loreto,2024-09-16,,,NA
+V2348,Chile,57,,Valle del Colca,Arequipa,NA,,,Tren
+V2349,Perú,,F,Machu Picchu,Cusco,2025-12-08,6,2791.02,Auto
+V2350,Colombia,,,Valle del Colca,Arequipa,NA,14,,Barco
+V2351,Colombia,,,Chan Chan,La Libertad,2024-09-01,10,327.8,Avión
+V2352,Argentina,,,Lago Titicaca,Puno,NA,,4201.17,Barco
+V2353,Perú,,,Cusco Ciudad,Cusco,NA,,3799.02,NA
+V2354,Colombia,,O,Centro Histórico,Lima,2025-09-30,13,4315.27,Avión
+V2355,Perú,23,,Chan Chan,La Libertad,2024-04-13,14,2902.94,Auto
+V2356,Colombia,,O,Lago Titicaca,Puno,2024-02-28,9,3184.11,Tren
+V2357,Perú,,,Machu Picchu,Cusco,,,4420.92,NA
+V2358,Perú,31,F,Machu Picchu,Cusco,2024-12-05,12,,Bus
+V2359,Perú,,,Iquitos,Loreto,NA,6,3653.5,NA
+V2360,México,,,Chan Chan,La Libertad,NA,4,,
+V2361,México,,,Chan Chan,La Libertad,2024-07-05,11,3819.26,NA
+V2362,Perú,,M,Machu Picchu,Cusco,2024-06-11,14,,
+V2363,Alemania,44,,Valle del Colca,Arequipa,2024-08-25,,,
+V2364,Perú,,M,Centro Histórico,Lima,,,,Barco
+V2365,Perú,,,Huacachina,Ica,NA,,,Auto
+V2366,Colombia,,,Lago Titicaca,Puno,NA,,,
+V2367,México,73,F,Iquitos,Loreto,NA,3,,
+V2368,USA,,,Iquitos,Loreto,2025-03-09,,,
+V2369,México,,,Cusco Ciudad,Cusco,2025-12-06,,,Barco
+V2370,Brasil,,F,Valle del Colca,Arequipa,NA,,252.11,Barco
+V2371,Perú,,F,Valle del Colca,Arequipa,NA,,3233.98,Auto
+V2372,Perú,,F,Valle del Colca,Arequipa,,,168.3,Tren
+V2373,Brasil,,F,Machu Picchu,Cusco,NA,11,3938.58,NA
+V2374,Perú,,F,Machu Picchu,Cusco,NA,,1218.79,Tren
+V2375,Chile,,M,Valle del Colca,Arequipa,,,,Avión
+V2376,Perú,59,F,Machu Picchu,Cusco,NA,,,Tren
+V2377,Colombia,,,Huacachina,Ica,,,,Avión
+V2378,Argentina,35,,Chan Chan,La Libertad,2024-11-11,,1605.72,Barco
+V2379,Colombia,,O,Centro Histórico,Lima,2025-09-27,,,
+V2380,México,,O,Huacachina,Ica,NA,9,,Auto
+V2381,Colombia,,M,Machu Picchu,Cusco,,5,,NA
+V2382,Colombia,27,,Cusco Ciudad,Cusco,2025-01-08,6,4198.22,Auto
+V2383,Argentina,,M,Cusco Ciudad,Cusco,,4,,NA
+V2384,Perú,62,,Valle del Colca,Arequipa,NA,5,,Tren
+V2385,Perú,,,Huacachina,Ica,,3,,Barco
+V2386,USA,35,,Valle del Colca,Arequipa,NA,,4663.62,Tren
+V2387,Alemania,,M,Centro Histórico,Lima,,10,,Bus
+V2388,Alemania,,,Chan Chan,La Libertad,NA,,2593.89,NA
+V2389,Perú,36,O,Iquitos,Loreto,2024-05-30,,4704.68,Avión
+V2390,México,,O,Miraflores,Lima,NA,2,1642.51,
+V2391,Francia,,F,Cusco Ciudad,Cusco,2024-08-14,13,3673.45,
+V2392,Perú,71,,Chan Chan,La Libertad,,10,,NA
+V2393,Perú,,F,Centro Histórico,Lima,NA,11,2504.96,Tren
+V2394,USA,36,O,Chan Chan,La Libertad,,,1140.74,NA
+V2395,Francia,,F,Huacachina,Ica,,3,,Tren
+V2396,Perú,,F,Centro Histórico,Lima,2024-01-14,5,,
+V2397,Perú,,,Huacachina,Ica,2024-10-02,,3465.95,Tren
+V2398,Perú,,,Lago Titicaca,Puno,2025-11-27,9,3560.98,NA
+V2399,Francia,,F,Valle del Colca,Arequipa,NA,,1208.18,NA
+V2400,Perú,,F,Machu Picchu,Cusco,NA,13,,NA
+V2401,México,,M,Valle del Colca,Arequipa,,12,4061.04,Tren
+V2402,Perú,,M,Miraflores,Lima,2024-09-05,1,4500.45,Avión
+V2403,Perú,,,Valle del Colca,Arequipa,,,2777.19,Bus
+V2404,Ecuador,22,O,Centro Histórico,Lima,,6,,Barco
+V2405,Argentina,,F,Lago Titicaca,Puno,,11,,Avión
+V2406,Alemania,,O,Centro Histórico,Lima,2025-09-12,13,,Avión
+V2407,Colombia,33,M,Lago Titicaca,Puno,NA,,,Bus
+V2408,Colombia,,F,Lago Titicaca,Puno,NA,,2166.41,Tren
+V2409,Brasil,37,,Valle del Colca,Arequipa,,,,NA
+V2410,Colombia,60,F,Valle del Colca,Arequipa,2024-11-03,9,4999.92,Avión
+V2411,Ecuador,,F,Machu Picchu,Cusco,2024-01-31,,,Bus
+V2412,México,,O,Huacachina,Ica,,,1371.51,NA
+V2413,Perú,,,Chan Chan,La Libertad,NA,,,NA
+V2414,Chile,,O,Chan Chan,La Libertad,,,,Bus
+V2415,Perú,,M,Chan Chan,La Libertad,2025-03-13,1,146.13,NA
+V2416,Perú,,,Valle del Colca,Arequipa,NA,,3050.28,NA
+V2417,Colombia,,F,Chan Chan,La Libertad,,1,94.73,Auto
+V2418,USA,49,,Huacachina,Ica,,,4212.88,NA
+V2419,Colombia,,,Machu Picchu,Cusco,NA,,,
+V2420,Perú,,F,Centro Histórico,Lima,2024-08-15,11,,Auto
+V2421,Perú,,F,Machu Picchu,Cusco,NA,,2443.21,NA
+V2422,Brasil,,F,Chan Chan,La Libertad,2025-12-22,,,Auto
+V2423,México,43,,Chan Chan,La Libertad,2025-12-25,,,Avión
+V2424,Perú,20,,Lago Titicaca,Puno,2025-06-05,7,,NA
+V2425,USA,48,,Lago Titicaca,Puno,NA,,2135.12,Auto
+V2426,Perú,17,M,Chan Chan,La Libertad,,,,Tren
+V2427,Brasil,,M,Iquitos,Loreto,,9,,NA
+V2428,México,,,Cusco Ciudad,Cusco,,10,1463.88,NA
+V2429,Perú,,M,Huacachina,Ica,,1,4232.38,Bus
+V2430,Colombia,,O,Lago Titicaca,Puno,2025-06-02,4,,NA
+V2431,Perú,,,Lago Titicaca,Puno,NA,,,Auto
+V2432,Chile,56,F,Valle del Colca,Arequipa,NA,11,3051.9,Auto
+V2432,Chile,56,F,Valle del Colca,Arequipa,NA,11,3051.9,Auto
+V2433,Chile,,M,Valle del Colca,Arequipa,,,3877.83,Auto
+V2434,España,,,Centro Histórico,Lima,,9,,Barco
+V2435,Brasil,,,Cusco Ciudad,Cusco,2024-07-15,7,,
+V2436,Argentina,,F,Cusco Ciudad,Cusco,NA,3,,Barco
+V2437,Perú,,,Huacachina,Ica,2024-03-31,10,,
+V2438,México,41,O,Huacachina,Ica,2025-10-30,,1891.94,Auto
+V2439,Perú,55,F,Huacachina,Ica,NA,1,,
+V2440,USA,,,Lago Titicaca,Puno,,10,4020.67,
+V2441,México,,F,Centro Histórico,Lima,2025-03-11,,2160.95,Barco
+V2442,Colombia,,,Miraflores,Lima,,8,,Barco
+V2443,México,31,F,Cusco Ciudad,Cusco,NA,,,Bus
+V2444,México,,M,Chan Chan,La Libertad,NA,,172.71,Auto
+V2445,Perú,20,,Miraflores,Lima,NA,14,2236.49,Avión
+V2446,Perú,28,,Iquitos,Loreto,,1,,Bus
+V2447,Argentina,,O,Centro Histórico,Lima,NA,,,Avión
+V2448,Chile,,,Huacachina,Ica,NA,2,,
+V2449,España,,,Cusco Ciudad,Cusco,,,1167.33,Bus
+V2450,Argentina,,F,Valle del Colca,Arequipa,NA,11,346.28,Bus
+V2451,Colombia,18,,Machu Picchu,Cusco,NA,5,4834.91,
+V2452,Perú,,O,Valle del Colca,Arequipa,,6,,Auto
+V2453,México,,O,Iquitos,Loreto,NA,2,2400.31,Tren
+V2454,Argentina,,O,Iquitos,Loreto,,,,Bus
+V2455,Perú,43,O,Lago Titicaca,Puno,,,2074.35,
+V2456,Perú,67,O,Valle del Colca,Arequipa,NA,11,,Tren
+V2457,Perú,,O,Miraflores,Lima,NA,4,,Tren
+V2458,Bolivia,,M,Lago Titicaca,Puno,,,,Bus
+V2459,México,,,Chan Chan,La Libertad,,,,Barco
+V2460,Argentina,,,Valle del Colca,Arequipa,,12,4507.87,NA
+V2461,Perú,,,Chan Chan,La Libertad,,,3398.28,Bus
+V2462,Perú,,O,Iquitos,Loreto,,,2323.45,NA
+V2463,Ecuador,,O,Chan Chan,La Libertad,NA,9,1139.87,
+V2464,Perú,,O,Lago Titicaca,Puno,,1,3604.98,Barco
+V2465,Argentina,,F,Iquitos,Loreto,2024-03-13,10,3223.55,Auto
+V2466,Perú,,,Iquitos,Loreto,,9,2655.61,Avión
+V2467,México,19,M,Iquitos,Loreto,2025-04-19,,,Avión
+V2468,Colombia,,,Centro Histórico,Lima,2024-05-08,2,892.86,NA
+V2469,Chile,,,Chan Chan,La Libertad,2024-07-09,,707.87,Bus
+V2470,Perú,,,Huacachina,Ica,NA,,,Bus
+V2471,Perú,,M,Huacachina,Ica,2025-11-08,12,3394.26,Barco
+V2472,Perú,,F,Chan Chan,La Libertad,2024-12-29,13,536.63,Bus
+V2473,Perú,,,Cusco Ciudad,Cusco,,,266.85,Tren
+V2474,Argentina,,M,Chan Chan,La Libertad,,,,Tren
+V2475,Chile,44,F,Iquitos,Loreto,,,2034.19,Auto
+V2476,Perú,,M,Centro Histórico,Lima,,,,Avión
+V2477,México,,F,Lago Titicaca,Puno,NA,12,2867.2,Avión
+V2478,Perú,,F,Lago Titicaca,Puno,NA,,,NA
+V2479,Argentina,48,F,Chan Chan,La Libertad,2025-10-04,,3423.25,Avión
+V2480,USA,54,O,Valle del Colca,Arequipa,NA,,2064.5,Tren
+V2481,Perú,68,O,Iquitos,Loreto,,11,2591.0,Avión
+V2482,USA,32,,Chan Chan,La Libertad,,,2059.92,
+V2483,Perú,43,M,Lago Titicaca,Puno,2024-02-22,8,3624.1,NA
+V2484,Chile,54,,Valle del Colca,Arequipa,2024-04-06,,,Barco
+V2485,USA,,M,Iquitos,Loreto,2024-11-19,,296.27,
+V2486,Perú,,O,Lago Titicaca,Puno,,,330.54,Auto
+V2487,Chile,,,Lago Titicaca,Puno,,,,Avión
+V2488,Perú,59,O,Chan Chan,La Libertad,,3,578.14,Tren
+V2489,Perú,,F,Huacachina,Ica,2024-11-21,12,1788.41,Auto
+V2490,Perú,,,Chan Chan,La Libertad,,,,Auto
+V2491,Perú,,M,Chan Chan,La Libertad,NA,,,Barco
+V2492,Perú,23,,Valle del Colca,Arequipa,,,,NA
+V2493,Ecuador,26,M,Huacachina,Ica,NA,12,4574.33,
+V2494,Perú,,F,Chan Chan,La Libertad,2024-01-23,,,Bus
+V2495,Perú,,,Valle del Colca,Arequipa,,9,,Avión
+V2496,México,,M,Cusco Ciudad,Cusco,,8,,Barco
+V2497,México,17,M,Valle del Colca,Arequipa,,12,3857.78,Barco
+V2498,Perú,42,F,Miraflores,Lima,2024-08-16,14,,
+V2499,Chile,,O,Lago Titicaca,Puno,2025-11-28,,668.2,Avión
+V2500,Chile,,O,Machu Picchu,Cusco,,,,Barco
+V2501,Perú,,,Chan Chan,La Libertad,,,,Barco
+V2502,Perú,,F,Valle del Colca,Arequipa,NA,,4779.14,Avión
+V2503,Brasil,,,Chan Chan,La Libertad,NA,,,Tren
+V2504,México,,O,Lago Titicaca,Puno,,13,1609.42,
+V2505,Brasil,64,M,Miraflores,Lima,2025-02-20,,,Auto
+V2506,Chile,,O,Chan Chan,La Libertad,,8,,Bus
+V2507,Perú,23,O,Huacachina,Ica,2025-09-17,2,1328.62,Auto
+V2508,Perú,,,Chan Chan,La Libertad,2025-12-18,,3610.65,Bus
+V2509,Chile,,F,Iquitos,Loreto,2024-01-25,5,,Tren
+V2510,Perú,,O,Chan Chan,La Libertad,2024-03-10,,,Barco
+V2511,Perú,60,M,Lago Titicaca,Puno,NA,7,,NA
+V2512,Perú,,M,Cusco Ciudad,Cusco,,,,NA
+V2513,Chile,,F,Miraflores,Lima,,8,,Tren
+V2514,Colombia,,,Valle del Colca,Arequipa,,,,NA
+V2515,México,52,,Chan Chan,La Libertad,,1,849.93,NA
+V2516,México,,O,Cusco Ciudad,Cusco,2024-04-14,,,Tren
+V2517,Perú,,M,Iquitos,Loreto,,,1236.81,Auto
+V2518,España,,O,Miraflores,Lima,NA,9,,NA
+V2519,Chile,,O,Machu Picchu,Cusco,2024-08-07,,1944.24,Auto
+V2520,Perú,32,O,Valle del Colca,Arequipa,2024-12-16,,,Avión
+V2521,Colombia,44,O,Lago Titicaca,Puno,2025-05-20,1,3245.56,
+V2522,Brasil,15,M,Chan Chan,La Libertad,,12,,
+V2523,México,67,O,Lago Titicaca,Puno,2025-11-13,,,NA
+V2524,Perú,44,F,Machu Picchu,Cusco,NA,,,Auto
+V2525,España,,F,Chan Chan,La Libertad,2024-11-10,,,Bus
+V2526,Perú,,F,Lago Titicaca,Puno,NA,9,,
+V2527,México,28,,Huacachina,Ica,,8,,Tren
+V2528,USA,75,M,Chan Chan,La Libertad,,8,3341.63,NA
+V2529,Perú,,F,Valle del Colca,Arequipa,,,,Avión
+V2530,Perú,,,Valle del Colca,Arequipa,NA,,4377.64,Avión
+V2531,USA,53,F,Iquitos,Loreto,,5,,Tren
+V2532,Chile,67,O,Lago Titicaca,Puno,,6,2772.36,Barco
+V2533,Colombia,64,,Miraflores,Lima,2025-12-21,9,2894.13,
+V2534,Colombia,,M,Centro Histórico,Lima,NA,2,,Auto
+V2535,Argentina,,O,Lago Titicaca,Puno,,7,,Tren
+V2536,Perú,26,O,Iquitos,Loreto,2025-03-02,6,,
+V2537,Perú,,O,Lago Titicaca,Puno,NA,,,Barco
+V2538,Perú,30,,Iquitos,Loreto,2024-11-08,,1955.49,Barco
+V2539,Perú,,F,Centro Histórico,Lima,NA,9,,Auto
+V2540,Perú,,,Lago Titicaca,Puno,NA,,,
+V2541,Chile,,,Machu Picchu,Cusco,,12,,Avión
+V2542,México,,O,Miraflores,Lima,NA,,,NA
+V2543,México,,F,Miraflores,Lima,NA,,3968.72,Barco
+V2544,Brasil,45,M,Machu Picchu,Cusco,NA,8,,Bus
+V2545,Perú,,F,Valle del Colca,Arequipa,NA,,,Barco
+V2546,Bolivia,61,F,Iquitos,Loreto,NA,,,Auto
+V2547,Argentina,,F,Huacachina,Ica,2024-06-15,10,3984.25,Bus
+V2548,México,,,Machu Picchu,Cusco,,,2054.11,Bus
+V2549,Perú,,,Iquitos,Loreto,,,3824.18,NA
+V2550,Alemania,,F,Centro Histórico,Lima,,8,4869.6,Barco
+V2551,Brasil,24,O,Huacachina,Ica,NA,,,NA
+V2552,Colombia,57,M,Iquitos,Loreto,2024-12-10,,1111.79,Bus
+V2553,México,60,M,Lago Titicaca,Puno,2024-10-01,,834.54,Tren
+V2554,Ecuador,,,Chan Chan,La Libertad,,,,Tren
+V2555,Colombia,53,M,Centro Histórico,Lima,NA,1,2396.08,
+V2556,Perú,,,Lago Titicaca,Puno,2025-06-18,6,,Avión
+V2557,Brasil,73,M,Iquitos,Loreto,NA,6,,Bus
+V2558,Brasil,57,M,Huacachina,Ica,2025-04-27,9,,Avión
+V2559,Brasil,,M,Cusco Ciudad,Cusco,,,,Tren
+V2560,Perú,53,M,Machu Picchu,Cusco,2025-11-17,3,2391.32,Avión
+V2560,Perú,53,M,Machu Picchu,Cusco,2025-11-17,3,2391.32,Avión
+V2561,Argentina,,,Miraflores,Lima,NA,4,1054.83,NA
+V2562,USA,,F,Valle del Colca,Arequipa,2025-10-29,,2874.59,Bus
+V2563,Perú,,F,Valle del Colca,Arequipa,2024-04-19,,,Barco
+V2564,Chile,,M,Lago Titicaca,Puno,NA,,3734.84,Bus
+V2565,Argentina,,M,Lago Titicaca,Puno,NA,13,2458.25,Bus
+V2566,Perú,,F,Valle del Colca,Arequipa,NA,5,4161.47,Auto
+V2567,USA,,,Iquitos,Loreto,2025-01-13,,,NA
+V2568,Bolivia,,M,Miraflores,Lima,,,2284.26,Auto
+V2569,Perú,,,Cusco Ciudad,Cusco,NA,,,Barco
+V2570,Brasil,,,Iquitos,Loreto,,,,
+V2571,Colombia,,,Huacachina,Ica,NA,,,Tren
+V2572,Perú,,O,Chan Chan,La Libertad,,6,2921.63,Bus
+V2573,Colombia,,,Iquitos,Loreto,2025-08-05,,2915.46,NA
+V2574,Ecuador,,F,Lago Titicaca,Puno,,,4891.28,Barco
+V2575,México,,M,Lago Titicaca,Puno,,,,Barco
+V2576,Chile,,M,Iquitos,Loreto,,13,241.81,NA
+V2577,Perú,,O,Iquitos,Loreto,2025-10-04,8,,Auto
+V2578,Ecuador,61,F,Huacachina,Ica,2024-07-29,10,,Avión
+V2579,USA,68,,Chan Chan,La Libertad,,14,276.91,Bus
+V2580,México,,O,Lago Titicaca,Puno,NA,,3596.36,Barco
+V2581,Argentina,32,M,Chan Chan,La Libertad,NA,5,3258.21,Auto
+V2582,México,,,Lago Titicaca,Puno,,11,2079.56,Tren
+V2583,Perú,,,Lago Titicaca,Puno,NA,,,NA
+V2584,Bolivia,43,,Centro Histórico,Lima,NA,,,Avión
+V2585,Perú,,F,Huacachina,Ica,,5,,Tren
+V2586,México,,,Iquitos,Loreto,,12,,
+V2587,Argentina,17,,Lago Titicaca,Puno,,6,,Tren
+V2588,México,,,Valle del Colca,Arequipa,2025-12-23,,2718.7,Auto
+V2589,México,,O,Cusco Ciudad,Cusco,NA,,,Barco
+V2590,Colombia,,,Chan Chan,La Libertad,NA,,,Bus
+V2591,Perú,,,Centro Histórico,Lima,NA,,,
+V2592,Perú,,O,Chan Chan,La Libertad,NA,,2906.13,
+V2593,USA,,,Iquitos,Loreto,NA,6,2065.31,
+V2594,Chile,,,Machu Picchu,Cusco,2025-12-02,1,3864.79,
+V2595,Colombia,,,Valle del Colca,Arequipa,2024-08-15,8,2486.12,Bus
+V2596,Colombia,,F,Machu Picchu,Cusco,NA,8,,Auto
+V2597,Chile,,O,Cusco Ciudad,Cusco,2025-07-11,,,Avión
+V2598,Brasil,,O,Iquitos,Loreto,NA,,1766.3,
+V2599,USA,24,,Miraflores,Lima,NA,,,Tren
+V2600,Colombia,59,M,Huacachina,Ica,,,791.95,Auto
+V2601,Perú,,M,Centro Histórico,Lima,NA,,1214.27,Tren
+V2602,Perú,,,Valle del Colca,Arequipa,NA,,4562.61,Auto
+V2603,Argentina,44,M,Cusco Ciudad,Cusco,2025-04-11,6,,Bus
+V2604,México,36,,Huacachina,Ica,2025-05-16,,,Bus
+V2605,Perú,,,Valle del Colca,Arequipa,,9,2230.87,Tren
+V2606,USA,,M,Lago Titicaca,Puno,NA,,,Auto
+V2607,Bolivia,71,,Iquitos,Loreto,2025-07-14,,3600.68,NA
+V2608,Colombia,59,M,Huacachina,Ica,,1,3602.29,Avión
+V2609,Perú,,,Iquitos,Loreto,NA,7,1904.18,Auto
+V2610,Francia,21,,Chan Chan,La Libertad,NA,9,3018.36,Avión
+V2611,Perú,,,Chan Chan,La Libertad,NA,,4898.09,
+V2612,Perú,,O,Lago Titicaca,Puno,,,,Barco
+V2613,Perú,,,Lago Titicaca,Puno,,,,NA
+V2614,Colombia,,O,Valle del Colca,Arequipa,NA,,,NA
+V2615,Argentina,37,M,Iquitos,Loreto,NA,1,,
+V2616,México,53,O,Huacachina,Ica,2024-05-12,,,Bus
+V2617,Perú,31,,Huacachina,Ica,2025-08-26,,4242.84,NA
+V2618,Brasil,,,Lago Titicaca,Puno,,,1197.56,Avión
+V2619,México,,O,Miraflores,Lima,,14,,Barco
+V2620,Perú,56,,Valle del Colca,Arequipa,,6,614.8,
+V2621,USA,,,Iquitos,Loreto,NA,5,3110.59,Auto
+V2622,Ecuador,,,Huacachina,Ica,2025-03-06,12,,Bus
+V2623,Brasil,,O,Iquitos,Loreto,2025-12-10,,,Avión
+V2624,México,,F,Huacachina,Ica,,,,Barco
+V2625,México,,M,Chan Chan,La Libertad,,9,,Avión
+V2626,Perú,,,Lago Titicaca,Puno,2024-10-20,,,Avión
+V2627,Chile,44,,Huacachina,Ica,,3,,NA
+V2628,España,,O,Huacachina,Ica,NA,2,1610.22,Auto
+V2629,USA,50,,Huacachina,Ica,NA,13,,Avión
+V2630,Ecuador,,,Miraflores,Lima,,,524.42,NA
+V2631,Brasil,,,Huacachina,Ica,2025-12-05,6,,NA
+V2632,Perú,41,F,Chan Chan,La Libertad,2025-10-05,,2795.44,Avión
+V2633,Chile,27,,Lago Titicaca,Puno,2025-06-30,8,1368.96,Bus
+V2634,Perú,39,F,Iquitos,Loreto,,14,,NA
+V2635,Brasil,52,,Valle del Colca,Arequipa,,,,NA
+V2636,Argentina,,,Centro Histórico,Lima,NA,7,,NA
+V2637,México,,M,Valle del Colca,Arequipa,2024-02-04,12,,Tren
+V2638,Francia,,,Huacachina,Ica,NA,13,1817.52,Avión
+V2639,Colombia,,,Centro Histórico,Lima,2025-05-25,,,Avión
+V2640,USA,28,O,Iquitos,Loreto,,13,,
+V2641,Perú,72,M,Valle del Colca,Arequipa,,,4998.64,
+V2642,España,,F,Chan Chan,La Libertad,2025-07-20,,,Avión
+V2643,Argentina,,O,Iquitos,Loreto,2024-08-05,,,Bus
+V2644,Chile,70,,Iquitos,Loreto,,,789.4,
+V2645,Chile,55,F,Iquitos,Loreto,,,1031.23,Barco
+V2646,México,,,Valle del Colca,Arequipa,2025-10-24,,,NA
+V2647,Chile,,,Valle del Colca,Arequipa,NA,,4547.11,Avión
+V2648,Francia,,O,Centro Histórico,Lima,,5,,Barco
+V2649,Francia,,,Huacachina,Ica,NA,,,Bus
+V2650,Brasil,24,,Huacachina,Ica,2024-08-13,,,Auto
+V2651,Perú,60,F,Lago Titicaca,Puno,,14,2257.82,Bus
+V2652,Alemania,67,M,Huacachina,Ica,NA,,,Tren
+V2653,Perú,44,,Valle del Colca,Arequipa,NA,,125.09,
+V2654,Francia,,O,Chan Chan,La Libertad,,2,1067.76,Barco
+V2655,Chile,,F,Cusco Ciudad,Cusco,,5,,Avión
+V2656,Perú,47,,Huacachina,Ica,2025-04-09,2,,Tren
+V2657,España,,,Iquitos,Loreto,2025-06-01,6,1057.91,Tren
+V2658,México,36,O,Chan Chan,La Libertad,,7,,Bus
+V2659,Chile,,F,Iquitos,Loreto,2024-06-14,,3214.91,Bus
+V2660,Perú,,F,Iquitos,Loreto,NA,,,Avión
+V2661,Argentina,,,Cusco Ciudad,Cusco,NA,2,4870.51,
+V2662,Chile,,,Lago Titicaca,Puno,,,1750.06,NA
+V2663,Perú,,M,Valle del Colca,Arequipa,,7,1272.35,Tren
+V2664,Chile,,,Valle del Colca,Arequipa,,11,2144.02,NA
+V2665,México,,,Centro Histórico,Lima,NA,,681.52,Bus
+V2666,Colombia,54,,Valle del Colca,Arequipa,NA,8,1550.07,Auto
+V2667,México,56,F,Valle del Colca,Arequipa,NA,,,Barco
+V2668,México,75,F,Iquitos,Loreto,,,,NA
+V2669,Colombia,,,Huacachina,Ica,NA,,,Tren
+V2670,México,,O,Lago Titicaca,Puno,,13,,Tren
+V2671,Perú,25,M,Iquitos,Loreto,NA,1,3640.69,Bus
+V2672,Brasil,,F,Cusco Ciudad,Cusco,2024-06-09,,,Auto
+V2673,Brasil,,O,Iquitos,Loreto,2025-07-01,14,,NA
+V2674,Argentina,,M,Machu Picchu,Cusco,,1,,
+V2675,Perú,70,M,Lago Titicaca,Puno,,2,280.06,Auto
+V2676,USA,,,Huacachina,Ica,,8,959.34,
+V2677,USA,44,,Valle del Colca,Arequipa,,,,NA
+V2678,Alemania,,M,Lago Titicaca,Puno,2025-09-17,14,,Tren
+V2679,Argentina,33,O,Iquitos,Loreto,NA,,,Tren
+V2680,Chile,,,Chan Chan,La Libertad,NA,,1195.45,
+V2681,México,60,O,Lago Titicaca,Puno,NA,,958.53,Barco
+V2682,México,,,Machu Picchu,Cusco,2024-11-24,,892.2,Auto
+V2683,Perú,,O,Centro Histórico,Lima,2024-03-02,11,57.86,Tren
+V2684,Argentina,,,Lago Titicaca,Puno,,,,Tren
+V2685,México,29,,Iquitos,Loreto,2024-10-27,,,Bus
+V2686,USA,,,Valle del Colca,Arequipa,,,4080.11,NA
+V2687,Brasil,,O,Miraflores,Lima,NA,,2208.33,Barco
+V2688,Alemania,,,Chan Chan,La Libertad,NA,6,,Bus
+V2689,Colombia,42,,Cusco Ciudad,Cusco,2024-05-01,,1928.51,Avión
+V2690,España,43,M,Iquitos,Loreto,2025-05-12,,4382.86,Bus
+V2691,México,,O,Machu Picchu,Cusco,NA,,1528.1,
+V2692,Bolivia,,F,Chan Chan,La Libertad,2025-06-02,,1517.16,Auto
+V2693,México,,O,Chan Chan,La Libertad,NA,3,3928.55,Barco
+V2694,Bolivia,,,Huacachina,Ica,,5,2864.16,Bus
+V2695,Perú,,M,Lago Titicaca,Puno,NA,,1382.7,
+V2696,Perú,,,Iquitos,Loreto,,11,,Barco
+V2697,México,63,,Lago Titicaca,Puno,NA,,,Auto
+V2698,Perú,,M,Machu Picchu,Cusco,NA,,,Auto
+V2699,Colombia,,F,Miraflores,Lima,2024-11-14,5,1838.26,NA
+V2700,Argentina,,M,Chan Chan,La Libertad,,1,4981.31,Bus
+V2701,Perú,,,Chan Chan,La Libertad,NA,,3283.55,Auto
+V2702,Brasil,,,Huacachina,Ica,,2,953.64,NA
+V2703,Ecuador,17,M,Centro Histórico,Lima,2024-04-04,,217.61,Auto
+V2704,Argentina,,M,Cusco Ciudad,Cusco,,,2411.55,NA
+V2705,Chile,54,,Centro Histórico,Lima,,7,257.87,Tren
+V2706,Chile,,F,Huacachina,Ica,NA,9,,Avión
+V2707,Francia,,M,Lago Titicaca,Puno,,,3377.61,NA
+V2708,Ecuador,,,Lago Titicaca,Puno,2024-02-27,,3654.52,Bus
+V2709,Perú,,,Iquitos,Loreto,2024-09-10,8,,Barco
+V2710,Perú,57,M,Valle del Colca,Arequipa,,,3529.91,Barco
+V2711,Argentina,,,Valle del Colca,Arequipa,2024-02-11,,1333.74,Barco
+V2712,Alemania,48,O,Valle del Colca,Arequipa,,14,3091.82,Tren
+V2713,Perú,,,Miraflores,Lima,2024-02-22,7,3456.48,Tren
+V2714,Alemania,,M,Iquitos,Loreto,2025-01-13,,3825.4,
+V2715,USA,22,O,Huacachina,Ica,NA,14,4503.97,
+V2716,Perú,68,M,Huacachina,Ica,2024-11-01,14,,Tren
+V2717,México,43,F,Valle del Colca,Arequipa,,,,
+V2718,Ecuador,,,Huacachina,Ica,,,4223.28,
+V2719,México,,,Machu Picchu,Cusco,NA,,,Bus
+V2720,Perú,,,Cusco Ciudad,Cusco,NA,,,Tren
+V2721,México,,,Lago Titicaca,Puno,2024-07-29,9,2774.08,NA
+V2722,Perú,,O,Huacachina,Ica,,1,1308.83,Auto
+V2723,Argentina,,O,Iquitos,Loreto,2025-06-10,,,Bus
+V2724,Perú,,,Valle del Colca,Arequipa,,8,4562.04,
+V2725,Argentina,66,M,Valle del Colca,Arequipa,,3,,Avión
+V2726,Argentina,,,Valle del Colca,Arequipa,2025-01-30,,,Barco
+V2727,Perú,,O,Machu Picchu,Cusco,NA,13,,Tren
+V2728,Argentina,,M,Chan Chan,La Libertad,NA,,2055.02,Bus
+V2729,Chile,26,,Valle del Colca,Arequipa,,12,,Barco
+V2730,Perú,,,Lago Titicaca,Puno,,,,Barco
+V2731,México,26,M,Miraflores,Lima,,,4116.45,Avión
+V2732,Argentina,26,O,Valle del Colca,Arequipa,2024-05-11,10,2440.81,
+V2733,México,66,O,Centro Histórico,Lima,2024-07-08,,,Auto
+V2734,Perú,,F,Iquitos,Loreto,2025-09-28,,468.38,Auto
+V2735,México,54,,Cusco Ciudad,Cusco,,,,NA
+V2736,Perú,,,Huacachina,Ica,,7,,
+V2737,Colombia,,,Machu Picchu,Cusco,,,3551.09,Avión
+V2738,Perú,,M,Lago Titicaca,Puno,NA,,2375.38,NA
+V2739,Bolivia,,,Machu Picchu,Cusco,2024-06-16,12,1642.76,
+V2740,Perú,,M,Centro Histórico,Lima,NA,,,
+V2741,México,,O,Iquitos,Loreto,NA,,1770.05,Tren
+V2742,Colombia,,O,Valle del Colca,Arequipa,,8,,Bus
+V2743,Colombia,,,Lago Titicaca,Puno,NA,3,,Barco
+V2744,Alemania,35,,Valle del Colca,Arequipa,NA,,2207.79,Auto
+V2745,Colombia,,F,Lago Titicaca,Puno,2025-01-23,1,,NA
+V2746,Argentina,,F,Machu Picchu,Cusco,2024-02-13,13,4019.02,Bus
+V2747,Perú,63,,Valle del Colca,Arequipa,,,3822.82,Bus
+V2748,Perú,,,Chan Chan,La Libertad,,11,,
+V2749,México,,F,Iquitos,Loreto,NA,,1362.81,
+V2750,México,,,Machu Picchu,Cusco,NA,12,363.24,Avión
+V2751,Perú,,F,Valle del Colca,Arequipa,,11,4106.46,Barco
+V2752,Perú,,,Cusco Ciudad,Cusco,,,3956.3,Bus
+V2753,Brasil,39,M,Cusco Ciudad,Cusco,,,,
+V2754,Colombia,,,Huacachina,Ica,2025-09-01,7,,Barco
+V2755,Brasil,,,Lago Titicaca,Puno,,,,
+V2756,Perú,,,Chan Chan,La Libertad,,12,2207.48,Bus
+V2757,Perú,38,O,Chan Chan,La Libertad,2024-04-01,9,,Bus
+V2758,Perú,,F,Cusco Ciudad,Cusco,,8,4098.87,Auto
+V2759,Argentina,,O,Lago Titicaca,Puno,NA,,2706.68,Auto
+V2760,Colombia,,O,Iquitos,Loreto,2024-05-02,11,3252.64,Avión
+V2761,Argentina,16,F,Iquitos,Loreto,,,,Auto
+V2762,México,,O,Cusco Ciudad,Cusco,,2,3597.19,Avión
+V2763,USA,20,F,Chan Chan,La Libertad,2025-02-24,,2759.8,
+V2764,México,55,O,Chan Chan,La Libertad,2024-07-19,8,1179.27,Barco
+V2765,Colombia,59,O,Miraflores,Lima,2024-12-10,,4168.53,
+V2766,Perú,,O,Huacachina,Ica,,,,Barco
+V2767,México,21,O,Lago Titicaca,Puno,NA,,593.67,Avión
+V2768,Perú,67,O,Cusco Ciudad,Cusco,,,906.16,Auto
+V2769,Colombia,34,O,Valle del Colca,Arequipa,,,,Auto
+V2770,USA,,,Centro Histórico,Lima,NA,12,2014.19,Bus
+V2771,Perú,,,Chan Chan,La Libertad,2024-03-01,,,Tren
+V2772,Perú,,M,Chan Chan,La Libertad,2025-01-29,,,Bus
+V2773,Perú,70,,Lago Titicaca,Puno,NA,,299.77,NA
+V2774,Chile,,,Chan Chan,La Libertad,,14,,Bus
+V2775,Perú,,,Machu Picchu,Cusco,NA,,,Auto
+V2776,Perú,,,Huacachina,Ica,2025-08-17,13,4464.22,Avión
+V2777,Ecuador,,,Iquitos,Loreto,,,3884.19,NA
+V2778,Chile,,,Valle del Colca,Arequipa,2024-04-07,,,Avión
+V2779,Perú,,,Iquitos,Loreto,NA,,1933.32,Auto
+V2780,México,24,M,Centro Histórico,Lima,NA,,,Avión
+V2781,Perú,,,Lago Titicaca,Puno,,4,3704.48,Avión
+V2782,Perú,20,M,Chan Chan,La Libertad,NA,11,272.0,NA
+V2783,USA,,F,Huacachina,Ica,2024-11-19,7,799.44,NA
+V2784,México,,O,Iquitos,Loreto,,,2518.68,
+V2785,México,,,Chan Chan,La Libertad,2025-09-12,11,,NA
+V2786,Chile,,F,Huacachina,Ica,NA,,,Avión
+V2787,Brasil,37,O,Machu Picchu,Cusco,,,2368.47,Auto
+V2788,Perú,28,,Centro Histórico,Lima,2025-01-03,,,
+V2789,Colombia,,O,Chan Chan,La Libertad,,4,2058.03,Avión
+V2790,Chile,,M,Iquitos,Loreto,,14,,Tren
+V2791,Perú,,O,Centro Histórico,Lima,NA,4,4170.9,
+V2792,Argentina,34,,Chan Chan,La Libertad,,,3821.36,Auto
+V2793,México,50,F,Lago Titicaca,Puno,NA,,,Auto
+V2794,Perú,,F,Lago Titicaca,Puno,,,,NA
+V2795,México,,M,Miraflores,Lima,NA,2,,Avión
+V2796,España,,F,Huacachina,Ica,2025-03-11,,4634.46,Bus
+V2797,Colombia,,F,Chan Chan,La Libertad,,8,2620.76,NA
+V2798,México,,O,Valle del Colca,Arequipa,,6,4810.1,NA
+V2799,Francia,,,Huacachina,Ica,,,,Barco
+V2800,Brasil,36,M,Huacachina,Ica,,,695.37,Bus
+V2801,México,,M,Lago Titicaca,Puno,,,,Avión
+V2802,Perú,,,Chan Chan,La Libertad,,3,,Avión
+V2803,Perú,75,O,Lago Titicaca,Puno,2025-04-21,,,Avión
+V2804,Argentina,,M,Centro Histórico,Lima,NA,12,,NA
+V2805,Chile,,M,Iquitos,Loreto,2025-03-14,4,3450.25,Bus
+V2806,México,,,Iquitos,Loreto,2024-09-13,,,Avión
+V2807,México,,,Iquitos,Loreto,,13,3910.65,
+V2808,Colombia,,M,Chan Chan,La Libertad,NA,11,4335.38,Auto
+V2809,Colombia,,,Iquitos,Loreto,2024-04-12,,3103.67,Tren
+V2810,Perú,,,Lago Titicaca,Puno,2025-11-10,,,
+V2811,Colombia,34,,Valle del Colca,Arequipa,,,,
+V2812,Perú,45,,Iquitos,Loreto,2025-09-15,,,
+V2813,Argentina,,M,Chan Chan,La Libertad,,,,Auto
+V2814,Perú,,F,Huacachina,Ica,NA,11,2901.38,Tren
+V2815,Chile,74,,Iquitos,Loreto,2024-12-26,9,4986.55,
+V2816,USA,,O,Cusco Ciudad,Cusco,,12,1408.35,Barco
+V2817,Perú,,,Chan Chan,La Libertad,2025-02-25,1,,Tren
+V2818,Perú,64,,Lago Titicaca,Puno,,6,,Barco
+V2819,Argentina,,,Machu Picchu,Cusco,NA,8,,
+V2820,Chile,,M,Lago Titicaca,Puno,NA,,,Bus
+V2821,Chile,,M,Chan Chan,La Libertad,NA,2,1510.91,Barco
+V2822,Colombia,,,Chan Chan,La Libertad,,,,Barco
+V2823,Perú,74,F,Iquitos,Loreto,2024-04-03,,,NA
+V2824,Perú,20,,Centro Histórico,Lima,NA,7,4170.78,Barco
+V2825,México,,,Cusco Ciudad,Cusco,NA,8,,Avión
+V2826,Perú,,,Centro Histórico,Lima,NA,1,3713.21,Avión
+V2827,Brasil,,,Machu Picchu,Cusco,2025-12-02,,,Bus
+V2828,Perú,59,F,Miraflores,Lima,NA,13,,NA
+V2829,Brasil,,M,Machu Picchu,Cusco,,7,4903.31,Bus
+V2830,México,,,Chan Chan,La Libertad,2025-08-16,14,,Barco
+V2831,México,,,Centro Histórico,Lima,2024-12-17,9,,Bus
+V2832,México,15,O,Iquitos,Loreto,NA,,3513.54,Auto
+V2833,Colombia,,O,Miraflores,Lima,2025-09-29,,1735.62,Barco
+V2834,España,,F,Valle del Colca,Arequipa,NA,,,Avión
+V2835,Perú,,,Centro Histórico,Lima,2025-06-15,7,,Avión
+V2836,Perú,32,M,Valle del Colca,Arequipa,,,3907.35,Avión
+V2837,México,50,F,Lago Titicaca,Puno,NA,,4751.45,
+V2838,México,,O,Valle del Colca,Arequipa,2025-11-24,9,,Bus
+V2839,México,28,,Chan Chan,La Libertad,NA,14,,Tren
+V2840,Perú,,F,Cusco Ciudad,Cusco,,8,4694.02,
+V2841,Perú,,,Valle del Colca,Arequipa,2025-08-08,12,,Tren
+V2842,Colombia,,O,Valle del Colca,Arequipa,,11,,Barco
+V2843,Colombia,,,Valle del Colca,Arequipa,,9,3911.11,
+V2844,Colombia,,M,Huacachina,Ica,NA,,,Avión
+V2845,México,,F,Miraflores,Lima,2024-03-16,,3343.07,Auto
+V2846,Perú,61,O,Huacachina,Ica,NA,,3694.88,Bus
+V2847,Colombia,,M,Chan Chan,La Libertad,,2,,
+V2848,USA,,O,Iquitos,Loreto,,,2585.94,Barco
+V2849,México,,M,Iquitos,Loreto,2024-08-13,11,4706.95,
+V2850,Argentina,33,O,Iquitos,Loreto,NA,6,,
+V2851,Ecuador,,F,Valle del Colca,Arequipa,,,,Auto
+V2852,Perú,,,Valle del Colca,Arequipa,2024-01-17,8,,Tren
+V2853,USA,,M,Chan Chan,La Libertad,NA,,1376.11,Barco
+V2854,Ecuador,41,,Cusco Ciudad,Cusco,2025-05-16,,2429.65,Avión
+V2855,México,,,Chan Chan,La Libertad,NA,9,3162.18,Tren
+V2856,Alemania,,,Iquitos,Loreto,2024-03-12,14,1778.35,NA
+V2857,Colombia,,F,Cusco Ciudad,Cusco,,10,,Auto
+V2858,Ecuador,,O,Lago Titicaca,Puno,2025-07-31,,3531.88,NA
+V2859,Perú,46,,Chan Chan,La Libertad,2025-02-17,14,,Avión
+V2860,Colombia,38,F,Iquitos,Loreto,,,,Barco
+V2861,Chile,,,Cusco Ciudad,Cusco,,,,
+V2862,Argentina,,F,Huacachina,Ica,NA,,2189.05,Bus
+V2863,México,,M,Chan Chan,La Libertad,2024-02-24,2,2692.13,Tren
+V2864,Chile,,,Chan Chan,La Libertad,NA,1,,Barco
+V2865,Perú,44,O,Cusco Ciudad,Cusco,2025-06-22,,4414.87,Bus
+V2866,Brasil,,M,Machu Picchu,Cusco,NA,,3283.64,Avión
+V2867,Brasil,,,Chan Chan,La Libertad,NA,,4190.76,
+V2868,México,,M,Lago Titicaca,Puno,,,,Bus
+V2869,México,,F,Machu Picchu,Cusco,NA,,,
+V2870,México,67,O,Huacachina,Ica,NA,7,3066.34,Bus
+V2871,Bolivia,,,Centro Histórico,Lima,NA,7,2056.56,
+V2872,Chile,,,Huacachina,Ica,,4,,Auto
+V2873,Perú,,F,Miraflores,Lima,2025-10-06,12,4975.68,NA
+V2874,Argentina,,O,Cusco Ciudad,Cusco,2024-11-28,2,3520.75,Bus
+V2875,España,,O,Huacachina,Ica,,14,2174.15,Tren
+V2876,Francia,,O,Centro Histórico,Lima,2024-03-18,,4788.25,Auto
+V2877,Ecuador,,M,Machu Picchu,Cusco,,7,813.78,Bus
+V2878,Perú,,,Iquitos,Loreto,,,3825.77,
+V2879,Argentina,73,O,Huacachina,Ica,,,2390.78,Auto
+V2880,Argentina,36,M,Iquitos,Loreto,NA,8,,Bus
+V2881,Perú,,,Valle del Colca,Arequipa,2025-02-24,,2876.41,
+V2882,Argentina,,M,Centro Histórico,Lima,2024-06-13,,1303.72,Bus
+V2883,USA,,F,Machu Picchu,Cusco,,5,,Auto
+V2884,Ecuador,,,Valle del Colca,Arequipa,2024-12-06,4,,NA
+V2885,Chile,,M,Lago Titicaca,Puno,NA,,1947.9,Barco
+V2886,Argentina,20,,Chan Chan,La Libertad,2024-01-10,,498.95,Avión
+V2887,Francia,,M,Iquitos,Loreto,NA,6,2092.16,Tren
+V2888,Perú,,,Centro Histórico,Lima,NA,13,3468.61,Tren
+V2889,Perú,,M,Lago Titicaca,Puno,2024-12-06,,,Barco
+V2890,Perú,,O,Miraflores,Lima,,,3275.94,Bus
+V2891,Colombia,,,Valle del Colca,Arequipa,2024-06-29,14,1771.18,Barco
+V2892,Perú,,F,Lago Titicaca,Puno,NA,7,480.41,Barco
+V2893,Ecuador,,M,Chan Chan,La Libertad,,,,Barco
+V2894,Colombia,,,Valle del Colca,Arequipa,,,,Avión
+V2895,Brasil,69,M,Iquitos,Loreto,2025-04-12,2,,Bus
+V2896,Perú,,O,Huacachina,Ica,NA,,2909.02,Avión
+V2897,Brasil,75,,Iquitos,Loreto,,,,
+V2898,Perú,,,Iquitos,Loreto,NA,,,Bus
+V2899,USA,,M,Valle del Colca,Arequipa,,13,,NA
+V2900,Bolivia,,O,Chan Chan,La Libertad,,11,350.2,Bus
+V2901,Perú,73,,Lago Titicaca,Puno,2025-08-01,,,Auto
+V2902,Perú,,F,Valle del Colca,Arequipa,,,,Bus
+V2903,Colombia,,M,Valle del Colca,Arequipa,NA,4,4150.83,Barco
+V2904,México,,O,Iquitos,Loreto,,,1438.77,
+V2904,México,,O,Iquitos,Loreto,,,1438.77,
+V2905,México,,,Cusco Ciudad,Cusco,2025-01-23,1,3054.98,Avión
+V2906,México,,M,Huacachina,Ica,,,2967.77,
+V2907,México,,M,Chan Chan,La Libertad,NA,6,1285.53,NA
+V2908,Bolivia,27,,Iquitos,Loreto,2024-10-15,9,,Bus
+V2909,México,,M,Miraflores,Lima,,11,2312.8,Tren
+V2910,Perú,61,,Lago Titicaca,Puno,NA,11,,Bus
+V2911,USA,64,M,Chan Chan,La Libertad,NA,,,Bus
+V2912,México,,,Chan Chan,La Libertad,2025-02-02,,,Avión
+V2913,USA,,,Huacachina,Ica,,1,1921.72,Tren
+V2914,México,,M,Machu Picchu,Cusco,NA,2,2401.72,Avión
+V2915,México,,O,Huacachina,Ica,,2,,Tren
+V2916,Argentina,52,,Huacachina,Ica,2025-03-07,3,,Avión
+V2917,Perú,75,M,Iquitos,Loreto,NA,7,,
+V2918,Bolivia,52,F,Valle del Colca,Arequipa,,,3024.54,
+V2919,Perú,,O,Valle del Colca,Arequipa,2024-12-20,3,3071.39,Avión
+V2920,Argentina,,F,Machu Picchu,Cusco,NA,,,Tren
+V2921,Brasil,60,,Chan Chan,La Libertad,,,1802.38,Bus
+V2922,Perú,,F,Valle del Colca,Arequipa,NA,8,,
+V2923,Perú,50,F,Lago Titicaca,Puno,,10,,Barco
+V2924,Ecuador,,O,Miraflores,Lima,NA,6,1051.41,Auto
+V2925,México,,F,Iquitos,Loreto,2024-05-04,,1839.08,Auto
+V2926,México,,,Centro Histórico,Lima,,11,3440.61,
+V2927,Colombia,,,Centro Histórico,Lima,,,,Bus
+V2928,México,,O,Iquitos,Loreto,NA,,,Auto
+V2929,Brasil,38,,Chan Chan,La Libertad,NA,10,3103.9,NA
+V2930,Perú,,O,Huacachina,Ica,,6,,Barco
+V2931,Perú,47,,Chan Chan,La Libertad,NA,2,3435.18,Barco
+V2932,México,,,Valle del Colca,Arequipa,NA,,1431.41,Tren
+V2933,Argentina,60,O,Machu Picchu,Cusco,NA,,,Avión
+V2934,Perú,,F,Chan Chan,La Libertad,,12,,Avión
+V2935,Perú,,O,Huacachina,Ica,NA,9,,Tren
+V2936,Perú,,,Cusco Ciudad,Cusco,2025-07-17,,1894.19,Avión
+V2937,Colombia,,F,Centro Histórico,Lima,NA,,,NA
+V2938,Colombia,,,Chan Chan,La Libertad,,,,Bus
+V2938,Colombia,,,Chan Chan,La Libertad,,,,Bus
+V2939,USA,59,M,Iquitos,Loreto,2025-08-22,,,NA
+V2940,Ecuador,,M,Cusco Ciudad,Cusco,2024-09-09,,1232.02,NA
+V2941,Argentina,62,F,Valle del Colca,Arequipa,NA,10,,Auto
+V2942,Brasil,,M,Machu Picchu,Cusco,,,,Barco
+V2943,Chile,,M,Huacachina,Ica,NA,,1718.51,Bus
+V2944,Perú,28,O,Machu Picchu,Cusco,NA,,969.31,Barco
+V2945,Argentina,,F,Machu Picchu,Cusco,2024-06-26,,,NA
+V2946,Ecuador,,O,Machu Picchu,Cusco,2025-02-02,,,Bus
+V2947,Perú,,O,Valle del Colca,Arequipa,,6,4533.58,Barco
+V2948,Colombia,45,O,Iquitos,Loreto,NA,9,,
+V2949,Brasil,,M,Machu Picchu,Cusco,2024-02-19,,4690.58,Avión
+V2950,Argentina,,F,Machu Picchu,Cusco,,5,3254.31,Tren
+V2951,Perú,40,,Machu Picchu,Cusco,NA,12,4965.87,Avión
+V2952,Perú,,,Lago Titicaca,Puno,NA,1,633.3,Bus
+V2953,Bolivia,,,Valle del Colca,Arequipa,NA,11,2114.85,Bus
+V2954,USA,65,,Iquitos,Loreto,2024-09-18,2,,Bus
+V2955,Perú,,F,Iquitos,Loreto,,,,Barco
+V2956,Chile,,O,Centro Histórico,Lima,2024-12-19,,1367.22,Tren
+V2957,Argentina,,F,Huacachina,Ica,2024-01-04,2,,Bus
+V2958,Ecuador,,,Huacachina,Ica,NA,10,751.05,Avión
+V2959,México,,O,Centro Histórico,Lima,NA,,,Bus
+V2960,Perú,,M,Valle del Colca,Arequipa,NA,8,,Auto
+V2961,Perú,,,Huacachina,Ica,NA,,4585.67,Avión
+V2962,Perú,,,Machu Picchu,Cusco,2024-03-27,12,1945.66,Avión
+V2963,USA,39,M,Iquitos,Loreto,2024-11-22,10,,Barco
+V2964,Perú,,O,Lago Titicaca,Puno,NA,12,,Avión
+V2965,USA,,F,Lago Titicaca,Puno,,13,4987.05,
+V2966,Perú,15,,Iquitos,Loreto,,,2985.91,Avión
+V2967,Argentina,,F,Valle del Colca,Arequipa,,9,3068.62,Barco
+V2968,USA,,,Lago Titicaca,Puno,,1,,Auto
+V2969,Argentina,62,,Iquitos,Loreto,2024-05-19,,,NA
+V2970,Colombia,,,Miraflores,Lima,,,2796.3,Auto
+V2971,Argentina,,M,Iquitos,Loreto,,2,,Tren
+V2972,Bolivia,,,Lago Titicaca,Puno,NA,11,2749.22,Bus
+V2973,Perú,,,Iquitos,Loreto,,12,,Tren
+V2974,Perú,42,M,Valle del Colca,Arequipa,NA,2,,Bus
+V2975,México,,F,Iquitos,Loreto,2025-11-13,11,664.47,NA
+V2976,Ecuador,63,M,Lago Titicaca,Puno,2025-03-15,,221.88,NA
+V2977,Brasil,,M,Machu Picchu,Cusco,,,496.91,Barco
+V2978,Argentina,,,Chan Chan,La Libertad,,12,,Barco
+V2979,Bolivia,33,M,Machu Picchu,Cusco,,8,2076.68,Avión
+V2980,Perú,,,Iquitos,Loreto,2025-05-08,,3476.84,Avión
+V2981,Chile,,F,Valle del Colca,Arequipa,NA,13,2004.55,Bus
+V2982,Perú,,,Valle del Colca,Arequipa,2024-05-16,,,Avión
+V2983,USA,43,,Chan Chan,La Libertad,,,3846.41,Auto
+V2984,Brasil,,,Centro Histórico,Lima,NA,12,279.45,NA
+V2985,Argentina,72,O,Cusco Ciudad,Cusco,NA,2,2600.94,NA
+V2986,Argentina,,,Miraflores,Lima,,3,,Auto
+V2987,Chile,,,Iquitos,Loreto,,,,Barco
+V2988,Colombia,,M,Lago Titicaca,Puno,2024-07-23,,,Avión
+V2989,Colombia,,,Miraflores,Lima,,9,3393.24,Bus
+V2990,Perú,28,M,Lago Titicaca,Puno,,14,,Auto
+V2991,Brasil,,M,Chan Chan,La Libertad,NA,5,,Tren
+V2992,Brasil,,F,Centro Histórico,Lima,2025-07-27,,2953.77,Tren
+V2993,Perú,52,M,Chan Chan,La Libertad,2025-06-10,2,,Auto
+V2994,USA,33,M,Machu Picchu,Cusco,2024-10-17,,,Bus
+V2995,Perú,,,Chan Chan,La Libertad,2025-09-05,,,Auto
+V2996,Argentina,,O,Lago Titicaca,Puno,2024-09-22,,3376.48,NA
+V2997,USA,52,O,Valle del Colca,Arequipa,,,3721.89,Barco
+V2998,Perú,,O,Chan Chan,La Libertad,,,2108.31,Avión
+V2999,Perú,,,Miraflores,Lima,,,611.99,Auto
+V3000,Argentina,,,Centro Histórico,Lima,2024-11-25,,2186.18,Bus
